@@ -1,5 +1,7 @@
 package br.valter.leonardo.resource.services;
 
+import java.util.List;
+
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
 import javax.persistence.EntityManager;
@@ -24,8 +26,24 @@ public class CepService {
 	}
 	
 	public Cep search(Long id) {
-		return (Cep) em.createNativeQuery(" SELECT * FROM CEP WHERE ID = ? ", Cep.class)
-				.setParameter(1, id)
-				.getSingleResult();
+		try {
+			return (Cep) em.createNativeQuery(" SELECT * FROM CEP WHERE ID = ? ", Cep.class)
+					.setParameter(1, id)
+					.getSingleResult();			
+		} catch (Exception e) {
+			return null;
+		}
+		
+	}
+
+	@SuppressWarnings("unchecked")
+	public List<Cep> searchAll() {
+		try {
+			List<Cep> resultList = (List<Cep>) em.createNativeQuery(" SELECT * FROM CEP", Cep.class)
+					.getResultList();
+			return resultList;			
+		} catch (Exception e) {
+			return null;
+		}
 	}
 }

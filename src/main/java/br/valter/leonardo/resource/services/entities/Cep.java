@@ -8,6 +8,8 @@ import javax.persistence.Id;
 @Entity
 public class Cep {
 	
+	@Id
+	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_cep")
 	private Long id;
 	private String uf;
 	private String cidade;
@@ -25,8 +27,7 @@ public class Cep {
 	public Cep() {
 		
 	}
-	
-	@Id @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_cep")
+		
 	public Long getId() {
 		return id;
 	}
