@@ -1,0 +1,3245 @@
+CEP;UF;CIDADE;BAIRRO;LOGRADOURO
+69900001;AC;Rio Branco;Base;Beco Estado do Acre
+69900004;AC;Rio Branco;Base;Rua Barbosa Lima
+69900007;AC;Rio Branco;Base;Travessa Feijó
+69900010;AC;Rio Branco;Base;Rua Estado do Acre
+69900013;AC;Rio Branco;Base;Travessa Cruzeiro do Sul
+69900016;AC;Rio Branco;Base;Rua Sena Madureira
+69900019;AC;Rio Branco;Base;Rua Xapuri
+69900022;AC;Rio Branco;Base;Beco do Mercado
+69900025;AC;Rio Branco;Base;Rua Floriano Peixoto
+69900028;AC;Rio Branco;Base;Avenida Epaminondas Jácome
+69900031;AC;Rio Branco;Base;Travessa Brasiléia
+69900034;AC;Rio Branco;Base;Avenida Epaminondas Jácome
+69900037;AC;Rio Branco;Base;Rua Plínio Brandão
+69900040;AC;Rio Branco;Base;Travessa Tarauacá
+69900043;AC;Rio Branco;Base;Rua Benjamim Constant
+69900046;AC;Rio Branco;Base;Rua Floriano Peixoto
+69900050;AC;Rio Branco;Centro;Avenida Epaminondas Jácome
+69900052;AC;Rio Branco;Centro;Beco Arlindo
+69900054;AC;Rio Branco;Centro;Praça dos Catraeiros
+69900056;AC;Rio Branco;Centro;Avenida Epaminondas Jácome
+69900058;AC;Rio Branco;Centro;Rua Arlindo Porto Leal
+69900060;AC;Rio Branco;Centro;Avenida Getúlio Vargas
+69900062;AC;Rio Branco;Centro;Rua Benjamim Constant
+69900064;AC;Rio Branco;Centro;Rua Benjamim Constant
+69900066;AC;Rio Branco;Centro;Rua Marechal Deodoro
+69900068;AC;Rio Branco;Centro;Rua Marechal Deodoro
+69900070;AC;Rio Branco;Centro;Rua Quintino Bocaiúva
+69900072;AC;Rio Branco;Centro;Rua Sergipe
+69900074;AC;Rio Branco;Centro;Travessa Sergipe
+69900076;AC;Rio Branco;Centro;Avenida Brasil
+69900078;AC;Rio Branco;Centro;Avenida Brasil
+69900080;AC;Rio Branco;Centro;Rua Plácido de Castro
+69900082;AC;Rio Branco;Centro;Rua Doutor Franco Ribeiro
+69900084;AC;Rio Branco;Centro;Rua Rui Barbosa
+69900086;AC;Rio Branco;Centro;Rua Fausto Robalo
+69900088;AC;Rio Branco;Centro;Avenida Ceará
+69900090;AC;Rio Branco;Centro;Rua Floriano Peixoto
+69900092;AC;Rio Branco;Centro;Rua Rio Grande do Sul
+69900094;AC;Rio Branco;Centro;Travessa da Catedral
+69900096;AC;Rio Branco;Centro;Travessa da Igreja
+69900098;AC;Rio Branco;Centro;Rua Graciliano Ramos
+69900100;AC;Rio Branco;Papouco;Rua Floriano Peixoto
+69900104;AC;Rio Branco;Papouco;Rua Marechal Rondon
+69900108;AC;Rio Branco;Papouco;Rua Piauí
+69900120;AC;Rio Branco;Preventório;Rua Rio Grande do Sul
+69900123;AC;Rio Branco;Preventório;Rua 25 de Agosto
+69900126;AC;Rio Branco;Preventório;Rua Goiás
+69900129;AC;Rio Branco;Preventório;Rua Minas Gerais
+69900132;AC;Rio Branco;Preventório;Rua Minas Gerais
+69900135;AC;Rio Branco;Preventório;Travessa Érico Veríssimo
+69900138;AC;Rio Branco;Preventório;Rua São Francisco de Assis
+69900141;AC;Rio Branco;Preventório;Rua Santo Expedito
+69900144;AC;Rio Branco;Preventório;Rua Chagas Leitoso
+69900147;AC;Rio Branco;Preventório;Rua dos Santos
+69900150;AC;Rio Branco;Preventório;Rua Rio Grande do Sul
+69900153;AC;Rio Branco;Preventório;Rua São Geraldo
+69900156;AC;Rio Branco;Preventório;Beco da Ligação I
+69900159;AC;Rio Branco;Preventório;Rua Gabino Besouro
+69900162;AC;Rio Branco;Preventório;Beco da Ligação II
+69900165;AC;Rio Branco;Preventório;Beco da Ligação III
+69900168;AC;Rio Branco;Preventório;Beco da Ligação IV
+69900171;AC;Rio Branco;Preventório;Beco da Ligação V
+69900174;AC;Rio Branco;Preventório;Rua Horácio Bandeira
+69900177;AC;Rio Branco;Preventório;Rua Leblon
+69900180;AC;Rio Branco;Preventório;Rua Minas Gerais
+69900183;AC;Rio Branco;Preventório;Travessa Rosa Menezes
+69900186;AC;Rio Branco;Preventório;Rua Minas Gerais
+69900190;AC;Rio Branco;Ivete Vargas;Rua Leblon
+69900193;AC;Rio Branco;Ivete Vargas;Rua Carneiro Leão
+69900196;AC;Rio Branco;Ivete Vargas;Rua Itamaracá
+69900199;AC;Rio Branco;Ivete Vargas;Travessa Leblon
+69900202;AC;Rio Branco;Ivete Vargas;Rua João Reis
+69900205;AC;Rio Branco;Ivete Vargas;Rua 13 de Maio
+69900208;AC;Rio Branco;Ivete Vargas;Rua Armando Gama
+69900211;AC;Rio Branco;Ivete Vargas;Rua Projetada 452
+69900214;AC;Rio Branco;Ivete Vargas;Rua Rio de Janeiro
+69900217;AC;Rio Branco;Ivete Vargas;Rua Almiro Daniel
+69900220;AC;Rio Branco;Ivete Vargas;Rua 25 de Março
+69900223;AC;Rio Branco;Ivete Vargas;Rua Fé de Deus
+69900226;AC;Rio Branco;Ivete Vargas;Rua Hadjam
+69900229;AC;Rio Branco;Ivete Vargas;Travessa Central
+69900232;AC;Rio Branco;Ivete Vargas;Rua Boa Vista
+69900235;AC;Rio Branco;Ivete Vargas;Avenida Central
+69900238;AC;Rio Branco;Ivete Vargas;Travessa Princesa Isabel
+69900241;AC;Rio Branco;Ivete Vargas;Rua São José
+69900244;AC;Rio Branco;Ivete Vargas;Rua Belo Horizonte
+69900247;AC;Rio Branco;Ivete Vargas;Rua Projetada 327
+69900250;AC;Rio Branco;Ivete Vargas;Rua Osvaldo Cruz
+69900253;AC;Rio Branco;Ivete Vargas;Beco Central
+69900256;AC;Rio Branco;Ivete Vargas;Beco São José
+69900259;AC;Rio Branco;Ivete Vargas;Rua Rio de Janeiro
+69900262;AC;Rio Branco;Ivete Vargas;Rua Princesa
+69900270;AC;Rio Branco;Dom Giocondo;Rua Rio de Janeiro
+69900273;AC;Rio Branco;Dom Giocondo;Rua Rio de Janeiro
+69900276;AC;Rio Branco;Dom Giocondo;Rua São Paulo
+69900279;AC;Rio Branco;Dom Giocondo;Rua Major Ladislau Ferreira
+69900282;AC;Rio Branco;Dom Giocondo;Rua Manoel Rodrigues de Souza
+69900285;AC;Rio Branco;Dom Giocondo;Travessa Dom Giocondo
+69900288;AC;Rio Branco;Dom Giocondo;Travessa dos Tratoristas
+69900291;AC;Rio Branco;Dom Giocondo;Rua dos Professores
+69900294;AC;Rio Branco;Dom Giocondo;Travessa Bom Pastor
+69900297;AC;Rio Branco;Dom Giocondo;Rua Raimundo Gama
+69900300;AC;Rio Branco;Dom Giocondo;Avenida Ceará
+69900303;AC;Rio Branco;Dom Giocondo;Avenida Ceará
+69900306;AC;Rio Branco;Dom Giocondo;Rua Pernambuco
+69900309;AC;Rio Branco;Dom Giocondo;Rua Rio de Janeiro
+69900312;AC;Rio Branco;Dom Giocondo;Rua Rio de Janeiro
+69900315;AC;Rio Branco;Dom Giocondo;Rua Minas Gerais
+69900318;AC;Rio Branco;Dom Giocondo;Rua Minas Gerais
+69900321;AC;Rio Branco;Dom Giocondo;Rua Piauí
+69900324;AC;Rio Branco;Dom Giocondo;Rua Rio Grande do Sul
+69900327;AC;Rio Branco;Dom Giocondo;Rua Floriano Peixoto
+69900330;AC;Rio Branco;Ipase;Avenida Ceará
+69900333;AC;Rio Branco;Ipase;Rua Marechal Deodoro
+69900336;AC;Rio Branco;Ipase;Rua Thaumaturgo de Azevedo
+69900339;AC;Rio Branco;Ipase;Travessa Thaumaturgo de Azevedo
+69900342;AC;Rio Branco;Ipase;Rua Ipase
+69900345;AC;Rio Branco;Ipase;Rua João Donato
+69900348;AC;Rio Branco;Ipase;Travessa Campo do Rio Branco
+69900351;AC;Rio Branco;Ipase;Canal Canal da Maternidade
+69900354;AC;Rio Branco;Ipase;Rua Marechal Deodoro
+69900357;AC;Rio Branco;Ipase;Rua Antônio Monteiro
+69900360;AC;Rio Branco;Ipase;Rua Alexandre Farhat
+69900363;AC;Rio Branco;Ipase;Rua Silvestre Coelho
+69900370;AC;Rio Branco;Bosque;Avenida Getúlio Vargas
+69900373;AC;Rio Branco;Bosque;Avenida Getúlio Vargas
+69900376;AC;Rio Branco;Bosque;Travessa da Maternidade
+69900379;AC;Rio Branco;Bosque;Avenida Ceará
+69900382;AC;Rio Branco;Bosque;Beco do Brejão
+69900385;AC;Rio Branco;Bosque;Parque da Maternidade
+69900388;AC;Rio Branco;Bosque;Travessa Copacabana
+69900391;AC;Rio Branco;Bosque;Travessa São João
+69900394;AC;Rio Branco;Bosque;Travessa São João II
+69900397;AC;Rio Branco;Bosque;Travessa Municipalidade
+69900400;AC;Rio Branco;Bosque;Rua Alagoas
+69900403;AC;Rio Branco;Bosque;Rua José de Melo
+69900406;AC;Rio Branco;Bosque;Rua Epaminondas Martins
+69900409;AC;Rio Branco;Bosque;Travessa Hugo Carneiro
+69900412;AC;Rio Branco;Bosque;Travessa Alagoas I
+69900415;AC;Rio Branco;Bosque;Rua Antônio Camelo
+69900418;AC;Rio Branco;Bosque;Rua João Onofre
+69900421;AC;Rio Branco;Bosque;Rua Pernambuco
+69900424;AC;Rio Branco;Bosque;Travessa Francisco Furtado
+69900427;AC;Rio Branco;Bosque;Rua Alegre
+69900430;AC;Rio Branco;Bosque;Beco Neutel Maia
+69900433;AC;Rio Branco;Bosque;Rua Pernambuco
+69900436;AC;Rio Branco;Bosque;Rua Manoel Cassiano
+69900439;AC;Rio Branco;Bosque;Rua São Vicente
+69900442;AC;Rio Branco;Bosque;Rua Dom Pedro II
+69900445;AC;Rio Branco;Bosque;Rua São Paulo
+69900448;AC;Rio Branco;Bosque;Avenida Ceará
+69900451;AC;Rio Branco;Bosque;Rua Manoel Rodrigues de Souza
+69900454;AC;Rio Branco;Bosque;Beco Manoel Rodrigues de Souza
+69900457;AC;Rio Branco;Bosque;Rua Rondônia
+69900460;AC;Rio Branco;Bosque;Avenida Nações Unidas
+69900463;AC;Rio Branco;Bosque;Avenida Nações Unidas
+69900466;AC;Rio Branco;Bosque;Avenida Getúlio Vargas
+69900469;AC;Rio Branco;Bosque;Avenida Getúlio Vargas
+69900472;AC;Rio Branco;Bosque;Rua Isaura Parente
+69900475;AC;Rio Branco;Bosque;Rua Pernambuco
+69900478;AC;Rio Branco;Bosque;Avenida Nações Unidas
+69900481;AC;Rio Branco;Bosque;Rua Antunes de Alencar
+69900484;AC;Rio Branco;Bosque;Rua Maranhão I
+69900487;AC;Rio Branco;Bosque;Rua Manoel Barata
+69900490;AC;Rio Branco;Bosque;Rua Isaura Parente
+69900493;AC;Rio Branco;Bosque;Rua Isaura Parente
+69900496;AC;Rio Branco;Bosque;Rua Paraná
+69900499;AC;Rio Branco;Bosque;Travessa Espírito Santo
+69900502;AC;Rio Branco;Bosque;Rua Alan Kardec
+69900505;AC;Rio Branco;Bosque;Rua Paulo VI
+69900508;AC;Rio Branco;Bosque;Rua Rondônia
+69900511;AC;Rio Branco;Bosque;Rua Severiano
+69900514;AC;Rio Branco;Bosque;Rua Pádua
+69900517;AC;Rio Branco;Bosque;Rua Manoel Castor de Araújo
+69900520;AC;Rio Branco;Bosque;Avenida Nações Unidas
+69900523;AC;Rio Branco;Bosque;Rua Pernambuco
+69900526;AC;Rio Branco;Bosque;Avenida Antônio da Rocha Viana
+69900529;AC;Rio Branco;Bosque;Travessa Padre Manoel da Nóbrega
+69900532;AC;Rio Branco;Bosque;Rua Milton Matos I
+69900535;AC;Rio Branco;Bosque;Travessa Raimundo Café
+69900538;AC;Rio Branco;Bosque;Rua Maranhão 2
+69900541;AC;Rio Branco;Bosque;Rua Bartolomeu Bueno
+69900544;AC;Rio Branco;Bosque;Rua Padre Manoel da Nóbrega
+69900547;AC;Rio Branco;Bosque;Rua Barão do Rio Branco
+69900550;AC;Rio Branco;Bosque;Rua Hugo Carneiro
+69900553;AC;Rio Branco;Bosque;Rua Custódio Freire
+69900556;AC;Rio Branco;Bosque;Rua da Alegria
+69900559;AC;Rio Branco;Bosque;Rua Farroupilha
+69900562;AC;Rio Branco;Bosque;Rua São Januário
+69900565;AC;Rio Branco;Bosque;Rua Hugo Carneiro
+69900568;AC;Rio Branco;Bosque;Rua Henrique Dias
+69900571;AC;Rio Branco;Bosque;Travessa Henrique Dias
+69900574;AC;Rio Branco;Bosque;Travessa Maranhão 3
+69900577;AC;Rio Branco;Bosque;Rua Castro Alves
+69900580;AC;Rio Branco;Bosque;Rua João XXIII
+69900583;AC;Rio Branco;Bosque;Rua Saudade
+69900586;AC;Rio Branco;Bosque;Travessa do Morro
+69900589;AC;Rio Branco;Bosque;Avenida Getúlio Vargas
+69900592;AC;Rio Branco;Bosque;Travessa Reno
+69900595;AC;Rio Branco;Bosque;Travessa Danúbio
+69900598;AC;Rio Branco;Bosque;Travessa Lourenço Filho
+69900601;AC;Rio Branco;Bosque;Travessa Manoel de Abreu
+69900604;AC;Rio Branco;Bosque;Travessa do Hemoacre
+69900607;AC;Rio Branco;Bosque;Avenida Getúlio Vargas
+69900610;AC;Rio Branco;Bosque;Avenida Getúlio Vargas
+69900613;AC;Rio Branco;Bosque;Avenida Getúlio Vargas
+69900616;AC;Rio Branco;Bosque;Rua João XXIII
+69900619;AC;Rio Branco;Bosque;Rua Dom Giocondo Maria Grote
+69900622;AC;Rio Branco;Bosque;Rua Castro Alves
+69900625;AC;Rio Branco;Bosque;Rua Henrique Dias
+69900628;AC;Rio Branco;Bosque;Rua Goudwasser Santos
+69900631;AC;Rio Branco;Bosque;Rua Alvorada
+69900634;AC;Rio Branco;Bosque;Rua Milton Matos 2
+69900637;AC;Rio Branco;Bosque;Travessa Marinho Monte
+69900640;AC;Rio Branco;Bosque;Rua Coronel José Galdino
+69900643;AC;Rio Branco;Bosque;Rua Dom Bosco 1
+69900646;AC;Rio Branco;Bosque;Beco da Cageacre
+69900649;AC;Rio Branco;Bosque;Rua Coronel Brandão
+69900652;AC;Rio Branco;Bosque;Rua dos Militares
+69900655;AC;Rio Branco;Bosque;Travessa Militar
+69900658;AC;Rio Branco;Bosque;Rua Coronel Alexandrino
+69900661;AC;Rio Branco;Bosque;Rua Silvestre Coelho
+69900664;AC;Rio Branco;Bosque;Rua Alvorada
+69900667;AC;Rio Branco;Bosque;Travessa da Saudade
+69900670;AC;Rio Branco;Bosque;Rua Quintino Bocaiuva
+69900673;AC;Rio Branco;Bosque;Rua Bartolomeu Dias
+69900676;AC;Rio Branco;Bosque;Rua Dom Bosco 2
+69900679;AC;Rio Branco;Bosque;Rua Colômbia
+69900682;AC;Rio Branco;Bosque;Rua Valerio Magalhães
+69900685;AC;Rio Branco;Bosque;Rua Valerio Magalhães
+69900688;AC;Rio Branco;Bosque;Rua Francisco Mangabeira
+69900691;AC;Rio Branco;Bosque;Travessa Francisco Conde
+69900694;AC;Rio Branco;Bosque;Travessa 19 de Novembro
+69900697;AC;Rio Branco;Bosque;Rua Coronel Alexandrino
+69900700;AC;Rio Branco;Bosque;Travessa Capitão Ciríaco
+69900703;AC;Rio Branco;Bosque;Travessa Amélia Araripe
+69900706;AC;Rio Branco;Bosque;Beco Cantinho do Amor
+69900709;AC;Rio Branco;Bosque;Rua do Futuro
+69900712;AC;Rio Branco;Bosque;Estrada do Aviário
+69900715;AC;Rio Branco;Bosque;Avenida Nações Unidas
+69900718;AC;Rio Branco;Bosque;Rua Quintino Bocaiuva
+69900721;AC;Rio Branco;Bosque;Avenida Nações Unidas
+69900724;AC;Rio Branco;Bosque;Rua Guiomard Santos
+69900770;AC;Rio Branco;José Augusto;Travessa Alexandre Lopes
+69900773;AC;Rio Branco;José Augusto;Rua Silvestre Coelho
+69900776;AC;Rio Branco;José Augusto;Rua Major Salinas
+69900779;AC;Rio Branco;José Augusto;Rua Alexandre Farhat
+69900782;AC;Rio Branco;José Augusto;Travessa do Sol
+69900785;AC;Rio Branco;José Augusto;Rua Quintino Bocaiuva
+69900788;AC;Rio Branco;José Augusto;Rua Visconde de Mauá
+69900791;AC;Rio Branco;José Augusto;Rua Santo Antônio
+69900794;AC;Rio Branco;José Augusto;Rua Estácio de Sá
+69900797;AC;Rio Branco;José Augusto;Rua Grêmio Alberto Sampaio
+69900800;AC;Rio Branco;José Augusto;Rua Projetada 152
+69900803;AC;Rio Branco;José Augusto;Rua Santo Afonso
+69900806;AC;Rio Branco;José Augusto;Travessa Portelas
+69900809;AC;Rio Branco;José Augusto;Rua Riachuelo
+69900812;AC;Rio Branco;José Augusto;Rua Ponta Porã
+69900815;AC;Rio Branco;José Augusto;Travessa Virgílio Lima
+69900818;AC;Rio Branco;José Augusto;Rua Manoel Cesário
+69900830;AC;Rio Branco;Aviário;Estrada do Aviário
+69900833;AC;Rio Branco;Aviário;Travessa São Gabriel
+69900836;AC;Rio Branco;Aviário;Travessa Almirante Mário de Oliveira
+69900839;AC;Rio Branco;Aviário;Travessa Irineu Serra
+69900842;AC;Rio Branco;Aviário;Rua Raul Barcelar
+69900845;AC;Rio Branco;Aviário;Travessa Guarani
+69900848;AC;Rio Branco;Aviário;Travessa Mirim
+69900851;AC;Rio Branco;Aviário;Travessa Flamengo
+69900854;AC;Rio Branco;Aviário;Estrada do Aviário
+69900857;AC;Rio Branco;Aviário;Travessa Antimari
+69900860;AC;Rio Branco;Aviário;Rua Antimari
+69900863;AC;Rio Branco;Aviário;Travessa Beny Manuela
+69900866;AC;Rio Branco;Aviário;Rua Álvaro Dantas
+69900869;AC;Rio Branco;Aviário;Travessa Álvaro Dantas
+69900872;AC;Rio Branco;Aviário;Rua Eletra
+69900875;AC;Rio Branco;Aviário;Rua Primavera
+69900878;AC;Rio Branco;Aviário;Rua Santa Inês
+69901000;AC;Rio Branco;Conjunto Jardim São Francisco;Travessa da Serra
+69901003;AC;Rio Branco;Conjunto Jardim São Francisco;Rua Abacate
+69901006;AC;Rio Branco;Conjunto Jardim São Francisco;Rua São Francisco
+69901009;AC;Rio Branco;Conjunto Jardim São Francisco;Rua Melancia
+69901012;AC;Rio Branco;Conjunto Jardim São Francisco;Rua Uva
+69901015;AC;Rio Branco;Conjunto Jardim São Francisco;Rua Cupuaçú
+69901018;AC;Rio Branco;Conjunto Jardim São Francisco;Rua Azeitona
+69901021;AC;Rio Branco;Conjunto Jardim São Francisco;Rua Maçã
+69901024;AC;Rio Branco;Conjunto Jardim São Francisco;Rua Laranja
+69901027;AC;Rio Branco;Conjunto Jardim São Francisco;Rua Jabuticaba
+69901040;AC;Rio Branco;Morada do Sol;Travessa Vera Cruz
+69901043;AC;Rio Branco;Morada do Sol;Rua Abacaxi
+69901046;AC;Rio Branco;Morada do Sol;Rua Jabuticaba
+69901049;AC;Rio Branco;Morada do Sol;Rua Capitão Cirilo
+69901052;AC;Rio Branco;Morada do Sol;Travessa Joaquim Chaves
+69901055;AC;Rio Branco;Morada do Sol;Rua Santa Inês
+69901058;AC;Rio Branco;Morada do Sol;Travessa Santa Luzia
+69901061;AC;Rio Branco;Morada do Sol;Estrada da Usina
+69901064;AC;Rio Branco;Morada do Sol;Rua Morango
+69901067;AC;Rio Branco;Morada do Sol;Rua Pêssego
+69901070;AC;Rio Branco;Morada do Sol;Rua Jambo
+69901073;AC;Rio Branco;Morada do Sol;Travessa Acerola
+69901076;AC;Rio Branco;Morada do Sol;Travessa Goiaba
+69901079;AC;Rio Branco;Morada do Sol;Travessa Cajú
+69901082;AC;Rio Branco;Morada do Sol;Rua Graviola
+69901085;AC;Rio Branco;Morada do Sol;Rua Abacate
+69901088;AC;Rio Branco;Morada do Sol;Rua Melancia
+69901091;AC;Rio Branco;Morada do Sol;Rua Marte
+69901094;AC;Rio Branco;Morada do Sol;Rua Melão
+69901097;AC;Rio Branco;Morada do Sol;Estrada da Usina
+69901100;AC;Rio Branco;Morada do Sol;Rua Vênus
+69901103;AC;Rio Branco;Morada do Sol;Rua Órion
+69901106;AC;Rio Branco;Morada do Sol;Rua Aquários
+69901109;AC;Rio Branco;Morada do Sol;Rua Mamão
+69901112;AC;Rio Branco;Morada do Sol;Rua Vera Cruz
+69901115;AC;Rio Branco;Morada do Sol;Rua Mercúrio
+69901118;AC;Rio Branco;Morada do Sol;Rua Manga
+69901121;AC;Rio Branco;Morada do Sol;Rua Júpiter
+69901124;AC;Rio Branco;Morada do Sol;Rua Urano
+69901127;AC;Rio Branco;Morada do Sol;Rua Netuno
+69901130;AC;Rio Branco;Morada do Sol;Rua Plutão 1
+69901133;AC;Rio Branco;Morada do Sol;Rua Lua
+69901136;AC;Rio Branco;Morada do Sol;Travessa Halley
+69901139;AC;Rio Branco;Morada do Sol;Rua Gomes do Rola
+69901142;AC;Rio Branco;Morada do Sol;Rua Halley
+69901145;AC;Rio Branco;Morada do Sol;Rua Terra
+69901148;AC;Rio Branco;Morada do Sol;Rua Saturno
+69901151;AC;Rio Branco;Morada do Sol;Travessa Riozinho do Rola
+69901154;AC;Rio Branco;Morada do Sol;Rua Marte
+69901160;AC;Rio Branco;Adalberto Aragão;Rua Marte
+69901162;AC;Rio Branco;Adalberto Aragão;Rua Mauri Sérgio
+69901164;AC;Rio Branco;Adalberto Aragão;Rua Mário Maia
+69901166;AC;Rio Branco;Adalberto Aragão;Rua Plácido de Castro
+69901168;AC;Rio Branco;Adalberto Aragão;Travessa Sena Madureira
+69901170;AC;Rio Branco;Adalberto Aragão;Travessa Tambaqui
+69901172;AC;Rio Branco;Adalberto Aragão;Travessa Dourado
+69901174;AC;Rio Branco;Adalberto Aragão;Travessa Manaus
+69901176;AC;Rio Branco;Adalberto Aragão;Travessa Avestruz
+69901178;AC;Rio Branco;Adalberto Aragão;Travessa Manoel Urbano
+69901180;AC;Rio Branco;Adalberto Aragão;Travessa Capivara
+69901182;AC;Rio Branco;Adalberto Aragão;Rua Lua
+69901184;AC;Rio Branco;Adalberto Aragão;Beco Mercúrio
+69901186;AC;Rio Branco;Adalberto Aragão;Rua Mercúrio
+69901188;AC;Rio Branco;Adalberto Aragão;Travessa Heros
+69901190;AC;Rio Branco;Adalberto Aragão;Beco Heros
+69901192;AC;Rio Branco;Adalberto Aragão;Rua Perpétua
+69901200;AC;Rio Branco;Jardim Tropical;Rua Perpétua
+69901203;AC;Rio Branco;Jardim Tropical;Rua Heros
+69901206;AC;Rio Branco;Jardim Tropical;Rua Violeta
+69901209;AC;Rio Branco;Jardim Tropical;Rua Dália
+69901212;AC;Rio Branco;Jardim Tropical;Rua dos Anturios
+69901215;AC;Rio Branco;Jardim Tropical;Rua das Hortências
+69901218;AC;Rio Branco;Jardim Tropical;Rua das Samambaias
+69901221;AC;Rio Branco;Jardim Tropical;Rua Plutão 2
+69901224;AC;Rio Branco;Jardim Tropical;Rua das Oliveiras
+69901227;AC;Rio Branco;Jardim Tropical;Rua Heros
+69901230;AC;Rio Branco;Jardim Tropical;Rua das Palmeiras
+69901233;AC;Rio Branco;Jardim Tropical;Rua das Acácias
+69901236;AC;Rio Branco;Jardim Tropical;Rua Pêra
+69901239;AC;Rio Branco;Jardim Tropical;Rua do Jasmim
+69901242;AC;Rio Branco;Jardim Tropical;Rua dos Lírios
+69901245;AC;Rio Branco;Jardim Tropical;Rua das Palmas
+69901248;AC;Rio Branco;Jardim Tropical;Rua da Dama da Noite
+69901251;AC;Rio Branco;Jardim Tropical;Rua Vitória Régia
+69901254;AC;Rio Branco;Jardim Tropical;Rua 10 de Junho
+69901270;AC;Rio Branco;Casa Nova;Rua 10 de Junho
+69901274;AC;Rio Branco;Casa Nova;Beco São Raimundo
+69901278;AC;Rio Branco;Casa Nova;Beco João Fonseca
+69901282;AC;Rio Branco;Casa Nova;Travessa Santa Lúcia
+69901286;AC;Rio Branco;Casa Nova;Travessa da Amizade
+69901290;AC;Rio Branco;Casa Nova;Beco Esperança
+69901310;AC;Rio Branco;Baixa da Colina;Travessa Santa Inês
+69901313;AC;Rio Branco;Baixa da Colina;Rua Santa Inês
+69901316;AC;Rio Branco;Baixa da Colina;Estrada São do Francisco
+69901319;AC;Rio Branco;Baixa da Colina;Rua Casa Nova l
+69901322;AC;Rio Branco;Baixa da Colina;Rua Casa Nova ll
+69901325;AC;Rio Branco;Baixa da Colina;Rua Flaviano Melo
+69901328;AC;Rio Branco;Baixa da Colina;Rua Francisco Ferreira
+69901331;AC;Rio Branco;Baixa da Colina;Rua Santa Maria
+69901334;AC;Rio Branco;Baixa da Colina;Travessa Baixa da Colina
+69901337;AC;Rio Branco;Baixa da Colina;Travessa da Colina
+69901340;AC;Rio Branco;Baixa da Colina;Travessa Plácido de Castro
+69901343;AC;Rio Branco;Baixa da Colina;Travessa Verão
+69901346;AC;Rio Branco;Baixa da Colina;Travessa Primavera
+69901349;AC;Rio Branco;Baixa da Colina;Rua Primavera
+69901352;AC;Rio Branco;Baixa da Colina;Travessa Pedro Vaz
+69901355;AC;Rio Branco;Baixa da Colina;Rua Independência
+69901360;AC;Rio Branco;Conjunto Guiomard Santos;Rua Delfim Neto
+69901363;AC;Rio Branco;Conjunto Guiomard Santos;Travessa das Flores
+69901366;AC;Rio Branco;Conjunto Guiomard Santos;Rua Henrique Alfane
+69901369;AC;Rio Branco;Conjunto Guiomard Santos;Rua Lauro Fontes
+69901372;AC;Rio Branco;Conjunto Guiomard Santos;Rua Jephete Maia
+69901375;AC;Rio Branco;Conjunto Guiomard Santos;Rua Doutor Adalberto Costa e Silva
+69901378;AC;Rio Branco;Conjunto Guiomard Santos;Rua José Nolasco
+69901381;AC;Rio Branco;Conjunto Guiomard Santos;Rua José de Almeida
+69901384;AC;Rio Branco;Conjunto Guiomard Santos;Rua Menderson
+69901387;AC;Rio Branco;Conjunto Guiomard Santos;Rua Virgílio de Lima
+69901390;AC;Rio Branco;Conjunto Guiomard Santos;Rua José Brandrão
+69901393;AC;Rio Branco;Conjunto Guiomard Santos;Rua Vitória
+69901396;AC;Rio Branco;Conjunto Guiomard Santos;Rua Espatódia
+69901399;AC;Rio Branco;Conjunto Guiomard Santos;Rua Narciso José de Lima
+69901402;AC;Rio Branco;Conjunto Guiomard Santos;Rua Luzanira Gomes
+69901405;AC;Rio Branco;Conjunto Guiomard Santos;Rua Francisco Heleno
+69901408;AC;Rio Branco;Conjunto Guiomard Santos;Rua Persegona
+69901411;AC;Rio Branco;Conjunto Guiomard Santos;Rua Delmar Pismel
+69901414;AC;Rio Branco;Conjunto Guiomard Santos;Avenida Central
+69901417;AC;Rio Branco;Conjunto Guiomard Santos;Rua Kent
+69901420;AC;Rio Branco;Conjunto Guiomard Santos;Rua Orquídea
+69901423;AC;Rio Branco;Conjunto Guiomard Santos;Rua Lavosier
+69901426;AC;Rio Branco;Conjunto Guiomard Santos;Rua Horácio Cavalcante
+69901429;AC;Rio Branco;Conjunto Guiomard Santos;Rua Servo Ribeiro
+69901432;AC;Rio Branco;Conjunto Guiomard Santos;Rua Edmundo Pinto
+69901435;AC;Rio Branco;Conjunto Guiomard Santos;Rua Antonio Moura Malveira
+69901438;AC;Rio Branco;Conjunto Guiomard Santos;Rua Wilde Viana das Neves Filho
+69901441;AC;Rio Branco;Conjunto Guiomard Santos;Rua Santa Inês
+69901510;AC;Rio Branco;São Francisco;Estrada São do Francisco
+69901513;AC;Rio Branco;São Francisco;Rua São Caetano
+69901516;AC;Rio Branco;São Francisco;Estrada São do Francisco
+69901519;AC;Rio Branco;São Francisco;Avenida Beco Eugênio Bezerra
+69901522;AC;Rio Branco;São Francisco;Rua A1
+69901525;AC;Rio Branco;São Francisco;Rua A2
+69901528;AC;Rio Branco;São Francisco;Rua F
+69901531;AC;Rio Branco;São Francisco;Rua E
+69901534;AC;Rio Branco;São Francisco;Rua D
+69901537;AC;Rio Branco;São Francisco;Rua C
+69901540;AC;Rio Branco;São Francisco;Rua B
+69901543;AC;Rio Branco;São Francisco;Travessa Edson Cadaxo
+69901546;AC;Rio Branco;São Francisco;Travessa do Galo
+69901549;AC;Rio Branco;São Francisco;Rua Andrade Silva
+69901552;AC;Rio Branco;São Francisco;Rua Jânio Quadro
+69901555;AC;Rio Branco;São Francisco;Rua Antônio Carlos
+69901558;AC;Rio Branco;São Francisco;Rua Bebeto Alves
+69901561;AC;Rio Branco;São Francisco;Rua Tamborim
+69901564;AC;Rio Branco;São Francisco;Rua Monte Negro
+69901567;AC;Rio Branco;São Francisco;Rua Chile
+69901570;AC;Rio Branco;São Francisco;Rua Santiago
+69901573;AC;Rio Branco;São Francisco;Rua Luiz Pereira
+69901576;AC;Rio Branco;São Francisco;Travessa Paraíso
+69901579;AC;Rio Branco;São Francisco;Avenida Doutor Mário Maia
+69901582;AC;Rio Branco;São Francisco;Travessa Joaquim Macêdo
+69901585;AC;Rio Branco;São Francisco;Rua Joaquim Macêdo
+69901588;AC;Rio Branco;São Francisco;Rua James Carlos
+69901591;AC;Rio Branco;São Francisco;Rua Joaquim Macêdo
+69901594;AC;Rio Branco;São Francisco;Estrada das Placas
+69901597;AC;Rio Branco;São Francisco;Rua Edson Lima
+69901600;AC;Rio Branco;São Francisco;Rua Edson Ferreira
+69901640;AC;Rio Branco;Conjunto Oscar Passos;Avenida Edmundo Pinto
+69901643;AC;Rio Branco;Conjunto Oscar Passos;Rua Ponte Serrada
+69901646;AC;Rio Branco;Conjunto Oscar Passos;Travessa da União
+69901649;AC;Rio Branco;Conjunto Oscar Passos;Travessa Genésio
+69901652;AC;Rio Branco;Conjunto Oscar Passos;Rua Romário Costa
+69901655;AC;Rio Branco;Conjunto Oscar Passos;Rua Edmundo Pinto
+69901658;AC;Rio Branco;Conjunto Oscar Passos;Travessa Máncio Nilia
+69901661;AC;Rio Branco;Conjunto Oscar Passos;Travessa Ruth Cardoso
+69901664;AC;Rio Branco;Conjunto Oscar Passos;Avenida Doutor Mário Maia
+69901667;AC;Rio Branco;Conjunto Oscar Passos;Travessa Veronese
+69901670;AC;Rio Branco;Conjunto Oscar Passos;Rua Joaquim Macêdo
+69901680;AC;Rio Branco;Vitória;Rua Luiz Gonzaga
+69901683;AC;Rio Branco;Vitória;Rua Luiz Gonzaga
+69901686;AC;Rio Branco;Vitória;Avenida Iguaçu da Glória
+69901689;AC;Rio Branco;Vitória;Rua do Vale
+69901692;AC;Rio Branco;Vitória;Rua João Xavier
+69901695;AC;Rio Branco;Vitória;Rua Iguaçu da Glória
+69901698;AC;Rio Branco;Vitória;Rua Bandeirante
+69901701;AC;Rio Branco;Vitória;Rua Thaumaturgo
+69901704;AC;Rio Branco;Vitória;Travessa Thaumaturgo
+69901707;AC;Rio Branco;Vitória;Rua da União
+69901710;AC;Rio Branco;Vitória;Travessa Jovem
+69901713;AC;Rio Branco;Vitória;Travessa Juscelino Kubtischek
+69901716;AC;Rio Branco;Vitória;Travessa Boa Sorte
+69901719;AC;Rio Branco;Vitória;Rua do Divisor
+69901722;AC;Rio Branco;Vitória;Rua Arco-íris
+69901725;AC;Rio Branco;Vitória;Travessa Bom Destino
+69901728;AC;Rio Branco;Vitória;Rua Alvorada
+69901731;AC;Rio Branco;Vitória;Rua São Raimundo Nonato
+69901734;AC;Rio Branco;Vitória;Rua Tupi Guarani
+69901737;AC;Rio Branco;Vitória;Travessa Mangueira
+69901740;AC;Rio Branco;Vitória;Rua Felicidade
+69901743;AC;Rio Branco;Vitória;Rua Tião Natureza
+69901746;AC;Rio Branco;Vitória;Avenida Beija-flor
+69901749;AC;Rio Branco;Vitória;Rua da União
+69901752;AC;Rio Branco;Vitória;Rua Santa Clara
+69901755;AC;Rio Branco;Vitória;Rua Murupi
+69901758;AC;Rio Branco;Vitória;Rua Arco-íris
+69901761;AC;Rio Branco;Vitória;Travessa do Barbeiro
+69901764;AC;Rio Branco;Vitória;Travessa São João
+69901767;AC;Rio Branco;Vitória;Avenida Boa Ventura
+69901770;AC;Rio Branco;Vitória;Rua Alvorada
+69901773;AC;Rio Branco;Vitória;Rua Boa Vista
+69901776;AC;Rio Branco;Vitória;Travessa Triângulo
+69901779;AC;Rio Branco;Vitória;Rua Pedro Altino
+69901782;AC;Rio Branco;Vitória;Rua Maria Atenas
+69901785;AC;Rio Branco;Vitória;Rua Benjamim
+69901788;AC;Rio Branco;Vitória;Rua Preciosa
+69901791;AC;Rio Branco;Vitória;Travessa Beija-flor
+69901794;AC;Rio Branco;Vitória;Travessa Verde
+69901797;AC;Rio Branco;Vitória;Rua Santa Fé
+69901800;AC;Rio Branco;Vitória;Avenida Boa Ventura
+69901803;AC;Rio Branco;Vitória;Travessa Manga Larga
+69901806;AC;Rio Branco;Vitória;Travessa Mara
+69901809;AC;Rio Branco;Vitória;Rua Nelson Piquet
+69901812;AC;Rio Branco;Vitória;Rua Ayrton Senna
+69901815;AC;Rio Branco;Vitória;Estrada São do Francisco
+69901818;AC;Rio Branco;Vitória;Rua Canadá
+69901821;AC;Rio Branco;Vitória;Rua da Liberdade
+69901824;AC;Rio Branco;Vitória;Rua Argentina
+69901827;AC;Rio Branco;Vitória;Rua Espanha
+69901830;AC;Rio Branco;Vitória;Travessa Santa Clara
+69901833;AC;Rio Branco;Vitória;Travessa Santa Isabel
+69901836;AC;Rio Branco;Vitória;Travessa Bom Pastor
+69901839;AC;Rio Branco;Vitória;Travessa Cristã
+69901842;AC;Rio Branco;Vitória;Travessa do Galo
+69901845;AC;Rio Branco;Vitória;Travessa da Escola
+69901848;AC;Rio Branco;Vitória;Rua Ayrton Senna
+69901851;AC;Rio Branco;Vitória;Travessa Cruzeiro do Sul
+69901854;AC;Rio Branco;Vitória;Travessa da Vertente
+69901857;AC;Rio Branco;Vitória;Travessa Miguel Ramos
+69901860;AC;Rio Branco;Vitória;Travessa dos Anjos
+69901863;AC;Rio Branco;Vitória;Rua São Raimundo Nonato
+69901866;AC;Rio Branco;Vitória;Travessa São Caetano
+69901869;AC;Rio Branco;Vitória;Rua Boa Vista
+69901872;AC;Rio Branco;Vitória;Travessa da Colina
+69901875;AC;Rio Branco;Vitória;Travessa Campo Verde
+69901878;AC;Rio Branco;Vitória;Travessa do Limão
+69901881;AC;Rio Branco;Vitória;Rua Raimundo Nonato
+69901884;AC;Rio Branco;Vitória;Travessa Mossoró
+69901887;AC;Rio Branco;Vitória;Rua do Divisor
+69901890;AC;Rio Branco;Vitória;Estrada São do Francisco
+69902100;AC;Rio Branco;Loteamento Jardim São Francisco;Rua Panorama
+69902103;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 1
+69902106;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 2
+69902109;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 3
+69902112;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 4
+69902115;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 6
+69902118;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 7
+69902121;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 8
+69902124;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 9
+69902127;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 10
+69902130;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 11
+69902133;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 12
+69902136;AC;Rio Branco;Loteamento Jardim São Francisco;Rua Juruá
+69902139;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 13
+69902142;AC;Rio Branco;Loteamento Jardim São Francisco;Rua 14
+69902410;AC;Rio Branco;Eldorado;Estrada São do Francisco
+69902413;AC;Rio Branco;Eldorado;Travessa Curítiba
+69902416;AC;Rio Branco;Eldorado;Travessa do Divisor
+69902419;AC;Rio Branco;Eldorado;Travessa Manaus
+69902422;AC;Rio Branco;Eldorado;Rua Santa Luzia
+69902425;AC;Rio Branco;Eldorado;Rua Girassol
+69902428;AC;Rio Branco;Eldorado;Travessa Real
+69902431;AC;Rio Branco;Eldorado;Rua Bom Jesus
+69902434;AC;Rio Branco;Eldorado;Rua do Divisor
+69902437;AC;Rio Branco;Eldorado;Rua Rio Branco
+69902440;AC;Rio Branco;Eldorado;Rua Elzo Rodrigues
+69902443;AC;Rio Branco;Eldorado;Rua Alvorada
+69902446;AC;Rio Branco;Eldorado;Travessa Neves
+69902449;AC;Rio Branco;Eldorado;Travessa 9 de Junho
+69902452;AC;Rio Branco;Eldorado;Travessa Jurubeba
+69902455;AC;Rio Branco;Eldorado;Rua Guanabara
+69902458;AC;Rio Branco;Eldorado;Travessa Morada do Sol
+69902461;AC;Rio Branco;Eldorado;Travessa João da Mata
+69902464;AC;Rio Branco;Eldorado;Rua do Divisor
+69902467;AC;Rio Branco;Eldorado;Rua Flor de Maio
+69902470;AC;Rio Branco;Eldorado;Rua 7 de Setembro
+69902473;AC;Rio Branco;Eldorado;Travessa Jardim
+69902476;AC;Rio Branco;Eldorado;Travessa 4 de Outubro
+69902479;AC;Rio Branco;Eldorado;Rua Flor de Maio
+69902482;AC;Rio Branco;Eldorado;Travessa Rio de Janeiro
+69902485;AC;Rio Branco;Eldorado;Travessa São Paulo
+69902488;AC;Rio Branco;Eldorado;Rua Girassol
+69902491;AC;Rio Branco;Eldorado;Travessa Itabuna
+69902494;AC;Rio Branco;Eldorado;Rua Independência
+69902497;AC;Rio Branco;Eldorado;Rua Francisco Santiago
+69902500;AC;Rio Branco;Eldorado;Travessa Castelão
+69902503;AC;Rio Branco;Eldorado;Travessa Mel
+69902506;AC;Rio Branco;Eldorado;Travessa Alto Verde
+69902509;AC;Rio Branco;Eldorado;Travessa Caipó
+69902512;AC;Rio Branco;Eldorado;Travessa Paulista
+69902515;AC;Rio Branco;Eldorado;Travessa da Pupunha
+69902518;AC;Rio Branco;Eldorado;Travessa Eldorado
+69902521;AC;Rio Branco;Eldorado;Travessa das Dores
+69902524;AC;Rio Branco;Eldorado;Travessa do Açaí
+69902527;AC;Rio Branco;Eldorado;Travessa Edmundo Pinto
+69902530;AC;Rio Branco;Eldorado;Rua Lourenço Lopes
+69902630;AC;Rio Branco;Chico Mendes;Rua Idelbrando de Souza
+69902633;AC;Rio Branco;Chico Mendes;Rua Maestro Sandoval
+69902636;AC;Rio Branco;Chico Mendes;Travessa Franco Silva
+69902639;AC;Rio Branco;Chico Mendes;Travessa Zeca Torres
+69902642;AC;Rio Branco;Chico Mendes;Rua Tião Naturaza
+69902645;AC;Rio Branco;Chico Mendes;Travessa Francisco Ademar
+69902648;AC;Rio Branco;Chico Mendes;Rua Cumarú
+69902651;AC;Rio Branco;Chico Mendes;Travessa Ademar
+69902654;AC;Rio Branco;Chico Mendes;Rua Tupi Guarani
+69902657;AC;Rio Branco;Chico Mendes;Rua Cerejeira
+69902660;AC;Rio Branco;Chico Mendes;Travessa Jatobá
+69902663;AC;Rio Branco;Chico Mendes;Rua Isaías
+69902666;AC;Rio Branco;Chico Mendes;Rua Lourenço Lopes
+69902669;AC;Rio Branco;Chico Mendes;Rua Jorge Rivasplata
+69902672;AC;Rio Branco;Chico Mendes;Avenida Altamira
+69902675;AC;Rio Branco;Chico Mendes;Rua Lourenço Lopes
+69902678;AC;Rio Branco;Chico Mendes;Rua Rui Lino
+69902681;AC;Rio Branco;Chico Mendes;Rua Juscelino Kubitschek
+69902684;AC;Rio Branco;Chico Mendes;Travessa Raimundo Alves
+69902687;AC;Rio Branco;Chico Mendes;Rua Angico
+69902690;AC;Rio Branco;Chico Mendes;Rua Gregório Filho
+69902693;AC;Rio Branco;Chico Mendes;Travessa Manoel Martins
+69902696;AC;Rio Branco;Chico Mendes;Rua José de Araújo
+69902699;AC;Rio Branco;Chico Mendes;Rua Cisne
+69902702;AC;Rio Branco;Chico Mendes;Rua Projetada 748
+69902705;AC;Rio Branco;Chico Mendes;Rua Maria de Oliveira
+69902708;AC;Rio Branco;Chico Mendes;Rua Jose Brito
+69902711;AC;Rio Branco;Chico Mendes;Rua Silvino Oliveira
+69902714;AC;Rio Branco;Chico Mendes;Rua Janiópolis
+69902717;AC;Rio Branco;Chico Mendes;Rua Angico
+69902720;AC;Rio Branco;Chico Mendes;Travessa Cabral
+69902723;AC;Rio Branco;Chico Mendes;Rua Feijó
+69902726;AC;Rio Branco;Chico Mendes;Rua Francisco das Chagas
+69902729;AC;Rio Branco;Chico Mendes;Travessa Perdis
+69902735;AC;Rio Branco;Chico Mendes;Rua Ozanete
+69902738;AC;Rio Branco;Chico Mendes;Rua Nobre
+69902741;AC;Rio Branco;Chico Mendes;Travessa São José
+69902744;AC;Rio Branco;Chico Mendes;Rua 13 de Maio
+69902747;AC;Rio Branco;Chico Mendes;Travessa 7 de Setembro
+69902749;AC;Rio Branco;Chico Mendes;Rua 20 de Março
+69902750;AC;Rio Branco;Placas;Rua Gonçalves Dias
+69902752;AC;Rio Branco;Placas;Rua Quinze de Novembro
+69902754;AC;Rio Branco;Placas;Rua 11 de Março
+69902756;AC;Rio Branco;Placas;Rua 7 de Dezembro
+69902758;AC;Rio Branco;Placas;Rua 10 de Junho
+69902760;AC;Rio Branco;Placas;Rua 1º de Agosto
+69902762;AC;Rio Branco;Placas;Rua 2 de Abril
+69902764;AC;Rio Branco;Placas;Rua 3 de Setembro
+69902766;AC;Rio Branco;Placas;Rua 8 de Maio
+69902768;AC;Rio Branco;Placas;Rua 12 de Outubro
+69902770;AC;Rio Branco;Placas;Estrada das Placas
+69902772;AC;Rio Branco;Placas;Rua H
+69902774;AC;Rio Branco;Placas;Travessa Guarani
+69902776;AC;Rio Branco;Placas;Rua 12 de Junho
+69902778;AC;Rio Branco;Placas;Rua 1º de Janeiro
+69902780;AC;Rio Branco;Placas;Rua 20 de Março
+69902782;AC;Rio Branco;Placas;Rua 20 de Janeiro
+69902784;AC;Rio Branco;Placas;Travessa Dois
+69902790;AC;Rio Branco;Wanderley Dantas;Estrada Jarbas Passarinho
+69902793;AC;Rio Branco;Wanderley Dantas;Rua Projetada 726
+69902810;AC;Rio Branco;Wanderley Dantas;Estrada das Placas
+69902813;AC;Rio Branco;Wanderley Dantas;Estrada das Placas
+69902816;AC;Rio Branco;Wanderley Dantas;Travessa Juliana
+69902819;AC;Rio Branco;Wanderley Dantas;Travessa Santa Bárbara
+69902822;AC;Rio Branco;Wanderley Dantas;Beco da Mariana
+69902825;AC;Rio Branco;Wanderley Dantas;Rua Mário Maia
+69902828;AC;Rio Branco;Wanderley Dantas;Rua Severino Ferreira
+69902831;AC;Rio Branco;Wanderley Dantas;Rua Mamed Saad
+69902834;AC;Rio Branco;Wanderley Dantas;Travessa Gomes de Alencar
+69902837;AC;Rio Branco;Wanderley Dantas;Travessa Itamar Pascoal
+69902840;AC;Rio Branco;Wanderley Dantas;Rua Anibal Viana
+69902843;AC;Rio Branco;Wanderley Dantas;Rua Tadeu Viana
+69902846;AC;Rio Branco;Wanderley Dantas;Rua Osmar Sales
+69902849;AC;Rio Branco;Wanderley Dantas;Rua José Joaquim
+69902852;AC;Rio Branco;Wanderley Dantas;Travessa João Queiroz
+69902855;AC;Rio Branco;Wanderley Dantas;Rua Idelfonso de Almeida
+69902858;AC;Rio Branco;Wanderley Dantas;Rua Amoty Pascoal
+69902861;AC;Rio Branco;Wanderley Dantas;Rua João Florencio
+69902864;AC;Rio Branco;Wanderley Dantas;Rua Severino Ferreira
+69902867;AC;Rio Branco;Wanderley Dantas;Rua Dário de Sena
+69902870;AC;Rio Branco;Wanderley Dantas;Travessa Marinelson
+69902873;AC;Rio Branco;Wanderley Dantas;Rua Pequena Jéssca
+69902876;AC;Rio Branco;Wanderley Dantas;Rua Projetada 1013
+69902879;AC;Rio Branco;Wanderley Dantas;Rua Raul Pompéia
+69902882;AC;Rio Branco;Wanderley Dantas;Rua Santarém
+69902885;AC;Rio Branco;Wanderley Dantas;Rua Marfim
+69902888;AC;Rio Branco;Wanderley Dantas;Rua Brilhante
+69902891;AC;Rio Branco;Wanderley Dantas;Rua Topázio
+69902894;AC;Rio Branco;Wanderley Dantas;Rua 7 de Setembro
+69903000;AC;Rio Branco;Conjunto Xavier Maia;Rua Rondônia
+69903002;AC;Rio Branco;Conjunto Xavier Maia;Rua Licênio Azevedo Maia
+69903004;AC;Rio Branco;Conjunto Xavier Maia;Rua Roseana Sarney
+69903006;AC;Rio Branco;Conjunto Xavier Maia;Rua Edmundo Pinto
+69903008;AC;Rio Branco;Conjunto Xavier Maia;Rua Plácido de Castro
+69903010;AC;Rio Branco;Conjunto Xavier Maia;Rua Bom Jesus
+69903012;AC;Rio Branco;Conjunto Xavier Maia;Rua Siqueira de Menezes
+69903014;AC;Rio Branco;Conjunto Xavier Maia;Rua Ayrton Senna
+69903016;AC;Rio Branco;Conjunto Xavier Maia;Avenida Brasil
+69903018;AC;Rio Branco;Conjunto Xavier Maia;Avenida Brasil
+69903020;AC;Rio Branco;Conjunto Xavier Maia;Rua do Coqueiro
+69903022;AC;Rio Branco;Conjunto Xavier Maia;Travessa Manaus
+69903024;AC;Rio Branco;Conjunto Xavier Maia;Rua Jambo
+69903026;AC;Rio Branco;Conjunto Xavier Maia;Travessa Ceará
+69903028;AC;Rio Branco;Conjunto Xavier Maia;Rua 25 de Dezembro
+69903030;AC;Rio Branco;Conjunto Xavier Maia;Rua 6 de Agosto
+69903032;AC;Rio Branco;Conjunto Xavier Maia;Rua Brilhante
+69903034;AC;Rio Branco;Conjunto Xavier Maia;Rua Rio de Janeiro
+69903036;AC;Rio Branco;Conjunto Xavier Maia;Rua Fortaleza
+69903038;AC;Rio Branco;Conjunto Xavier Maia;Rua Marfim
+69903040;AC;Rio Branco;Conjunto Xavier Maia;Rua dos Lirios
+69903042;AC;Rio Branco;Conjunto Xavier Maia;Rua Cruzeiro do Sul
+69903044;AC;Rio Branco;Conjunto Xavier Maia;Travessa Zera
+69903046;AC;Rio Branco;Conjunto Xavier Maia;Rua Leandro Melo
+69903048;AC;Rio Branco;Conjunto Xavier Maia;Travessa Maria da Conceição
+69903050;AC;Rio Branco;Conjunto Xavier Maia;Rua Wilson Ribeiro
+69903052;AC;Rio Branco;Conjunto Xavier Maia;Rua Goiabeira
+69903054;AC;Rio Branco;Conjunto Xavier Maia;Travessa Copacabana
+69903056;AC;Rio Branco;Conjunto Xavier Maia;Rua Belém
+69903058;AC;Rio Branco;Conjunto Xavier Maia;Rua Salvador
+69903060;AC;Rio Branco;Conjunto Xavier Maia;Rua do Silêncio
+69903062;AC;Rio Branco;Conjunto Xavier Maia;Rua 18 de Fevereiro
+69903064;AC;Rio Branco;Conjunto Xavier Maia;Rua Santa Catarina
+69903066;AC;Rio Branco;Conjunto Xavier Maia;Rua Hélio Melo
+69903068;AC;Rio Branco;Conjunto Xavier Maia;Avenida Brasil
+69903080;AC;Rio Branco;Parque dos Sabiás;Rua 13
+69903082;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 1057
+69903084;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 973
+69903086;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 991
+69903088;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 989
+69903090;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 985
+69903092;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 984
+69903094;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 990
+69903096;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 992
+69903098;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 970
+69903100;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 1043
+69903130;AC;Rio Branco;Parque dos Sabiás;Rua 12
+69903132;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 1054
+69903134;AC;Rio Branco;Parque dos Sabiás;Rua Cedro
+69903136;AC;Rio Branco;Parque dos Sabiás;Rua Cumarú
+69903138;AC;Rio Branco;Parque dos Sabiás;Rua Samaúma
+69903140;AC;Rio Branco;Parque dos Sabiás;Rua Projetada 969
+69903190;AC;Rio Branco;Parque dos Sabiás;Estrada Jarbas Passarinho
+69903192;AC;Rio Branco;Parque dos Sabiás;Estrada Jarbas Passarinho
+69903200;AC;Rio Branco;Conjunto Ouricurí;Rua Uirapuru
+69903203;AC;Rio Branco;Conjunto Ouricurí;Rua Flamingo
+69903206;AC;Rio Branco;Conjunto Ouricurí;Rua Gaivota II
+69903209;AC;Rio Branco;Conjunto Ouricurí;Rua Perdiz
+69903212;AC;Rio Branco;Conjunto Ouricurí;Rua Tucano
+69903215;AC;Rio Branco;Conjunto Ouricurí;Rua Cisne
+69903218;AC;Rio Branco;Conjunto Ouricurí;Travessa José de Araújo
+69903221;AC;Rio Branco;Conjunto Ouricurí;Rua Garça
+69903224;AC;Rio Branco;Conjunto Ouricurí;Rua João de Barro
+69903227;AC;Rio Branco;Conjunto Ouricurí;Rua Sanhaçu
+69903230;AC;Rio Branco;Conjunto Ouricurí;Rua Graúna
+69903233;AC;Rio Branco;Conjunto Ouricurí;Rua Andorinha
+69903236;AC;Rio Branco;Conjunto Ouricurí;Rua Gaivota
+69903239;AC;Rio Branco;Conjunto Ouricurí;Rua Merlo
+69903242;AC;Rio Branco;Conjunto Ouricurí;Rua Ema
+69903245;AC;Rio Branco;Conjunto Ouricurí;Rua Avestruz
+69903270;AC;Rio Branco;Loteamento Jaguar;Rua Colibri
+69903273;AC;Rio Branco;Loteamento Jaguar;Rua Sanhaçu
+69903276;AC;Rio Branco;Loteamento Jaguar;Rua Pintassilgo
+69903279;AC;Rio Branco;Loteamento Jaguar;Rua Canário
+69903282;AC;Rio Branco;Loteamento Jaguar;Rua Sabiá
+69903285;AC;Rio Branco;Loteamento Jaguar;Rua Bem-te-vi
+69903288;AC;Rio Branco;Loteamento Jaguar;Rua Águia
+69903291;AC;Rio Branco;Loteamento Jaguar;Rua Anel Sul
+69903294;AC;Rio Branco;Loteamento Jaguar;Rua Jaguar
+69903297;AC;Rio Branco;Loteamento Jaguar;Rua Anel Central
+69903300;AC;Rio Branco;Loteamento Jaguar;Rua Tico-tico
+69903303;AC;Rio Branco;Loteamento Jaguar;Rua dos Pássaros
+69903306;AC;Rio Branco;Loteamento Jaguar;Rua Pardal
+69903309;AC;Rio Branco;Loteamento Jaguar;Rua Pelicano
+69903312;AC;Rio Branco;Loteamento Jaguar;Rua Arara
+69903315;AC;Rio Branco;Loteamento Jaguar;Rua Periquito
+69903318;AC;Rio Branco;Loteamento Jaguar;Rua Papagaio
+69903321;AC;Rio Branco;Loteamento Jaguar;Rua Roxinol II
+69903324;AC;Rio Branco;Loteamento Jaguar;Rua Anel Norte
+69903327;AC;Rio Branco;Loteamento Jaguar;Travessa Beija-flor
+69903330;AC;Rio Branco;Loteamento Jaguar;Rua Roxinol
+69903340;AC;Rio Branco;Loteamento Santa Luzia;Estrada Jarbas Passarinho
+69903343;AC;Rio Branco;Loteamento Santa Luzia;Avenida dos Ipês
+69903346;AC;Rio Branco;Loteamento Santa Luzia;Rua Cajui
+69903349;AC;Rio Branco;Loteamento Santa Luzia;Rua Gaúcho
+69903352;AC;Rio Branco;Loteamento Santa Luzia;Rua Arueira
+69903355;AC;Rio Branco;Loteamento Santa Luzia;Rua Marupá
+69903358;AC;Rio Branco;Loteamento Santa Luzia;Rua Tatajuba
+69903361;AC;Rio Branco;Loteamento Santa Luzia;Rua Tamarindo
+69903364;AC;Rio Branco;Loteamento Santa Luzia;Rua Guariuba
+69903367;AC;Rio Branco;Loteamento Santa Luzia;Rua Abiu
+69903370;AC;Rio Branco;Loteamento Santa Luzia;Rua Manite
+69903373;AC;Rio Branco;Loteamento Santa Luzia;Rua Cedrorama
+69903410;AC;Rio Branco;Loteamento Santa Luzia;Rua São João
+69903412;AC;Rio Branco;Loteamento Santa Luzia;Rua São João
+69903414;AC;Rio Branco;Loteamento Santa Luzia;Rua 6
+69903416;AC;Rio Branco;Loteamento Santa Luzia;Rua 1
+69903418;AC;Rio Branco;Loteamento Santa Luzia;Rua 5
+69903420;AC;Rio Branco;Loteamento Santa Luzia;Rua 2
+69903422;AC;Rio Branco;Loteamento Santa Luzia;Rua 4
+69903424;AC;Rio Branco;Loteamento Santa Luzia;Rua 7
+69903426;AC;Rio Branco;Loteamento Santa Luzia;Rua 3
+69905000;AC;Rio Branco;Capoeira;Avenida Ceará
+69905002;AC;Rio Branco;Capoeira;Travessa Zona Ampliada
+69905004;AC;Rio Branco;Capoeira;Travessa Maria Amélia
+69905006;AC;Rio Branco;Capoeira;Rua Manoel Cesário
+69905008;AC;Rio Branco;Capoeira;Travessa Felisbela do Nascimento
+69905010;AC;Rio Branco;Capoeira;Travessa Sergipe
+69905012;AC;Rio Branco;Capoeira;Travessa Campo do Rio Branco
+69905014;AC;Rio Branco;Capoeira;Travessa Roraima
+69905016;AC;Rio Branco;Capoeira;Travessa Egito
+69905018;AC;Rio Branco;Capoeira;Rua Manoel Cesário
+69905020;AC;Rio Branco;Capoeira;Travessa Juricaba
+69905022;AC;Rio Branco;Capoeira;Travessa Campo do Rio Branco
+69905024;AC;Rio Branco;Capoeira;Parque da Maternidade
+69905026;AC;Rio Branco;Capoeira;Travessa Boa Vista 1
+69905028;AC;Rio Branco;Capoeira;Travessa Vasco da Gama
+69905030;AC;Rio Branco;Capoeira;Rua Amazonas
+69905032;AC;Rio Branco;Capoeira;Travessa da Granja
+69905034;AC;Rio Branco;Capoeira;Rua Absolon Almeida
+69905036;AC;Rio Branco;Capoeira;Travessa Boa Vista
+69905038;AC;Rio Branco;Capoeira;Rua Boa Vista
+69905040;AC;Rio Branco;Capoeira;Travessa Martiniano Prado
+69905042;AC;Rio Branco;Capoeira;Rua Santa Inês
+69905050;AC;Rio Branco;Cerâmica;Travessa Guaporé
+69905052;AC;Rio Branco;Cerâmica;Travessa Guaporé
+69905054;AC;Rio Branco;Cerâmica;Travessa Antonio Sales Filho
+69905056;AC;Rio Branco;Cerâmica;Travessa Júlio César
+69905058;AC;Rio Branco;Cerâmica;Travessa Rio Branco
+69905060;AC;Rio Branco;Cerâmica;Travessa Amapá
+69905062;AC;Rio Branco;Cerâmica;Avenida Ceará
+69905064;AC;Rio Branco;Cerâmica;Travessa Benjamim Constant
+69905066;AC;Rio Branco;Cerâmica;Avenida Ceará
+69905068;AC;Rio Branco;Cerâmica;Rua Sergipe
+69905070;AC;Rio Branco;Cerâmica;Mercado Novo
+69905072;AC;Rio Branco;Cerâmica;Rua Benjamim Constant
+69905074;AC;Rio Branco;Cerâmica;Rua Amazonas
+69905076;AC;Rio Branco;Cerâmica;Avenida Epaminondas Jácome
+69905080;AC;Rio Branco;Habitasa;Avenida Epaminondas Jácome
+69905082;AC;Rio Branco;Habitasa;Rua Pará
+69905084;AC;Rio Branco;Habitasa;Rua Santa Catarina
+69905086;AC;Rio Branco;Habitasa;Avenida Ceará
+69905088;AC;Rio Branco;Habitasa;Avenida Ceará
+69905090;AC;Rio Branco;Habitasa;Rua Argentina
+69905092;AC;Rio Branco;Habitasa;Rua Chile
+69905094;AC;Rio Branco;Habitasa;Rua Cacau
+69905096;AC;Rio Branco;Habitasa;Travessa Mapinguari
+69905098;AC;Rio Branco;Habitasa;Travessa Côco
+69905100;AC;Rio Branco;Habitasa;Rua Esperança
+69905102;AC;Rio Branco;Habitasa;Rua Equador
+69905104;AC;Rio Branco;Habitasa;Rua Castanheira
+69905106;AC;Rio Branco;Habitasa;Rua Peru
+69905108;AC;Rio Branco;Habitasa;Travessa Dourado
+69905110;AC;Rio Branco;Habitasa;Travessa Terra
+69905112;AC;Rio Branco;Habitasa;Rua Venezuela
+69905114;AC;Rio Branco;Habitasa;Travessa Habitasa
+69905116;AC;Rio Branco;Habitasa;Rua Bolívia
+69905118;AC;Rio Branco;Habitasa;Beco Rio Branco
+69905130;AC;Rio Branco;Baixada da Habitasa;Rua Senador Clóvis Maia
+69905133;AC;Rio Branco;Baixada da Habitasa;Rua Bolívia
+69905136;AC;Rio Branco;Baixada da Habitasa;Rua do Bombeiro
+69905139;AC;Rio Branco;Baixada da Habitasa;Travessa do Bombeiro
+69905142;AC;Rio Branco;Baixada da Habitasa;Rua México
+69905145;AC;Rio Branco;Baixada da Habitasa;Rua Jamaica
+69905148;AC;Rio Branco;Baixada da Habitasa;Rua Venezuela
+69905151;AC;Rio Branco;Baixada da Habitasa;Rua Peru
+69905154;AC;Rio Branco;Baixada da Habitasa;Rua Paris
+69905157;AC;Rio Branco;Baixada da Habitasa;Rua Paraguai
+69905160;AC;Rio Branco;Baixada da Habitasa;Travessa Marreco
+69905163;AC;Rio Branco;Baixada da Habitasa;Avenida Ceará
+69905166;AC;Rio Branco;Baixada da Habitasa;Rua Nilo Bezerra
+69905169;AC;Rio Branco;Baixada da Habitasa;Travessa Nilo Bezerra
+69905172;AC;Rio Branco;Baixada da Habitasa;Rua Bogotá
+69905190;AC;Rio Branco;Cadeia Velha;Rua Venezuela
+69905193;AC;Rio Branco;Cadeia Velha;Travessa Suriname
+69905196;AC;Rio Branco;Cadeia Velha;Rua Doutor Djalma de Mendonça
+69905199;AC;Rio Branco;Cadeia Velha;Rua México
+69905202;AC;Rio Branco;Cadeia Velha;Rua Progresso
+69905205;AC;Rio Branco;Cadeia Velha;Travessa Bolívia
+69905208;AC;Rio Branco;Cadeia Velha;Rua Várzea
+69905211;AC;Rio Branco;Cadeia Velha;Travessa Maria Tereza
+69905214;AC;Rio Branco;Cadeia Velha;Rua Professora Judite Paiva
+69905217;AC;Rio Branco;Cadeia Velha;Travessa da Seringa
+69905220;AC;Rio Branco;Cadeia Velha;Travessa das Flores
+69905223;AC;Rio Branco;Cadeia Velha;Rua Bolívia
+69905226;AC;Rio Branco;Cadeia Velha;Rua Maria Ribeiro
+69905229;AC;Rio Branco;Cadeia Velha;Rua São Pedro
+69905232;AC;Rio Branco;Cadeia Velha;Avenida Epaminondas Jácome
+69905235;AC;Rio Branco;Cadeia Velha;Travessa do Cais
+69905238;AC;Rio Branco;Cadeia Velha;Travessa Verde
+69905241;AC;Rio Branco;Cadeia Velha;Travessa Acácio
+69905244;AC;Rio Branco;Cadeia Velha;Rua Alércio Dias
+69905270;AC;Rio Branco;Baixada da Cadeia Velha;Travessa Alércio Dias
+69905272;AC;Rio Branco;Baixada da Cadeia Velha;Rua São Miguel
+69905274;AC;Rio Branco;Baixada da Cadeia Velha;Avenida Epaminondas Jácome
+69905276;AC;Rio Branco;Baixada da Cadeia Velha;Rua São Raimundo
+69905278;AC;Rio Branco;Baixada da Cadeia Velha;Rua Elias
+69905280;AC;Rio Branco;Baixada da Cadeia Velha;Rua Francisco Freitas
+69905282;AC;Rio Branco;Baixada da Cadeia Velha;Travessa Elias da Silva
+69905284;AC;Rio Branco;Baixada da Cadeia Velha;Travessa das Flores
+69905286;AC;Rio Branco;Baixada da Cadeia Velha;Rua Dom Pedro Freire
+69905288;AC;Rio Branco;Baixada da Cadeia Velha;Rua São Cristovão
+69905290;AC;Rio Branco;Baixada da Cadeia Velha;Travessa Araras
+69905292;AC;Rio Branco;Baixada da Cadeia Velha;Avenida Epaminondas Jácome
+69905294;AC;Rio Branco;Baixada da Cadeia Velha;Beco Beira Rio
+69905296;AC;Rio Branco;Baixada da Cadeia Velha;Rua Morango
+69905298;AC;Rio Branco;Baixada da Cadeia Velha;Beco Morango
+69905300;AC;Rio Branco;Baixada da Cadeia Velha;Travessa Buriti
+69905302;AC;Rio Branco;Baixada da Cadeia Velha;Travessa Morango
+69905304;AC;Rio Branco;Baixada da Cadeia Velha;Rua Kátira
+69905306;AC;Rio Branco;Baixada da Cadeia Velha;Rua José Thomás
+69905308;AC;Rio Branco;Baixada da Cadeia Velha;Rua Raimundo Coelho
+69905310;AC;Rio Branco;Baixada da Cadeia Velha;Rua Primavera
+69905312;AC;Rio Branco;Baixada da Cadeia Velha;Rua Gomes Machado
+69905314;AC;Rio Branco;Baixada da Cadeia Velha;Rua Vitória
+69905400;AC;Rio Branco;Cidade Nova;Rua Diamantina
+69905402;AC;Rio Branco;Cidade Nova;Rua Wilson Ribeiro
+69905404;AC;Rio Branco;Cidade Nova;Avenida Beira Rio
+69905406;AC;Rio Branco;Cidade Nova;Avenida Beira Rio
+69905408;AC;Rio Branco;Cidade Nova;Rua Palmeiral
+69905410;AC;Rio Branco;Cidade Nova;Rua Bodocó
+69905412;AC;Rio Branco;Cidade Nova;Rua Nova Andira
+69905414;AC;Rio Branco;Cidade Nova;Rua Baixa Verde
+69905416;AC;Rio Branco;Cidade Nova;Rua Salgueiro
+69905418;AC;Rio Branco;Cidade Nova;Rua Poços de Caldas
+69905420;AC;Rio Branco;Cidade Nova;Rua Lua Nova
+69905422;AC;Rio Branco;Cidade Nova;Rua Triunfo
+69905424;AC;Rio Branco;Cidade Nova;Rua Diamantina
+69905426;AC;Rio Branco;Cidade Nova;Rua Guajará
+69905428;AC;Rio Branco;Cidade Nova;Rua Barra do Sol
+69905430;AC;Rio Branco;Cidade Nova;Beco Beira Rio
+69905432;AC;Rio Branco;Cidade Nova;Travessa Beira Rio
+69905434;AC;Rio Branco;Cidade Nova;Avenida Uirapuru
+69905436;AC;Rio Branco;Cidade Nova;Rua Beira Rio
+69905438;AC;Rio Branco;Cidade Nova;Rua Triunfo
+69905440;AC;Rio Branco;Cidade Nova;Rua Poços de Caldas
+69905442;AC;Rio Branco;Cidade Nova;Travessa Cerejeira
+69905444;AC;Rio Branco;Cidade Nova;Rua Mangueira
+69905446;AC;Rio Branco;Cidade Nova;Rua Sertaneja
+69905448;AC;Rio Branco;Cidade Nova;Rua Baixa Verde
+69905450;AC;Rio Branco;Cidade Nova;Rua Revolta
+69905452;AC;Rio Branco;Cidade Nova;Rua Nova Andira
+69905454;AC;Rio Branco;Cidade Nova;Rua Coelho Ramos
+69905456;AC;Rio Branco;Cidade Nova;Rua do Atlético
+69905458;AC;Rio Branco;Cidade Nova;Rua Palmeiral
+69905460;AC;Rio Branco;Cidade Nova;Praça Campo do Atlético
+69905462;AC;Rio Branco;Cidade Nova;Avenida Uirapuru
+69905464;AC;Rio Branco;Cidade Nova;Rua Pau Brasil
+69905490;AC;Rio Branco;Quinze;Rua Nossa Senhora da Conceição
+69905492;AC;Rio Branco;Quinze;Rua Valderi Barbosa Mariel
+69905494;AC;Rio Branco;Quinze;Travessa Tiradentes
+69905496;AC;Rio Branco;Quinze;Rua Nossa Senhora da Conceição
+69905498;AC;Rio Branco;Quinze;Travessa Coronel Honório Alves
+69905500;AC;Rio Branco;Quinze;Rua Tiradentes
+69905502;AC;Rio Branco;Quinze;Rua Caxias
+69905504;AC;Rio Branco;Quinze;Rua Nossa Senhora das Graças
+69905506;AC;Rio Branco;Quinze;Travessa Azis
+69905508;AC;Rio Branco;Quinze;Rua Coronel Honório Alves
+69905510;AC;Rio Branco;Quinze;Travessa Santinho
+69905512;AC;Rio Branco;Quinze;Beco da Usina
+69905514;AC;Rio Branco;Quinze;Travessa do Mercado
+69905516;AC;Rio Branco;Quinze;Beco do Mercado
+69905518;AC;Rio Branco;Quinze;Rua Boulevard Augusto Monteiro
+69905520;AC;Rio Branco;Quinze;Beco da Rosa
+69905522;AC;Rio Branco;Quinze;Travessa Tupi
+69905524;AC;Rio Branco;Quinze;Rua 16 de Outubro
+69905526;AC;Rio Branco;Quinze;Rua Júlio Camilo de Oliveira
+69905528;AC;Rio Branco;Quinze;Travessa Cícero Guedes
+69905530;AC;Rio Branco;Quinze;Beco Cabo Martins
+69905532;AC;Rio Branco;Quinze;Rua Salim Farhat
+69905534;AC;Rio Branco;Quinze;Travessa Salim Farhat
+69905536;AC;Rio Branco;Quinze;Travessa Sarati
+69905538;AC;Rio Branco;Quinze;Rua 16 de Outubro
+69905540;AC;Rio Branco;Quinze;Beco Nossa Senhora da Conceição
+69905542;AC;Rio Branco;Quinze;Rua Nossa Senhora da Conceição
+69905590;AC;Rio Branco;Seis de Agosto;Rua Cunha Matos
+69905593;AC;Rio Branco;Seis de Agosto;Rua 17 de Novembro
+69905596;AC;Rio Branco;Seis de Agosto;Rua 24 de Janeiro
+69905599;AC;Rio Branco;Seis de Agosto;Travessa 22 de Maio
+69905602;AC;Rio Branco;Seis de Agosto;Travessa Natanael Albuquerque
+69905605;AC;Rio Branco;Seis de Agosto;Rodovia AC01
+69905608;AC;Rio Branco;Seis de Agosto;Beco da Cigana
+69905611;AC;Rio Branco;Seis de Agosto;Avenida Doutor Pereira Passos
+69905614;AC;Rio Branco;Seis de Agosto;Travessa Outono
+69905617;AC;Rio Branco;Seis de Agosto;Travessa Cearense
+69905620;AC;Rio Branco;Seis de Agosto;Travessa Feijó
+69905623;AC;Rio Branco;Seis de Agosto;Rua Pio Nazário
+69905626;AC;Rio Branco;Seis de Agosto;Rua 1º de Maio
+69905629;AC;Rio Branco;Seis de Agosto;Rua 6 de Agosto
+69905632;AC;Rio Branco;Seis de Agosto;Travessa Praxedes
+69905660;AC;Rio Branco;Seis de Agosto;Travessa Cabanelas
+69905662;AC;Rio Branco;Seis de Agosto;Travessa Pau Amarelo
+69905664;AC;Rio Branco;Seis de Agosto;Travessa Curupixá
+69905666;AC;Rio Branco;Seis de Agosto;Rua Santa Terezinha
+69905668;AC;Rio Branco;Seis de Agosto;Travessa Santa Terezinha
+69905670;AC;Rio Branco;Seis de Agosto;Rua Cearense
+69905672;AC;Rio Branco;Seis de Agosto;Beco São Domingos
+69905674;AC;Rio Branco;Seis de Agosto;Travessa Edson Mendes
+69905676;AC;Rio Branco;Seis de Agosto;Travessa Virgílio de Lima
+69905678;AC;Rio Branco;Seis de Agosto;Rua 31 de Março
+69905680;AC;Rio Branco;Seis de Agosto;Rua Hidaldo de Lima
+69905682;AC;Rio Branco;Seis de Agosto;Rua 1º de Maio
+69905684;AC;Rio Branco;Seis de Agosto;Rua 6 de Agosto
+69905686;AC;Rio Branco;Seis de Agosto;Travessa Marupá
+69905688;AC;Rio Branco;Seis de Agosto;Travessa Nossa Senhora de Nazaré
+69905690;AC;Rio Branco;Seis de Agosto;Travessa Seabra
+69905692;AC;Rio Branco;Seis de Agosto;Travessa Angelim de Pedra
+69905700;AC;Rio Branco;Invasão da Seis de Agosto;Travessa 12 de Outubro
+69905703;AC;Rio Branco;Invasão da Seis de Agosto;Rua Cearense
+69905706;AC;Rio Branco;Invasão da Seis de Agosto;Travessa Bilú
+69905709;AC;Rio Branco;Invasão da Seis de Agosto;Rua Mata Mata
+69905712;AC;Rio Branco;Invasão da Seis de Agosto;Rua Santa Terezinha
+69905715;AC;Rio Branco;Invasão da Seis de Agosto;Travessa Eden
+69905718;AC;Rio Branco;Invasão da Seis de Agosto;Ramal Beira da Judia
+69906080;AC;Rio Branco;Areal;Rua do Areal
+69906083;AC;Rio Branco;Areal;Rua do Areal
+69906086;AC;Rio Branco;Areal;Rua Oswaldo Coelho
+69906089;AC;Rio Branco;Areal;Rua do Areal
+69906092;AC;Rio Branco;Areal;Travessa Pires
+69906095;AC;Rio Branco;Areal;Travessa Serrana
+69906098;AC;Rio Branco;Areal;Travessa Janaína
+69906101;AC;Rio Branco;Areal;Travessa Coral
+69906104;AC;Rio Branco;Areal;Travessa Beija-flor
+69906107;AC;Rio Branco;Areal;Rua Lagore
+69906110;AC;Rio Branco;Areal;Rua da Pista
+69906113;AC;Rio Branco;Areal;Travessa da Otilia
+69906116;AC;Rio Branco;Areal;Via Chico Mendes
+69906119;AC;Rio Branco;Areal;Via Chico Mendes
+69906130;AC;Rio Branco;Vila do DNER;Rua Projetada 460
+69906134;AC;Rio Branco;Vila do DNER;Via Chico Mendes
+69906138;AC;Rio Branco;Vila do DNER;Rua Quinarí
+69906142;AC;Rio Branco;Vila do DNER;Travessa Quinarí
+69906146;AC;Rio Branco;Vila do DNER;Rua Saúde
+69906150;AC;Rio Branco;Vila do DNER;Via Chico Mendes
+69906154;AC;Rio Branco;Vila do DNER;Alameda Mendes Carlos
+69906158;AC;Rio Branco;Vila do DNER;Rua Vila do DNER
+69906210;AC;Rio Branco;Triângulo Velho;Via Chico Mendes
+69906212;AC;Rio Branco;Triângulo Velho;Rua Quinarí
+69906214;AC;Rio Branco;Triângulo Velho;Via Chico Mendes
+69906216;AC;Rio Branco;Triângulo Velho;Rua Coronel João de Oliveira Rolla
+69906218;AC;Rio Branco;Triângulo Velho;Rua Adolfo Barbosa Leite
+69906220;AC;Rio Branco;Triângulo Velho;Rua Flávio Batista
+69906222;AC;Rio Branco;Triângulo Velho;Travessa Flávio Batista
+69906224;AC;Rio Branco;Triângulo Velho;Rua Guilhermino Bastos
+69906226;AC;Rio Branco;Triângulo Velho;Beco Adolfo Barbosa Leite
+69906228;AC;Rio Branco;Triângulo Velho;Travessa Adolfo Barbosa Leite
+69906230;AC;Rio Branco;Triângulo Velho;Rua Boulevard Augusto Monteiro
+69906232;AC;Rio Branco;Triângulo Velho;Travessa Hernandes Fernandes
+69906260;AC;Rio Branco;Triângulo Novo;Rua Boulevard Augusto Monteiro
+69906262;AC;Rio Branco;Triângulo Novo;Rua Padre José
+69906264;AC;Rio Branco;Triângulo Novo;Travessa São José
+69906266;AC;Rio Branco;Triângulo Novo;Travessa Paulo
+69906268;AC;Rio Branco;Triângulo Novo;Travessa Assis
+69906270;AC;Rio Branco;Triângulo Novo;Travessa Carlos Vasconcelos
+69906272;AC;Rio Branco;Triângulo Novo;Travessa Serrinha
+69906274;AC;Rio Branco;Triângulo Novo;Travessa Triângulo
+69906276;AC;Rio Branco;Triângulo Novo;Travessa Padre André
+69906278;AC;Rio Branco;Triângulo Novo;Travessa Pedro
+69906280;AC;Rio Branco;Triângulo Novo;Beco São José
+69906282;AC;Rio Branco;Triângulo Novo;Rua Maria de Lourdes
+69906284;AC;Rio Branco;Triângulo Novo;Travessa Sobradinho
+69906286;AC;Rio Branco;Triângulo Novo;Travessa São Domingos
+69906288;AC;Rio Branco;Triângulo Novo;Travessa Jorge Cunha
+69906290;AC;Rio Branco;Triângulo Novo;Travessa Rita de Cássia
+69906292;AC;Rio Branco;Triângulo Novo;Rua Padre José
+69906294;AC;Rio Branco;Triângulo Novo;Beco Barulho
+69906296;AC;Rio Branco;Triângulo Novo;Rua Cupuaçu
+69906298;AC;Rio Branco;Triângulo Novo;Beco Cajá
+69906300;AC;Rio Branco;Triângulo Novo;Beco Silva
+69906302;AC;Rio Branco;Triângulo Novo;Via Chico Mendes
+69906310;AC;Rio Branco;Comara;Via Chico Mendes
+69906312;AC;Rio Branco;Comara;Via Chico Mendes
+69906314;AC;Rio Branco;Comara;Travessa Comara
+69906316;AC;Rio Branco;Comara;Beco Sargento Trilha
+69906318;AC;Rio Branco;Comara;Beco da Amizade
+69906320;AC;Rio Branco;Comara;Travessa Nacional
+69906322;AC;Rio Branco;Comara;Travessa Piracicaba
+69906324;AC;Rio Branco;Comara;Beco dos Amigos
+69906326;AC;Rio Branco;Comara;Via Chico Mendes
+69906328;AC;Rio Branco;Comara;Travessa Internacional
+69906330;AC;Rio Branco;Comara;Beco do Gaúcho
+69906332;AC;Rio Branco;Comara;Travessa Raimundo Guerra
+69906334;AC;Rio Branco;Comara;Rua Rio Branco
+69906336;AC;Rio Branco;Comara;Rua Cruzeiro do Sul
+69906338;AC;Rio Branco;Comara;Rua Assis Brasil
+69906340;AC;Rio Branco;Comara;Rua Brasiléia
+69906342;AC;Rio Branco;Comara;Rua Xapuri
+69906344;AC;Rio Branco;Comara;Travessa Capixaba
+69906346;AC;Rio Branco;Comara;Beco Quinarí
+69906348;AC;Rio Branco;Comara;Rua Raimundo Guerra
+69906390;AC;Rio Branco;Taquarí;Rua Baguari
+69906392;AC;Rio Branco;Taquarí;Travessa Lourival Ribeiro
+69906394;AC;Rio Branco;Taquarí;Rua Júlio Mariano
+69906396;AC;Rio Branco;Taquarí;Rua Monte Mário
+69906398;AC;Rio Branco;Taquarí;Rua Barra Verde
+69906400;AC;Rio Branco;Taquarí;Travessa Marmoré
+69906402;AC;Rio Branco;Taquarí;Rua Nossa Senhora de Fátima
+69906404;AC;Rio Branco;Taquarí;Travessa da Palha
+69906406;AC;Rio Branco;Taquarí;Travessa Guanabara
+69906408;AC;Rio Branco;Taquarí;Rua Lourival Ribeiro
+69906410;AC;Rio Branco;Taquarí;Rua do Passeio
+69906412;AC;Rio Branco;Taquarí;Travessa Taquari
+69906414;AC;Rio Branco;Taquarí;Travessa Beira Rio
+69906416;AC;Rio Branco;Taquarí;Travessa Xapuri
+69906418;AC;Rio Branco;Taquarí;Rua Baixa Verde
+69906420;AC;Rio Branco;Taquarí;Rua Júlio Mariano
+69906422;AC;Rio Branco;Taquarí;Travessa Baguarí
+69906424;AC;Rio Branco;Taquarí;Travessa Itapeva
+69906426;AC;Rio Branco;Taquarí;Rua Baguari
+69906428;AC;Rio Branco;Taquarí;Travessa da Amizade
+69906430;AC;Rio Branco;Taquarí;Beco da Amizade
+69906432;AC;Rio Branco;Taquarí;Travessa São Joaquim
+69906434;AC;Rio Branco;Taquarí;Rua da Amizade
+69906436;AC;Rio Branco;Taquarí;Travessa Castanhola
+69906438;AC;Rio Branco;Taquarí;Travessa Rio Branco
+69906440;AC;Rio Branco;Taquarí;Travessa Wilson Ribeiro
+69906442;AC;Rio Branco;Taquarí;Travessa São Paulo
+69906444;AC;Rio Branco;Taquarí;Rua Aparecida do Norte
+69906446;AC;Rio Branco;Taquarí;Rua Wilson Ribeiro
+69906448;AC;Rio Branco;Taquarí;Rua São Paulo
+69906450;AC;Rio Branco;Taquarí;Travessa do Sol
+69906452;AC;Rio Branco;Taquarí;Travessa Wilson Ribeiro II
+69906454;AC;Rio Branco;Taquarí;Rua João Ribeiro
+69906456;AC;Rio Branco;Taquarí;Rua Preciosa
+69906458;AC;Rio Branco;Taquarí;Rua Ulisses Guimarães
+69906460;AC;Rio Branco;Taquarí;Rua Taquarí
+69906462;AC;Rio Branco;Taquarí;Rua Canção de Fogo
+69906464;AC;Rio Branco;Taquarí;Travessa Grande Otelo
+69906466;AC;Rio Branco;Taquarí;Rua Santo Antônio
+69906468;AC;Rio Branco;Taquarí;Travessa Pégasus
+69906470;AC;Rio Branco;Taquarí;Travessa Apolo
+69906472;AC;Rio Branco;Taquarí;Ramal Menino Jesus
+69906474;AC;Rio Branco;Taquarí;Rua Baguari
+69906476;AC;Rio Branco;Taquarí;Travessa Morada do Sol
+69906478;AC;Rio Branco;Taquarí;Travessa Lins
+69906480;AC;Rio Branco;Taquarí;Rua do Sol
+69906482;AC;Rio Branco;Taquarí;Travessa Zeus
+69906484;AC;Rio Branco;Taquarí;Travessa Diógenes
+69906486;AC;Rio Branco;Taquarí;Travessa Felicidade
+69906488;AC;Rio Branco;Taquarí;Rua Baguari
+69906490;AC;Rio Branco;Taquarí;Rua do Passeio
+69906492;AC;Rio Branco;Taquarí;Rua do Passeio
+69906494;AC;Rio Branco;Taquarí;Rua do Passeio
+69906496;AC;Rio Branco;Taquarí;Rua do Passeio
+69906498;AC;Rio Branco;Taquarí;Travessa Araguari
+69906500;AC;Rio Branco;Taquarí;Rua Tambuatá
+69906502;AC;Rio Branco;Taquarí;Travessa Figueiredo
+69906504;AC;Rio Branco;Taquarí;Travessa General
+69906506;AC;Rio Branco;Taquarí;Travessa Piracicaba
+69906508;AC;Rio Branco;Taquarí;Travessa 15 de Jaú
+69906510;AC;Rio Branco;Taquarí;Travessa Cruzeiro
+69906512;AC;Rio Branco;Taquarí;Travessa Vasco da Gama
+69906514;AC;Rio Branco;Taquarí;Travessa Bragantina
+69906620;AC;Rio Branco;Praia do Amapá;Rua Praia do Jordão
+69906622;AC;Rio Branco;Praia do Amapá;Rua Praia do Iaco
+69906624;AC;Rio Branco;Praia do Amapá;Rua Aldeota
+69906626;AC;Rio Branco;Praia do Amapá;Avenida Ponta Negra
+69906628;AC;Rio Branco;Praia do Amapá;Rua Praia Grande
+69906630;AC;Rio Branco;Praia do Amapá;Avenida Fortaleza do Abunã
+69906632;AC;Rio Branco;Praia do Amapá;Rua Praia da Base
+69906634;AC;Rio Branco;Praia do Amapá;Rua Salinas
+69906636;AC;Rio Branco;Praia do Amapá;Rua Praia do Moa
+69906638;AC;Rio Branco;Praia do Amapá;Rua Praia do Futuro
+69906640;AC;Rio Branco;Praia do Amapá;Avenida Praia do Amapá
+69907500;AC;Rio Branco;Recanto dos Buritis;Travessa da Judia
+69907503;AC;Rio Branco;Recanto dos Buritis;Travessa Paraíso
+69907506;AC;Rio Branco;Recanto dos Buritis;Travessa Queiroz
+69907509;AC;Rio Branco;Recanto dos Buritis;Travessa Nascimento
+69907512;AC;Rio Branco;Recanto dos Buritis;Travessa Fialho
+69907515;AC;Rio Branco;Recanto dos Buritis;Travessa Mineiro
+69907518;AC;Rio Branco;Recanto dos Buritis;Travessa da Judia
+69907521;AC;Rio Branco;Recanto dos Buritis;Travessa Alvoredo
+69907524;AC;Rio Branco;Recanto dos Buritis;Travessa Coroada
+69907527;AC;Rio Branco;Recanto dos Buritis;Travessa Coelho
+69907530;AC;Rio Branco;Recanto dos Buritis;Travessa Conceição
+69907533;AC;Rio Branco;Recanto dos Buritis;Travessa São Vicente
+69907536;AC;Rio Branco;Recanto dos Buritis;Travessa Maria Helena
+69907539;AC;Rio Branco;Recanto dos Buritis;Travessa Valmar
+69907542;AC;Rio Branco;Recanto dos Buritis;Travessa Maria Verônica
+69907545;AC;Rio Branco;Recanto dos Buritis;Travessa São Mateus
+69907548;AC;Rio Branco;Recanto dos Buritis;Travessa União
+69907550;AC;Rio Branco;Bosque;Travessa Padre Thiago
+69907551;AC;Rio Branco;Recanto dos Buritis;Travessa Feijó
+69907554;AC;Rio Branco;Recanto dos Buritis;Travessa Pelegrino
+69907557;AC;Rio Branco;Recanto dos Buritis;Travessa Madureira
+69907560;AC;Rio Branco;Recanto dos Buritis;Travessa Ipê
+69907563;AC;Rio Branco;Recanto dos Buritis;Travessa Nascente
+69907566;AC;Rio Branco;Recanto dos Buritis;Travessa Alegria
+69907569;AC;Rio Branco;Recanto dos Buritis;Rua São José
+69907572;AC;Rio Branco;Recanto dos Buritis;Travessa Osvaldo Coelho
+69907575;AC;Rio Branco;Recanto dos Buritis;Travessa Coelho
+69907620;AC;Rio Branco;Santa Inês;Travessa Santa Rosa
+69907623;AC;Rio Branco;Santa Inês;Travessa Maria Antônia
+69907626;AC;Rio Branco;Santa Inês;Travessa Aldenor de Souza
+69907629;AC;Rio Branco;Santa Inês;Travessa Ribeirinho
+69907632;AC;Rio Branco;Santa Inês;Travessa Paulista
+69907635;AC;Rio Branco;Santa Inês;Travessa São Bento
+69907638;AC;Rio Branco;Santa Inês;Rua Buriti
+69907641;AC;Rio Branco;Santa Inês;Rua da Sanacre
+69907644;AC;Rio Branco;Santa Inês;Travessa 12 de Junho
+69907647;AC;Rio Branco;Santa Inês;Travessa da Amizade
+69907650;AC;Rio Branco;Santa Inês;Beco 5 de Maio
+69907653;AC;Rio Branco;Santa Inês;Beco 1º de Maio
+69907656;AC;Rio Branco;Santa Inês;Travessa Dourado
+69907659;AC;Rio Branco;Santa Inês;Travessa 3 de Maio
+69907662;AC;Rio Branco;Santa Inês;Travessa Ribeiro
+69907665;AC;Rio Branco;Santa Inês;Rua Falck
+69907668;AC;Rio Branco;Santa Inês;Rua Santa Inês
+69907671;AC;Rio Branco;Santa Inês;Travessa Acerola
+69907674;AC;Rio Branco;Santa Inês;Travessa Thesco
+69907677;AC;Rio Branco;Santa Inês;Rua José Luis
+69907680;AC;Rio Branco;Santa Inês;Rua Santa Rita
+69907683;AC;Rio Branco;Santa Inês;Travessa Pinho
+69907686;AC;Rio Branco;Santa Inês;Rua Tio Aldorico
+69907689;AC;Rio Branco;Santa Inês;Rua José Carlos
+69907692;AC;Rio Branco;Santa Inês;Travessa da Castanha
+69907695;AC;Rio Branco;Santa Inês;Travessa Mangueira
+69907698;AC;Rio Branco;Santa Inês;Rua da Mangueira
+69907701;AC;Rio Branco;Santa Inês;Rodovia BR364
+69907704;AC;Rio Branco;Santa Inês;Rodovia BR364
+69907707;AC;Rio Branco;Santa Inês;Travessa Lourival Castanha
+69907710;AC;Rio Branco;Santa Inês;Travessa Ipê
+69907713;AC;Rio Branco;Santa Inês;Travessa das Amoras
+69907716;AC;Rio Branco;Santa Inês;Travessa Pica-pau
+69907719;AC;Rio Branco;Santa Inês;Rua Nilo Meireles
+69907722;AC;Rio Branco;Santa Inês;Travessa Recreio
+69907725;AC;Rio Branco;Santa Inês;Rua Edmundo Pinto
+69907728;AC;Rio Branco;Santa Inês;Beco Amazonas
+69907731;AC;Rio Branco;Santa Inês;Rua da Sanacre
+69907734;AC;Rio Branco;Santa Inês;Travessa Mateus
+69907737;AC;Rio Branco;Santa Inês;Travessa da Judia
+69907740;AC;Rio Branco;Santa Inês;Travessa Santo Antônio
+69907743;AC;Rio Branco;Santa Inês;Travessa Neto
+69907746;AC;Rio Branco;Santa Inês;Travessa Azeitona
+69907749;AC;Rio Branco;Santa Inês;Travessa São Paulo
+69907752;AC;Rio Branco;Santa Inês;Travessa Solimões
+69907755;AC;Rio Branco;Santa Inês;Travessa do Bueiro
+69907758;AC;Rio Branco;Santa Inês;Travessa da Judia
+69907761;AC;Rio Branco;Santa Inês;Beco Judia
+69907764;AC;Rio Branco;Santa Inês;Travessa do Pescador
+69907767;AC;Rio Branco;Santa Inês;Travessa São Mateus
+69907770;AC;Rio Branco;Santa Inês;Rua Apurinã
+69907780;AC;Rio Branco;Belo Jardim I;Travessa do Pescador
+69907782;AC;Rio Branco;Belo Jardim I;Ramal da Judia
+69907784;AC;Rio Branco;Belo Jardim I;Rua do Sorveteiro
+69907786;AC;Rio Branco;Belo Jardim I;Rua Tarauacá
+69907788;AC;Rio Branco;Belo Jardim I;Rua Guará
+69907790;AC;Rio Branco;Belo Jardim I;Beco São Domingos
+69907792;AC;Rio Branco;Belo Jardim I;Rua Santa Maria
+69907794;AC;Rio Branco;Belo Jardim I;Rua Paraná
+69907796;AC;Rio Branco;Belo Jardim I;Ramal da Judia
+69907798;AC;Rio Branco;Belo Jardim I;Travessa Edmundo Pinto
+69907800;AC;Rio Branco;Belo Jardim I;Beco da Amizade
+69907802;AC;Rio Branco;Belo Jardim I;Rua São Paulo
+69907804;AC;Rio Branco;Belo Jardim I;Travessa Cruzeiro do Sul
+69907806;AC;Rio Branco;Belo Jardim I;Rua João Paulo
+69907808;AC;Rio Branco;Belo Jardim I;Rua Copacabana
+69907810;AC;Rio Branco;Belo Jardim I;Rua Canoa
+69907812;AC;Rio Branco;Belo Jardim I;Travessa Flamengo
+69907814;AC;Rio Branco;Belo Jardim I;Travessa Cheque-Mate
+69907816;AC;Rio Branco;Belo Jardim I;Rua Flamengo
+69907818;AC;Rio Branco;Belo Jardim I;Rua das Árvores
+69907820;AC;Rio Branco;Belo Jardim I;Beco Índio
+69907822;AC;Rio Branco;Belo Jardim I;Ramal Macário
+69907824;AC;Rio Branco;Belo Jardim I;Ramal do Macarrão
+69907826;AC;Rio Branco;Belo Jardim I;Ramal do Macarrão
+69907828;AC;Rio Branco;Belo Jardim I;Travessa Santo Antônio
+69907830;AC;Rio Branco;Belo Jardim I;Rua 12 de Outubro
+69907832;AC;Rio Branco;Belo Jardim I;Travessa Rio Branco
+69907834;AC;Rio Branco;Belo Jardim I;Rua José Augusto
+69907836;AC;Rio Branco;Belo Jardim I;Rua Projetada 605
+69907838;AC;Rio Branco;Belo Jardim I;Rua 19 de Novembro
+69907840;AC;Rio Branco;Belo Jardim I;Rua das Flores
+69907842;AC;Rio Branco;Belo Jardim I;Travessa Chaves
+69907844;AC;Rio Branco;Belo Jardim I;Rua 15 de Novembro
+69907846;AC;Rio Branco;Belo Jardim I;Rua Princesinha
+69907848;AC;Rio Branco;Belo Jardim I;Travessa Isaías
+69907850;AC;Rio Branco;Belo Jardim I;Rua Brasiliano
+69907852;AC;Rio Branco;Belo Jardim I;Rua Guanabara
+69907854;AC;Rio Branco;Belo Jardim I;Rua Primavera
+69907856;AC;Rio Branco;Belo Jardim I;Rua 15 de Novembro
+69907858;AC;Rio Branco;Belo Jardim I;Travessa Santa Maria
+69907860;AC;Rio Branco;Belo Jardim I;Ramal da Judia
+69907862;AC;Rio Branco;Belo Jardim I;Travessa Machado
+69907864;AC;Rio Branco;Belo Jardim I;Travessa Pimenta Bueno
+69907866;AC;Rio Branco;Belo Jardim I;Travessa Manaus
+69907868;AC;Rio Branco;Belo Jardim I;Rodovia BR364
+69907870;AC;Rio Branco;Belo Jardim I;Rua Algodoeiro
+69908000;AC;Rio Branco;Belo Jardim II;Rodovia BR364
+69908002;AC;Rio Branco;Belo Jardim II;Rua São Francisco
+69908004;AC;Rio Branco;Belo Jardim II;Rua São Mateus
+69908006;AC;Rio Branco;Belo Jardim II;Ramal da União
+69908008;AC;Rio Branco;Belo Jardim II;Travessa 19 de Setembro
+69908010;AC;Rio Branco;Belo Jardim II;Travessa 25 de Dezembro
+69908012;AC;Rio Branco;Belo Jardim II;Travessa São Francisco
+69908014;AC;Rio Branco;Belo Jardim II;Rua Projetada 561
+69908016;AC;Rio Branco;Belo Jardim II;Travessa Plácido de Castro
+69908018;AC;Rio Branco;Belo Jardim II;Ramal da Zezé
+69908020;AC;Rio Branco;Belo Jardim II;Rua 1º de Maio
+69908022;AC;Rio Branco;Belo Jardim II;Ramal da Zezé
+69908024;AC;Rio Branco;Belo Jardim II;Rua Tancredo Neves
+69908026;AC;Rio Branco;Belo Jardim II;Rua Rio Bonito
+69908028;AC;Rio Branco;Belo Jardim II;Rua 11 de Fevereiro
+69908030;AC;Rio Branco;Belo Jardim II;Rua Eldorado
+69908032;AC;Rio Branco;Belo Jardim II;Rua Ayrton Senna
+69908034;AC;Rio Branco;Belo Jardim II;Travessa 1
+69908036;AC;Rio Branco;Belo Jardim II;Travessa Valdomiro
+69908038;AC;Rio Branco;Belo Jardim II;Rua 7 de Setembro
+69908040;AC;Rio Branco;Belo Jardim II;Rua Guarulhos
+69908042;AC;Rio Branco;Belo Jardim II;Rua 25 de Dezembro
+69908044;AC;Rio Branco;Belo Jardim II;Rua Hadácio Pereira Costa
+69908046;AC;Rio Branco;Belo Jardim II;Travessa Céu Azul
+69908048;AC;Rio Branco;Belo Jardim II;Rua da Paz
+69908050;AC;Rio Branco;Belo Jardim II;Rua Projetada 302
+69908052;AC;Rio Branco;Belo Jardim II;Travessa São José
+69908054;AC;Rio Branco;Belo Jardim II;Travessa das Hortas
+69908056;AC;Rio Branco;Belo Jardim II;Rua Almeida Barbosa
+69908058;AC;Rio Branco;Belo Jardim II;Rua Edmundo Pinto
+69908060;AC;Rio Branco;Belo Jardim II;Rua 13 de Maio
+69908062;AC;Rio Branco;Belo Jardim II;Rua Projetada 287
+69908064;AC;Rio Branco;Belo Jardim II;Rua Tiradentes
+69908066;AC;Rio Branco;Belo Jardim II;Travessa do Lago
+69908068;AC;Rio Branco;Belo Jardim II;Beco do Lago
+69908070;AC;Rio Branco;Belo Jardim II;Beco Cristo Rei
+69908072;AC;Rio Branco;Belo Jardim II;Rua Recanto das Flores
+69908074;AC;Rio Branco;Belo Jardim II;Travessa São Luiz
+69908076;AC;Rio Branco;Belo Jardim II;Rua das Palmeiras
+69908078;AC;Rio Branco;Belo Jardim II;Rua da Paz
+69908080;AC;Rio Branco;Belo Jardim II;Rodovia BR364
+69908082;AC;Rio Branco;Belo Jardim II;Rua Santana
+69908084;AC;Rio Branco;Belo Jardim II;Rua Corinthians
+69908086;AC;Rio Branco;Belo Jardim II;Travessa do Corinthians
+69908640;AC;Rio Branco;Loteamento Santa Helena;Rodovia AC40
+69908642;AC;Rio Branco;Loteamento Santa Helena;Rodovia AC40
+69908644;AC;Rio Branco;Loteamento Santa Helena;Rua Projetada 576
+69908646;AC;Rio Branco;Loteamento Santa Helena;Travessa do Levitas
+69908648;AC;Rio Branco;Loteamento Santa Helena;Rua do Levitas
+69908650;AC;Rio Branco;Loteamento Santa Helena;Travessa Santa Luzia
+69908652;AC;Rio Branco;Loteamento Santa Helena;Rua Gideões
+69908654;AC;Rio Branco;Loteamento Santa Helena;Travessa da Alegria
+69908656;AC;Rio Branco;Loteamento Santa Helena;Travessa Nossa Senhora de Fátima
+69908658;AC;Rio Branco;Loteamento Santa Helena;Beco Liberdade
+69908660;AC;Rio Branco;Loteamento Santa Helena;Travessa da Amizade
+69908662;AC;Rio Branco;Loteamento Santa Helena;Travessa Monte Sinai
+69908664;AC;Rio Branco;Loteamento Santa Helena;Travessa Posto de Saúde
+69908666;AC;Rio Branco;Loteamento Santa Helena;Travessa Osvaldo
+69908668;AC;Rio Branco;Loteamento Santa Helena;Travessa Benjamim
+69908670;AC;Rio Branco;Loteamento Santa Helena;Travessa Campo do Jordão
+69908672;AC;Rio Branco;Loteamento Santa Helena;Travessa Nova Aliança
+69908674;AC;Rio Branco;Loteamento Santa Helena;Travessa Santa Helena
+69908676;AC;Rio Branco;Loteamento Santa Helena;Travessa da Hosana
+69908678;AC;Rio Branco;Loteamento Santa Helena;Travessa Jardim do Éden
+69908680;AC;Rio Branco;Loteamento Santa Helena;Travessa Eródis
+69908682;AC;Rio Branco;Loteamento Santa Helena;Rua Jerusalém
+69908684;AC;Rio Branco;Loteamento Santa Helena;Travessa São José
+69908686;AC;Rio Branco;Loteamento Santa Helena;Travessa Galdino
+69908688;AC;Rio Branco;Loteamento Santa Helena;Travessa Monte das Oliveiras
+69908690;AC;Rio Branco;Loteamento Santa Helena;Rua Rosa de Saron
+69908692;AC;Rio Branco;Loteamento Santa Helena;Travessa Canaã
+69908694;AC;Rio Branco;Loteamento Santa Helena;Travessa El Shaday
+69908730;AC;Rio Branco;Loteamento Santa Helena;Rua Projetada 001
+69908732;AC;Rio Branco;Loteamento Santa Helena;Rodovia AC40
+69908734;AC;Rio Branco;Loteamento Santa Helena;Rua Gabriel
+69908736;AC;Rio Branco;Loteamento Santa Helena;Rua Zaqueu
+69908738;AC;Rio Branco;Loteamento Santa Helena;Rua Paralela 2
+69908740;AC;Rio Branco;Loteamento Santa Helena;Rua A
+69908742;AC;Rio Branco;Loteamento Santa Helena;Rua Paralela 1
+69908744;AC;Rio Branco;Loteamento Santa Helena;Rua B
+69908746;AC;Rio Branco;Loteamento Santa Helena;Rua C
+69908748;AC;Rio Branco;Loteamento Santa Helena;Rua D
+69908750;AC;Rio Branco;Loteamento Santa Helena;Rua E
+69908752;AC;Rio Branco;Loteamento Santa Helena;Rua F
+69908754;AC;Rio Branco;Loteamento Santa Helena;Rua G
+69908756;AC;Rio Branco;Loteamento Santa Helena;Rua H
+69908758;AC;Rio Branco;Loteamento Santa Helena;Rua I
+69908760;AC;Rio Branco;Loteamento Santa Helena;Avenida Principal
+69908762;AC;Rio Branco;Loteamento Santa Helena;Rua J
+69908764;AC;Rio Branco;Loteamento Santa Helena;Rua Francisco Correia da Silva
+69908766;AC;Rio Branco;Loteamento Santa Helena;Rua Gabriel
+69908768;AC;Rio Branco;Loteamento Santa Helena;Rodovia BR364
+69908820;AC;Rio Branco;Loteamento Santo Afonso;Rodovia BR364
+69908822;AC;Rio Branco;Loteamento Santo Afonso;Rua Cleomar Medeiros de Moraes
+69908824;AC;Rio Branco;Loteamento Santo Afonso;Rua Luiz Pires
+69908826;AC;Rio Branco;Loteamento Santo Afonso;Rua Tavares do Couto
+69908828;AC;Rio Branco;Loteamento Santo Afonso;Rua Tavares do Couto
+69908830;AC;Rio Branco;Loteamento Santo Afonso;Rua Gilberto Correia Lima
+69908832;AC;Rio Branco;Loteamento Santo Afonso;Rua José Marcos Leite
+69908834;AC;Rio Branco;Loteamento Santo Afonso;Rua Mamed Bitar
+69908836;AC;Rio Branco;Loteamento Santo Afonso;Rua Roque Garcia
+69908838;AC;Rio Branco;Loteamento Santo Afonso;Rua Ciro Facundo de Almeida
+69908840;AC;Rio Branco;Loteamento Santo Afonso;Rua Angélica Correia Vasconcelos
+69908842;AC;Rio Branco;Loteamento Santo Afonso;Rua Eleonora de Moraes
+69908844;AC;Rio Branco;Loteamento Santo Afonso;Rua Elizabete Medeiro de Moraes
+69908846;AC;Rio Branco;Loteamento Santo Afonso;Rua Evaldo Abreu Curity
+69908848;AC;Rio Branco;Loteamento Santo Afonso;Rua Nelson Brungroty
+69908850;AC;Rio Branco;Loteamento Santo Afonso;Rua Raimunda Pereira Lima
+69908852;AC;Rio Branco;Loteamento Santo Afonso;Rua Nonato Correia Lima
+69908854;AC;Rio Branco;Loteamento Santo Afonso;Rua Inês Medeiro de Moraes
+69908856;AC;Rio Branco;Loteamento Santo Afonso;Rua Antonio Pinheiro de Moraes
+69908858;AC;Rio Branco;Loteamento Santo Afonso;Rua Socorro Medeiros de Moraes
+69908860;AC;Rio Branco;Loteamento Santo Afonso;Rua Raimundo Pinheiro
+69908862;AC;Rio Branco;Loteamento Santo Afonso;Rua Geraldo Pinheiro
+69908864;AC;Rio Branco;Loteamento Santo Afonso;Rua Veríssimo Costa Neto
+69908866;AC;Rio Branco;Loteamento Santo Afonso;Rua Alegria Abdalla Isper
+69908868;AC;Rio Branco;Loteamento Santo Afonso;Rua Arivaldo Juvenil do Vale
+69908870;AC;Rio Branco;Loteamento Santo Afonso;Rua Projetada 644
+69908872;AC;Rio Branco;Loteamento Santo Afonso;Rua Humberto Vasconcelos Oliveira
+69908874;AC;Rio Branco;Loteamento Santo Afonso;Rua Neide Medeiros de Moraes
+69908876;AC;Rio Branco;Loteamento Santo Afonso;Rua Deovani Araújo de Moraes
+69908878;AC;Rio Branco;Loteamento Santo Afonso;Rua Ítalo Santos da Silva
+69908880;AC;Rio Branco;Loteamento Santo Afonso;Rua Noé Pereira
+69908882;AC;Rio Branco;Loteamento Santo Afonso;Rua Salim Farhat
+69908884;AC;Rio Branco;Loteamento Santo Afonso;Rua Projetada 653
+69908886;AC;Rio Branco;Loteamento Santo Afonso;Rua Antonio Ribeiro
+69908888;AC;Rio Branco;Loteamento Santo Afonso;Rua Antonio Ribeiro
+69908890;AC;Rio Branco;Loteamento Santo Afonso;Avenida Francisco Ribeiro
+69908892;AC;Rio Branco;Loteamento Santo Afonso;Avenida Francisco Ribeiro
+69908894;AC;Rio Branco;Loteamento Santo Afonso;Rua Adalcides Teixeira
+69908896;AC;Rio Branco;Loteamento Santo Afonso;Rua Adalcides Teixeira
+69908898;AC;Rio Branco;Loteamento Santo Afonso;Rodovia BR364
+69909000;AC;Rio Branco;Residencial Rosa Linda;Rodovia BR364
+69909002;AC;Rio Branco;Residencial Rosa Linda;Rua dos Moabitas
+69909004;AC;Rio Branco;Residencial Rosa Linda;Rua Raiz de Davi
+69909006;AC;Rio Branco;Residencial Rosa Linda;Rua Monte Sião
+69909008;AC;Rio Branco;Residencial Rosa Linda;Rua Araçagi
+69909010;AC;Rio Branco;Residencial Rosa Linda;Rua Avelino Alencar
+69909012;AC;Rio Branco;Residencial Rosa Linda;Rua Antônio Francisco
+69909014;AC;Rio Branco;Residencial Rosa Linda;Rua Paquetá
+69909016;AC;Rio Branco;Residencial Rosa Linda;Rua José Alencar
+69909018;AC;Rio Branco;Residencial Rosa Linda;Rua Samambaia
+69909020;AC;Rio Branco;Residencial Rosa Linda;Rua Santa Tereza
+69909022;AC;Rio Branco;Residencial Rosa Linda;Rua Santa Gilberto Correia
+69909024;AC;Rio Branco;Residencial Rosa Linda;Rua Acre
+69909026;AC;Rio Branco;Residencial Rosa Linda;Rua Pantanal
+69909028;AC;Rio Branco;Residencial Rosa Linda;Rua João Vieira
+69909030;AC;Rio Branco;Residencial Rosa Linda;Rua Raimundo Targino
+69909032;AC;Rio Branco;Residencial Rosa Linda;Rua Colinas
+69909034;AC;Rio Branco;Residencial Rosa Linda;Rua Raimundo Correia
+69909036;AC;Rio Branco;Residencial Rosa Linda;Rua dos Marajás
+69909038;AC;Rio Branco;Residencial Rosa Linda;Rua Principal II
+69909040;AC;Rio Branco;Residencial Rosa Linda;Rodovia BR364
+69909640;AC;Rio Branco;Vila da Amizade;Rodovia AC40
+69909642;AC;Rio Branco;Vila da Amizade;Rua da Amizade
+69909644;AC;Rio Branco;Vila da Amizade;Rua Hermínio de Melo
+69909646;AC;Rio Branco;Vila da Amizade;Rua Lázaro Teixeira dos Santos
+69909648;AC;Rio Branco;Vila da Amizade;Rua Guilherme Rodrigues Magalhães
+69909650;AC;Rio Branco;Vila da Amizade;Rua Maria Luciola da Silva
+69909652;AC;Rio Branco;Vila da Amizade;Rua Abacabeira
+69909654;AC;Rio Branco;Vila da Amizade;Travessa Jutaí
+69909656;AC;Rio Branco;Vila da Amizade;Rua Mariana
+69909658;AC;Rio Branco;Vila da Amizade;Rua Mariana
+69909660;AC;Rio Branco;Vila da Amizade;Travessa Neusa Vidal
+69909662;AC;Rio Branco;Vila da Amizade;Travessa das Mangueiras
+69909664;AC;Rio Branco;Vila da Amizade;Rua Hermínio de Melo
+69909666;AC;Rio Branco;Vila da Amizade;Travessa José Barbosa
+69909730;AC;Rio Branco;Vila Acre;Rodovia AC40
+69909732;AC;Rio Branco;Vila Acre;Travessa Paraíso
+69909734;AC;Rio Branco;Vila Acre;Rua Seringueira
+69909736;AC;Rio Branco;Vila Acre;Travessa Seringueira
+69909738;AC;Rio Branco;Vila Acre;Rua Assis Brasil
+69909740;AC;Rio Branco;Vila Acre;Rua Afonso Pena
+69909742;AC;Rio Branco;Vila Acre;Travessa Assis Brasil
+69909744;AC;Rio Branco;Vila Acre;Ramal Bom Jesus
+69909746;AC;Rio Branco;Vila Acre;Travessa Castro Alves
+69909748;AC;Rio Branco;Vila Acre;Rua Olavo Bilac
+69909750;AC;Rio Branco;Vila Acre;Rua Jorge Amado
+69909752;AC;Rio Branco;Vila Acre;Rua Zélia Gattai
+69909754;AC;Rio Branco;Vila Acre;Rua Austragésimo de Andrade
+69909756;AC;Rio Branco;Vila Acre;Rua Machado de Assis
+69909758;AC;Rio Branco;Vila Acre;Rua Luiz Fernando Veríssimo
+69909760;AC;Rio Branco;Vila Acre;Rua Fernando Sabino
+69909762;AC;Rio Branco;Vila Acre;Rua Luiz Fernando Veríssimo
+69909764;AC;Rio Branco;Vila Acre;Beco da Alegria
+69909766;AC;Rio Branco;Vila Acre;Travessa Boa Vontade
+69909768;AC;Rio Branco;Vila Acre;Travessa Vila Lobos
+69909770;AC;Rio Branco;Vila Acre;Rua Zilma Lima de Albuquerque
+69909772;AC;Rio Branco;Vila Acre;Rua Adão Galo
+69909774;AC;Rio Branco;Vila Acre;Rua Renascimento
+69909776;AC;Rio Branco;Vila Acre;Rua Argemiro da Silva Cardoso
+69909778;AC;Rio Branco;Vila Acre;Rua Antônio Júlio
+69909780;AC;Rio Branco;Vila Acre;Rua José Ferraz
+69909782;AC;Rio Branco;Vila Acre;Rua Francisco Ferreira do Nascimento
+69909784;AC;Rio Branco;Vila Acre;Rua Manoel Lima
+69909786;AC;Rio Branco;Vila Acre;Rua Renascimento
+69909788;AC;Rio Branco;Vila Acre;Rodovia AC40
+69909790;AC;Rio Branco;Vila Acre;Ramal Bom Futuro
+69909792;AC;Rio Branco;Vila Acre;Travessa do Redentor
+69909794;AC;Rio Branco;Vila Acre;Ramal Bom Futuro
+69909796;AC;Rio Branco;Vila Acre;Beco Bom Futuro
+69909798;AC;Rio Branco;Vila Acre;Travessa Boa Esperança
+69909800;AC;Rio Branco;Vila Acre;Ramal da Escola
+69909802;AC;Rio Branco;Vila Acre;Ramal Raimundo Saldanha
+69909804;AC;Rio Branco;Vila Acre;Rodovia AC40
+69909806;AC;Rio Branco;Vila Acre;Rodovia AC40
+69909808;AC;Rio Branco;Vila Acre;Rua Hidelfonso Cordeiro
+69909810;AC;Rio Branco;Vila Acre;Travessa Heitor
+69909812;AC;Rio Branco;Vila Acre;Rua Edmundo Pinto
+69909814;AC;Rio Branco;Vila Acre;Rua Virgílio Viana
+69909816;AC;Rio Branco;Vila Acre;Rua Major Mendonça Lima
+69909818;AC;Rio Branco;Vila Acre;Rua Atalaias
+69909820;AC;Rio Branco;Vila Acre;Travessa Buriti
+69911000;AC;Rio Branco;Volta Seca;Travessa Gabino Besouro
+69911003;AC;Rio Branco;Volta Seca;Travessa Itaquatiara
+69911006;AC;Rio Branco;Volta Seca;Rua Lei Áurea
+69911009;AC;Rio Branco;Volta Seca;Travessa Cruzeiro do Sul
+69911012;AC;Rio Branco;Volta Seca;Travessa Manuel Bandeira
+69911015;AC;Rio Branco;Volta Seca;Beco da Solidão
+69911018;AC;Rio Branco;Volta Seca;Rua Rio Grande do Sul
+69911021;AC;Rio Branco;Volta Seca;Travessa São Cristóvão
+69911024;AC;Rio Branco;Volta Seca;Rua Mario de Andrade
+69911027;AC;Rio Branco;Volta Seca;Rua Rio Grande do Sul
+69911030;AC;Rio Branco;Aeroporto Velho;Rua Rio Grande do Sul
+69911033;AC;Rio Branco;Aeroporto Velho;Beco Batista
+69911036;AC;Rio Branco;Aeroporto Velho;Rua Rio Grande do Sul
+69911039;AC;Rio Branco;Aeroporto Velho;Beco do Barracão
+69911042;AC;Rio Branco;Aeroporto Velho;Rua Lúcio Batista
+69911045;AC;Rio Branco;Aeroporto Velho;Rua Coração de Jesus
+69911048;AC;Rio Branco;Aeroporto Velho;Rua das Rosas
+69911051;AC;Rio Branco;Aeroporto Velho;Avenida Estado do Acre
+69911054;AC;Rio Branco;Aeroporto Velho;Travessa Benjamim
+69911057;AC;Rio Branco;Aeroporto Velho;Rua Acre
+69911060;AC;Rio Branco;Aeroporto Velho;Rua Rádio Farol
+69911063;AC;Rio Branco;Aeroporto Velho;Rua Plácido de Castro
+69911066;AC;Rio Branco;Aeroporto Velho;Rua Antônio Boto
+69911069;AC;Rio Branco;Aeroporto Velho;Rua Santos Dumont
+69911072;AC;Rio Branco;Aeroporto Velho;Rua Xapuri
+69911075;AC;Rio Branco;Aeroporto Velho;Rua do Terminal
+69911078;AC;Rio Branco;Aeroporto Velho;Travessa Santos Dumont
+69911081;AC;Rio Branco;Aeroporto Velho;Beco da Paz
+69911084;AC;Rio Branco;Aeroporto Velho;Rua da Paz
+69911087;AC;Rio Branco;Aeroporto Velho;Rua Acre 2
+69911090;AC;Rio Branco;Aeroporto Velho;Travessa Ari Rodrigues
+69911093;AC;Rio Branco;Aeroporto Velho;Rua Francisco Vieira
+69911096;AC;Rio Branco;Aeroporto Velho;Rua Ari Rodrigues
+69911099;AC;Rio Branco;Aeroporto Velho;Estrada da Sobral
+69911102;AC;Rio Branco;Aeroporto Velho;Beco da Lucinda
+69911105;AC;Rio Branco;Aeroporto Velho;Beco do Juscelino
+69911108;AC;Rio Branco;Aeroporto Velho;Estrada da Sobral
+69911111;AC;Rio Branco;Aeroporto Velho;Travessa Pista
+69911114;AC;Rio Branco;Aeroporto Velho;Estrada da Sobral
+69911117;AC;Rio Branco;Aeroporto Velho;Estrada da Sobral
+69911120;AC;Rio Branco;Glória;Travessa Ceará
+69911122;AC;Rio Branco;Glória;Rua Rádio Farol
+69911124;AC;Rio Branco;Glória;Rua C
+69911126;AC;Rio Branco;Glória;Travessa Havai
+69911128;AC;Rio Branco;Glória;Travessa Cavalcante
+69911130;AC;Rio Branco;Glória;Travessa Rádio Farol
+69911132;AC;Rio Branco;Glória;Rua São Lucas
+69911134;AC;Rio Branco;Glória;Travessa Cajazeira
+69911136;AC;Rio Branco;Glória;Travessa da Glória
+69911138;AC;Rio Branco;Glória;Rua da Glória
+69911140;AC;Rio Branco;Glória;Rua 15
+69911150;AC;Rio Branco;Pista;Beco da Glória
+69911152;AC;Rio Branco;Pista;Rua Novo Horizonte
+69911154;AC;Rio Branco;Pista;Rua Pantanal
+69911156;AC;Rio Branco;Pista;Rua Ji-Paraná
+69911158;AC;Rio Branco;Pista;Travessa São Mateus
+69911160;AC;Rio Branco;Pista;Travessa Tancredo Neves
+69911162;AC;Rio Branco;Pista;Rua Eldorado
+69911164;AC;Rio Branco;Pista;Travessa São Paulo
+69911166;AC;Rio Branco;Pista;Rua São Francisco
+69911168;AC;Rio Branco;Pista;Rua F
+69911170;AC;Rio Branco;Pista;Rua Blumenau
+69911172;AC;Rio Branco;Pista;Rua Alvoredo
+69911174;AC;Rio Branco;Pista;Rua Vilhena
+69911176;AC;Rio Branco;Pista;Travessa Cacoal
+69911178;AC;Rio Branco;Pista;Rua 4 de Outubro
+69911180;AC;Rio Branco;Pista;Rua São Pedro
+69911182;AC;Rio Branco;Pista;Rua São João
+69911184;AC;Rio Branco;Pista;Travessa Codajás
+69911186;AC;Rio Branco;Pista;Rua Ribeirão
+69911188;AC;Rio Branco;Pista;Travessa São José
+69911190;AC;Rio Branco;Pista;Travessa Ramos Ferreira
+69911200;AC;Rio Branco;Palheiral;Rua São Salvador
+69911202;AC;Rio Branco;Palheiral;Rua Oswaldo de Andrade
+69911204;AC;Rio Branco;Palheiral;Rua Tião Natureza
+69911206;AC;Rio Branco;Palheiral;Rua Itaipú
+69911208;AC;Rio Branco;Palheiral;Rua 7 de Setembro
+69911210;AC;Rio Branco;Palheiral;Rua Santa Rita
+69911212;AC;Rio Branco;Palheiral;Rua Tucuruí
+69911214;AC;Rio Branco;Palheiral;Beco 8 de Maio
+69911216;AC;Rio Branco;Palheiral;Rua A
+69911220;AC;Rio Branco;Conjunto Castelo Branco;Rua Santa Rita
+69911223;AC;Rio Branco;Conjunto Castelo Branco;Rua do Bola Preta
+69911226;AC;Rio Branco;Conjunto Castelo Branco;Travessa Martins Pena
+69911229;AC;Rio Branco;Conjunto Castelo Branco;Rua Governador Álvaro Maia
+69911232;AC;Rio Branco;Conjunto Castelo Branco;Rua Manoel Castilho
+69911235;AC;Rio Branco;Conjunto Castelo Branco;Rua Governador Artur Reis
+69911238;AC;Rio Branco;Conjunto Castelo Branco;Rua Afrânio Peixoto
+69911241;AC;Rio Branco;Conjunto Castelo Branco;Rua Álvaro Alves
+69911244;AC;Rio Branco;Conjunto Castelo Branco;Rua Faris Zaire
+69911247;AC;Rio Branco;Conjunto Castelo Branco;Rua 4 de Julho
+69911250;AC;Rio Branco;Conjunto Castelo Branco;Rua Padre Vieira
+69911253;AC;Rio Branco;Conjunto Castelo Branco;Rua Tomé de Souza
+69911256;AC;Rio Branco;Conjunto Castelo Branco;Rua Belém
+69911259;AC;Rio Branco;Conjunto Castelo Branco;Rua Vicente Pizzon
+69911262;AC;Rio Branco;Conjunto Castelo Branco;Rua Luiz Galvez
+69911265;AC;Rio Branco;Conjunto Castelo Branco;Rua Alberto Escócio de Faria
+69911268;AC;Rio Branco;Conjunto Castelo Branco;Rua Machado de Assis
+69911280;AC;Rio Branco;Conjunto Bela Vista;Rua São Francisco
+69911283;AC;Rio Branco;Conjunto Bela Vista;Rua do Eucalipto
+69911286;AC;Rio Branco;Conjunto Bela Vista;Rua Sargento Lira
+69911289;AC;Rio Branco;Conjunto Bela Vista;Rua Francisco de Mateo
+69911292;AC;Rio Branco;Conjunto Bela Vista;Rua 7 de Setembro
+69911295;AC;Rio Branco;Conjunto Bela Vista;Rua Pedro Gomes
+69911298;AC;Rio Branco;Conjunto Bela Vista;Rua Santo Inácio
+69911301;AC;Rio Branco;Conjunto Bela Vista;Rua 15 de Junho
+69911304;AC;Rio Branco;Conjunto Bela Vista;Rua Alfredo Zaire
+69911307;AC;Rio Branco;Conjunto Bela Vista;Travessa Lua
+69911310;AC;Rio Branco;Conjunto Bela Vista;Travessa São Francisco
+69911313;AC;Rio Branco;Conjunto Bela Vista;Travessa Brasiléia
+69911316;AC;Rio Branco;Conjunto Bela Vista;Rua Xapuri
+69911319;AC;Rio Branco;Conjunto Bela Vista;Rua Sena Madureira
+69911322;AC;Rio Branco;Conjunto Bela Vista;Travessa Paulo Zobulom
+69911325;AC;Rio Branco;Conjunto Bela Vista;Rua Raimundo Melo
+69911328;AC;Rio Branco;Conjunto Bela Vista;Rua Edmundo Pinto
+69911331;AC;Rio Branco;Conjunto Bela Vista;Rua 1º de Maio
+69911334;AC;Rio Branco;Conjunto Bela Vista;Rua Doutor José Luiz de Aguiar
+69911337;AC;Rio Branco;Conjunto Bela Vista;Travessa 1º de Agosto
+69911343;AC;Rio Branco;Conjunto Bela Vista;Travessa do Sol
+69911346;AC;Rio Branco;Conjunto Bela Vista;Rua Jaime Pereira
+69911349;AC;Rio Branco;Conjunto Bela Vista;Rua São Peregrino
+69911352;AC;Rio Branco;Conjunto Bela Vista;Estrada da Floresta
+69911355;AC;Rio Branco;Conjunto Bela Vista;Rua Jorge Amado
+69911358;AC;Rio Branco;Conjunto Bela Vista;Rua São Paulo
+69911361;AC;Rio Branco;Conjunto Bela Vista;Travessa Bela Vista
+69911364;AC;Rio Branco;Conjunto Bela Vista;Rua Nordeste
+69911367;AC;Rio Branco;Conjunto Bela Vista;Rua das Palmeiras
+69911370;AC;Rio Branco;Conjunto Bela Vista;Travessa São Sebastão
+69911373;AC;Rio Branco;Conjunto Bela Vista;Travessa Boa Vista
+69911376;AC;Rio Branco;Conjunto Bela Vista;Rua Padre Antônio
+69911380;AC;Rio Branco;Novo Horizonte;Rua Padre Antônio
+69911383;AC;Rio Branco;Novo Horizonte;Estrada da Floresta
+69911386;AC;Rio Branco;Novo Horizonte;Rua Monte Líbano
+69911389;AC;Rio Branco;Novo Horizonte;Travessa Escola
+69911392;AC;Rio Branco;Novo Horizonte;Travessa Neusa Vidal
+69911395;AC;Rio Branco;Novo Horizonte;Rua Verona
+69911398;AC;Rio Branco;Novo Horizonte;Rua Toshiba
+69911401;AC;Rio Branco;Novo Horizonte;Rua Parati
+69911404;AC;Rio Branco;Novo Horizonte;Rua Nauas
+69911407;AC;Rio Branco;Novo Horizonte;Rua Ademar de Barros
+69911410;AC;Rio Branco;Novo Horizonte;Rua Projetada 757
+69911420;AC;Rio Branco;João Eduardo I;Rua A
+69911422;AC;Rio Branco;João Eduardo I;Estrada da Floresta
+69911424;AC;Rio Branco;João Eduardo I;Travessa Rui Lino
+69911426;AC;Rio Branco;João Eduardo I;Rua Rui Lino
+69911428;AC;Rio Branco;João Eduardo I;Travessa Osasco
+69911430;AC;Rio Branco;João Eduardo I;Rua Anastácia
+69911432;AC;Rio Branco;João Eduardo I;Rua João Nogueira
+69911434;AC;Rio Branco;João Eduardo I;Rua Antônio José Nogueira
+69911436;AC;Rio Branco;João Eduardo I;Rua João Raimundo
+69911438;AC;Rio Branco;João Eduardo I;Rua Santa Maria
+69911440;AC;Rio Branco;João Eduardo I;Rua Santo Antônio
+69911442;AC;Rio Branco;João Eduardo I;Beco Santa Maria
+69911444;AC;Rio Branco;João Eduardo I;Rua Santa Luzia
+69911446;AC;Rio Branco;João Eduardo I;Rua São Francisco
+69911448;AC;Rio Branco;João Eduardo I;Rua São José
+69911450;AC;Rio Branco;João Eduardo I;Rua A
+69911452;AC;Rio Branco;João Eduardo I;Rua São Nicolau
+69911454;AC;Rio Branco;João Eduardo I;Rua São Luiz
+69911456;AC;Rio Branco;João Eduardo I;Rua Montevideu
+69911458;AC;Rio Branco;João Eduardo I;Rua Ana Nery
+69911460;AC;Rio Branco;João Eduardo I;Travessa Guanabara
+69911462;AC;Rio Branco;João Eduardo I;Travessa Capixaba
+69911464;AC;Rio Branco;João Eduardo I;Rua Novo Estado
+69911466;AC;Rio Branco;João Eduardo I;Rua Francisco Xavier
+69911468;AC;Rio Branco;João Eduardo I;Rua Campo Grande
+69911470;AC;Rio Branco;João Eduardo I;Rua Campo Grande
+69911472;AC;Rio Branco;João Eduardo I;Rua São Raimundo
+69911480;AC;Rio Branco;João Eduardo II;Travessa Milton Lucena
+69911482;AC;Rio Branco;João Eduardo II;Travessa Marinho Monte
+69911484;AC;Rio Branco;João Eduardo II;Travessa Messias
+69911486;AC;Rio Branco;João Eduardo II;Beco Zé Antônio
+69911488;AC;Rio Branco;João Eduardo II;Beco João Eduardo
+69911490;AC;Rio Branco;João Eduardo II;Rua Jerusalém
+69911492;AC;Rio Branco;João Eduardo II;Travessa Dom Bosco
+69911494;AC;Rio Branco;João Eduardo II;Travessa Santa Maria
+69911496;AC;Rio Branco;João Eduardo II;Travessa Jacó
+69911498;AC;Rio Branco;João Eduardo II;Rua Santa Luzia
+69911500;AC;Rio Branco;João Eduardo II;Rua São Francisco
+69911502;AC;Rio Branco;João Eduardo II;Rua São Sebastião
+69911504;AC;Rio Branco;João Eduardo II;Rua São Raimundo
+69911506;AC;Rio Branco;João Eduardo II;Travessa Apucarana
+69911508;AC;Rio Branco;João Eduardo II;Travessa Flaviano
+69911510;AC;Rio Branco;João Eduardo II;Rua Santa Terezinha
+69911512;AC;Rio Branco;João Eduardo II;Travessa Santa Madalena
+69911514;AC;Rio Branco;João Eduardo II;Travessa Mauá
+69911516;AC;Rio Branco;João Eduardo II;Rua Mauá
+69911518;AC;Rio Branco;João Eduardo II;Rua Álvaro Cézar
+69911520;AC;Rio Branco;João Eduardo II;Travessa João Edimar
+69911522;AC;Rio Branco;João Eduardo II;Travessa Raimundo Melo
+69911524;AC;Rio Branco;João Eduardo II;Travessa Carlos Santos
+69911526;AC;Rio Branco;João Eduardo II;Travessa Maria Amélia
+69911528;AC;Rio Branco;João Eduardo II;Travessa Itamarati
+69911530;AC;Rio Branco;João Eduardo II;Travessa Alencar
+69911532;AC;Rio Branco;João Eduardo II;Travessa Santa Cruz
+69911534;AC;Rio Branco;João Eduardo II;Travessa Vera Cruz
+69911536;AC;Rio Branco;João Eduardo II;Rua Hosana Carneiro
+69911538;AC;Rio Branco;João Eduardo II;Travessa Hosana Carneiro
+69911540;AC;Rio Branco;João Eduardo II;Rua Habitar Brasil
+69911542;AC;Rio Branco;João Eduardo II;Rua São Salvador
+69911544;AC;Rio Branco;João Eduardo II;Travessa C
+69911560;AC;Rio Branco;Bahia Velha;Travessa São Salvador
+69911562;AC;Rio Branco;Bahia Velha;Travessa São Marcos
+69911564;AC;Rio Branco;Bahia Velha;Rua Mem de Sá
+69911566;AC;Rio Branco;Bahia Velha;Travessa Mauá
+69911568;AC;Rio Branco;Bahia Velha;Travessa Canadá
+69911570;AC;Rio Branco;Bahia Velha;Travessa Dom Pedro
+69911572;AC;Rio Branco;Bahia Velha;Travessa Hélio Melo
+69911574;AC;Rio Branco;Bahia Velha;Travessa Globo
+69911576;AC;Rio Branco;Bahia Velha;Rua Mem de Sá
+69911578;AC;Rio Branco;Bahia Velha;Beco São Salvador
+69911580;AC;Rio Branco;Bahia Velha;Rua Bom Jesus
+69911582;AC;Rio Branco;Bahia Velha;Rua Santa Rita
+69911584;AC;Rio Branco;Bahia Velha;Travessa Bandeirante
+69911586;AC;Rio Branco;Bahia Velha;Travessa Raimundo Mesquita
+69911588;AC;Rio Branco;Bahia Velha;Travessa Tiradentes
+69911590;AC;Rio Branco;Bahia Velha;Rua Estácio de Sá
+69911650;AC;Rio Branco;Bahia Nova;Rua Santa Rita
+69911653;AC;Rio Branco;Bahia Nova;Rua Boa União
+69911656;AC;Rio Branco;Bahia Nova;Rua da Amizade
+69911659;AC;Rio Branco;Bahia Nova;Travessa da Glória
+69911662;AC;Rio Branco;Bahia Nova;Rua Profeta
+69911665;AC;Rio Branco;Bahia Nova;Rua 15
+69911668;AC;Rio Branco;Bahia Nova;Travessa Afonso Pena
+69911671;AC;Rio Branco;Bahia Nova;Travessa Capivara
+69911674;AC;Rio Branco;Bahia Nova;Rua Capivara
+69911677;AC;Rio Branco;Bahia Nova;Travessa Mangueira
+69911680;AC;Rio Branco;Bahia Nova;Rua Manoel Ribeiro
+69911683;AC;Rio Branco;Bahia Nova;Rua 13 de Junho
+69911686;AC;Rio Branco;Bahia Nova;Rua Lagoinha
+69911689;AC;Rio Branco;Bahia Nova;Travessa Estrela
+69911692;AC;Rio Branco;Bahia Nova;Rua Primavera
+69911695;AC;Rio Branco;Bahia Nova;Rua Três Primavera
+69911698;AC;Rio Branco;Bahia Nova;Rua São João
+69911701;AC;Rio Branco;Bahia Nova;Rua São Francisco
+69911704;AC;Rio Branco;Bahia Nova;Travessa Fortaleza
+69911707;AC;Rio Branco;Bahia Nova;Rua São Pedro
+69911710;AC;Rio Branco;Bahia Nova;Rua 13 de Maio
+69911713;AC;Rio Branco;Bahia Nova;Rua do Sol
+69911716;AC;Rio Branco;Bahia Nova;Rua Boa União
+69911719;AC;Rio Branco;Bahia Nova;Beco São Cristóvão
+69911722;AC;Rio Branco;Bahia Nova;Rua Projetada 470
+69911760;AC;Rio Branco;Boa União;Rua 13 de Maio
+69911762;AC;Rio Branco;Boa União;Rua 27 de Setembro
+69911764;AC;Rio Branco;Boa União;Rua 1º de Abril
+69911766;AC;Rio Branco;Boa União;Rua 10 de Janeiro
+69911768;AC;Rio Branco;Boa União;Rua 26 de Setembro
+69911770;AC;Rio Branco;Boa União;Rua 8 de Dezembro
+69911772;AC;Rio Branco;Boa União;Rua 6 de Maio
+69911774;AC;Rio Branco;Boa União;Rua 10 de Novembro
+69911776;AC;Rio Branco;Boa União;Rua 20 de Novembro
+69911778;AC;Rio Branco;Boa União;Rua 19 de Outubro
+69911780;AC;Rio Branco;Boa União;Rua 16 de Julho
+69911782;AC;Rio Branco;Boa União;Rua 25 de Fevereiro
+69911784;AC;Rio Branco;Boa União;Avenida Fares Fegali
+69911786;AC;Rio Branco;Boa União;Rua Rádio Farol
+69911788;AC;Rio Branco;Boa União;Travessa das Palmas
+69911790;AC;Rio Branco;Boa União;Rua Afonso Pena
+69911792;AC;Rio Branco;Boa União;Rua do Mangueiral
+69911794;AC;Rio Branco;Boa União;Beco do Mangueiral
+69911796;AC;Rio Branco;Boa União;Rua das Mangueiras
+69911800;AC;Rio Branco;Ayrton Senna;Estrada da Sobral
+69911802;AC;Rio Branco;Ayrton Senna;Estrada da Sobral
+69911804;AC;Rio Branco;Ayrton Senna;Rua Campo Grande
+69911806;AC;Rio Branco;Ayrton Senna;Rua Abacaxi
+69911808;AC;Rio Branco;Ayrton Senna;Beco Abacaxi
+69911810;AC;Rio Branco;Ayrton Senna;Travessa Nossa Senhora Aparecida
+69911812;AC;Rio Branco;Ayrton Senna;Travessa Iracema
+69911814;AC;Rio Branco;Ayrton Senna;Travessa Campo Novo
+69911816;AC;Rio Branco;Ayrton Senna;Rua do Barro
+69911818;AC;Rio Branco;Ayrton Senna;Rua Beira Rio
+69911820;AC;Rio Branco;Ayrton Senna;Rua Passo Fundo
+69911822;AC;Rio Branco;Ayrton Senna;Travessa Passo Fundo
+69911824;AC;Rio Branco;Ayrton Senna;Rua Projetada 711
+69911826;AC;Rio Branco;Ayrton Senna;Travessa Iracema II
+69911828;AC;Rio Branco;Ayrton Senna;Rua Ayrton Senna
+69911830;AC;Rio Branco;Ayrton Senna;Rua Jatobá
+69911832;AC;Rio Branco;Ayrton Senna;Rua da Prata
+69911834;AC;Rio Branco;Ayrton Senna;Rua Esmeralda
+69911836;AC;Rio Branco;Ayrton Senna;Travessa Zacarias
+69911838;AC;Rio Branco;Ayrton Senna;Travessa Três Cinco
+69911840;AC;Rio Branco;Ayrton Senna;Travessa Jutaí
+69911842;AC;Rio Branco;Ayrton Senna;Travessa do Sino
+69911844;AC;Rio Branco;Ayrton Senna;Rua Salinas
+69911846;AC;Rio Branco;Ayrton Senna;Rua Turiba
+69911848;AC;Rio Branco;Ayrton Senna;Travessa Jerusalém
+69911850;AC;Rio Branco;Ayrton Senna;Travessa Livramento
+69911852;AC;Rio Branco;Ayrton Senna;Travessa São Jorge
+69911854;AC;Rio Branco;Ayrton Senna;Rua Raimundo Melo
+69911856;AC;Rio Branco;Ayrton Senna;Rua Campo Novo
+69911858;AC;Rio Branco;Ayrton Senna;Rua Giocondo
+69911860;AC;Rio Branco;Ayrton Senna;Rua Teotônio Vilela
+69911862;AC;Rio Branco;Ayrton Senna;Rua João Gomes
+69911864;AC;Rio Branco;Ayrton Senna;Estrada da Sobral
+69911866;AC;Rio Branco;Ayrton Senna;Estrada da Sobral
+69911868;AC;Rio Branco;Ayrton Senna;Rua João Amâncio
+69911870;AC;Rio Branco;Ayrton Senna;Rua Liberdade
+69911872;AC;Rio Branco;Ayrton Senna;Travessa 7 de Julho
+69911874;AC;Rio Branco;Ayrton Senna;Travessa Edmundo Pinto
+69911876;AC;Rio Branco;Ayrton Senna;Travessa Liberdade II
+69911878;AC;Rio Branco;Ayrton Senna;Rua Frei Thiago
+69911880;AC;Rio Branco;Ayrton Senna;Rodovia Transacreana
+69911882;AC;Rio Branco;Ayrton Senna;Rua Martelo
+69912000;AC;Rio Branco;Sobral;Rua 26 de Junho
+69912002;AC;Rio Branco;Sobral;Rua 26 de Junho
+69912004;AC;Rio Branco;Sobral;Rua 3 de Agosto
+69912006;AC;Rio Branco;Sobral;Rua 11 de Dezembro
+69912008;AC;Rio Branco;Sobral;Rua 2 de Dezembro
+69912010;AC;Rio Branco;Sobral;Rua 5 de Junho
+69912012;AC;Rio Branco;Sobral;Rua 7 de Setembro
+69912014;AC;Rio Branco;Sobral;Rua Allan Victor
+69912016;AC;Rio Branco;Sobral;Rua 25 de Dezembro
+69912018;AC;Rio Branco;Sobral;Rua Doutor Vitor
+69912020;AC;Rio Branco;Sobral;Rua 15 de Julho
+69912022;AC;Rio Branco;Sobral;Rua do Sol
+69912024;AC;Rio Branco;Sobral;Rua Coral
+69912026;AC;Rio Branco;Sobral;Rua da Lua
+69912028;AC;Rio Branco;Sobral;Rua Adalberto Sena
+69912030;AC;Rio Branco;Sobral;Rua Ayrton Senna
+69912032;AC;Rio Branco;Sobral;Travessa Liberdade
+69912050;AC;Rio Branco;João Paulo;Rua São José I
+69912052;AC;Rio Branco;João Paulo;Travessa Tiradentes
+69912054;AC;Rio Branco;João Paulo;Rua Sebastião Amâncio
+69912056;AC;Rio Branco;João Paulo;Travessa Juricaba
+69912058;AC;Rio Branco;João Paulo;Rua João Amâncio
+69912060;AC;Rio Branco;João Paulo;Rua Juricaba
+69912062;AC;Rio Branco;João Paulo;Rua Tabosa
+69912120;AC;Rio Branco;Boa Vista;Rodovia Transacreana
+69912122;AC;Rio Branco;Boa Vista;Rua Ricardo Campelo
+69912124;AC;Rio Branco;Boa Vista;Travessa Márcio de Oliveira
+69912126;AC;Rio Branco;Boa Vista;Rua dos Operários
+69912128;AC;Rio Branco;Boa Vista;Rua Nabor Junior
+69912130;AC;Rio Branco;Boa Vista;Rua Major Gualter
+69912132;AC;Rio Branco;Boa Vista;Travessa Beija-flor
+69912134;AC;Rio Branco;Boa Vista;Rua Beija-flor
+69912136;AC;Rio Branco;Boa Vista;Rua do Futuro
+69912138;AC;Rio Branco;Boa Vista;Rua São José II
+69912140;AC;Rio Branco;Boa Vista;Rua Santo Antônio
+69912142;AC;Rio Branco;Boa Vista;Rua da Torre
+69912180;AC;Rio Branco;Plácido de Castro;Rua Iolanda Lima
+69912182;AC;Rio Branco;Plácido de Castro;Rua João das Flores
+69912184;AC;Rio Branco;Plácido de Castro;Rua Mangueira
+69912186;AC;Rio Branco;Plácido de Castro;Rua Fortaleza
+69912188;AC;Rio Branco;Plácido de Castro;Rua 27 de Julho
+69912190;AC;Rio Branco;Plácido de Castro;Rua Beija-flor
+69912192;AC;Rio Branco;Plácido de Castro;Travessa 2 de Junho
+69912194;AC;Rio Branco;Plácido de Castro;Travessa João de Barros
+69912196;AC;Rio Branco;Plácido de Castro;Rua Geraldo Poersch
+69912198;AC;Rio Branco;Plácido de Castro;Rua Aluízio Bezerra
+69912200;AC;Rio Branco;Plácido de Castro;Rua Adalcides Galo
+69912202;AC;Rio Branco;Plácido de Castro;Rua Loé Ferreira
+69912204;AC;Rio Branco;Plácido de Castro;Rua Noemia Maia de Lima
+69912206;AC;Rio Branco;Plácido de Castro;Rua Wilson Ribeiro
+69912208;AC;Rio Branco;Plácido de Castro;Avenida Adalberto Sena
+69912210;AC;Rio Branco;Plácido de Castro;Rua Tucano
+69912212;AC;Rio Branco;Plácido de Castro;Rua Dourado
+69912214;AC;Rio Branco;Plácido de Castro;Rua Domingos de Medeiros
+69912216;AC;Rio Branco;Plácido de Castro;Rua Urbano Medeiros
+69912218;AC;Rio Branco;Plácido de Castro;Rua José do Vale
+69912290;AC;Rio Branco;Floresta Sul;Rodovia Transacreana
+69912293;AC;Rio Branco;Floresta Sul;Via Verde
+69912296;AC;Rio Branco;Floresta Sul;Rua Sabrina Silva
+69912299;AC;Rio Branco;Floresta Sul;Travessa Sabrina silva
+69912302;AC;Rio Branco;Floresta Sul;Rua Independência
+69912305;AC;Rio Branco;Floresta Sul;Rua Joca Ferreira Lima
+69912308;AC;Rio Branco;Floresta Sul;Rua da Associação Caixa Econômica
+69912311;AC;Rio Branco;Floresta Sul;Rua Juca Ferreira Lima
+69912314;AC;Rio Branco;Floresta Sul;Rua Diamante
+69912317;AC;Rio Branco;Floresta Sul;Rua Dom Moacir Grechi
+69912320;AC;Rio Branco;Floresta Sul;Rua Artesanato
+69912323;AC;Rio Branco;Floresta Sul;Rua Seoria Ferreira Lima
+69912326;AC;Rio Branco;Floresta Sul;Rua Antônio Anselmo
+69912329;AC;Rio Branco;Floresta Sul;Rua Antônio Rufino
+69912332;AC;Rio Branco;Floresta Sul;Rua José Machado
+69912335;AC;Rio Branco;Floresta Sul;Rua Júlio Gama
+69912338;AC;Rio Branco;Floresta Sul;Rua Raimundo Malaquias
+69912341;AC;Rio Branco;Floresta Sul;Rua Francisco Vieira
+69912344;AC;Rio Branco;Floresta Sul;Rua Donato Camelo
+69912347;AC;Rio Branco;Floresta Sul;Rua Jacy Rodrigues
+69912350;AC;Rio Branco;Floresta Sul;Rua Saulo
+69912353;AC;Rio Branco;Floresta Sul;Rua José Bonifácio da Silva
+69912356;AC;Rio Branco;Floresta Sul;Via Verde
+69912359;AC;Rio Branco;Floresta Sul;Rua Timóteo de Souza
+69912362;AC;Rio Branco;Floresta Sul;Rua José Eusébio
+69912440;AC;Rio Branco;Floresta Sul;Rua Tabosa
+69912443;AC;Rio Branco;Floresta Sul;Estrada da Floresta
+69912446;AC;Rio Branco;Floresta Sul;Travessa Timóteo de Souza
+69912449;AC;Rio Branco;Floresta Sul;Beco Juvenal
+69912452;AC;Rio Branco;Floresta Sul;Estrada da Floresta
+69912455;AC;Rio Branco;Floresta Sul;Rua G
+69912458;AC;Rio Branco;Floresta Sul;Rua F
+69912461;AC;Rio Branco;Floresta Sul;Rua D
+69912464;AC;Rio Branco;Floresta Sul;Rua C
+69912467;AC;Rio Branco;Floresta Sul;Rua E
+69912470;AC;Rio Branco;Floresta Sul;Rua B
+69912473;AC;Rio Branco;Floresta Sul;Rua A
+69912476;AC;Rio Branco;Floresta Sul;Rua São Marcos
+69912479;AC;Rio Branco;Floresta Sul;Travessa Sucupira
+69912482;AC;Rio Branco;Floresta Sul;Travessa Buriti
+69912485;AC;Rio Branco;Floresta Sul;Rua Sucupira
+69912488;AC;Rio Branco;Floresta Sul;Rua Jutaí
+69912491;AC;Rio Branco;Floresta Sul;Travessa Sérgio Vale
+69912494;AC;Rio Branco;Floresta Sul;Rua Projetada 684
+69912497;AC;Rio Branco;Floresta Sul;Rua Caviana
+69912500;AC;Rio Branco;Floresta Sul;Rua Tabosa
+69914090;AC;Rio Branco;Vilage Tiradentes;Rua Tiradentes
+69914092;AC;Rio Branco;Vilage Tiradentes;Rua Alfazema
+69914094;AC;Rio Branco;Vilage Tiradentes;Rua Vila Rica
+69914096;AC;Rio Branco;Vilage Tiradentes;Rua Ouro Preto
+69914098;AC;Rio Branco;Vilage Tiradentes;Rua Ana Gomes
+69914100;AC;Rio Branco;Vilage Tiradentes;Rua Pedro Neves
+69914102;AC;Rio Branco;Vilage Tiradentes;Rua Edmundo Roseno Pinto
+69914104;AC;Rio Branco;Vilage Tiradentes;Rua Sebastião Nunes da Silva
+69914106;AC;Rio Branco;Vilage Tiradentes;Rua São João Del Rei
+69914260;AC;Rio Branco;Waldemar Maciel;Ramal Santa Maria
+69914262;AC;Rio Branco;Waldemar Maciel;Rua do Jasmim
+69914264;AC;Rio Branco;Waldemar Maciel;Rua das Rosas
+69914266;AC;Rio Branco;Waldemar Maciel;Rua das Avencas
+69914268;AC;Rio Branco;Waldemar Maciel;Rua Salvador
+69914270;AC;Rio Branco;Waldemar Maciel;Rua Pereira
+69914272;AC;Rio Branco;Waldemar Maciel;Rua Floresta
+69914274;AC;Rio Branco;Waldemar Maciel;Rua Maceió
+69914276;AC;Rio Branco;Waldemar Maciel;Rua São Luiz
+69914278;AC;Rio Branco;Waldemar Maciel;Rua Aracaju
+69914280;AC;Rio Branco;Waldemar Maciel;Rua Natal
+69914282;AC;Rio Branco;Waldemar Maciel;Rua José Fernandes
+69914284;AC;Rio Branco;Waldemar Maciel;Rua João Pessoa
+69914286;AC;Rio Branco;Waldemar Maciel;Rua Teresina
+69914288;AC;Rio Branco;Waldemar Maciel;Rua Porto Alegre
+69914290;AC;Rio Branco;Waldemar Maciel;Rua Belém
+69914292;AC;Rio Branco;Waldemar Maciel;Rua Fortaleza
+69914294;AC;Rio Branco;Waldemar Maciel;Rua Petrolina
+69914296;AC;Rio Branco;Waldemar Maciel;Rua Juazeiro
+69914298;AC;Rio Branco;Waldemar Maciel;Rua Olinda
+69914300;AC;Rio Branco;Waldemar Maciel;Rua Sergipe
+69914302;AC;Rio Branco;Waldemar Maciel;Travessa Aureliano Lopes
+69914304;AC;Rio Branco;Waldemar Maciel;Rua Raimundo Melo
+69914310;AC;Rio Branco;Calafate;Estrada do Calafate
+69914312;AC;Rio Branco;Calafate;Estrada do Calafate
+69914314;AC;Rio Branco;Calafate;Rua Maria José Domingos
+69914316;AC;Rio Branco;Calafate;Rua Maria Francisca Ribeiro
+69914318;AC;Rio Branco;Calafate;Rua Luiz Pereira
+69914320;AC;Rio Branco;Calafate;Estrada do Calafate
+69914322;AC;Rio Branco;Calafate;Travessa Calvário
+69914324;AC;Rio Branco;Calafate;Estrada do Calafate
+69914326;AC;Rio Branco;Calafate;Travessa João Lopes
+69914328;AC;Rio Branco;Calafate;Rua Porto Acre
+69914330;AC;Rio Branco;Calafate;Travessa Israel Lira
+69914332;AC;Rio Branco;Calafate;Rua da Alegria
+69914334;AC;Rio Branco;Calafate;Rua Rondônia
+69914336;AC;Rio Branco;Calafate;Travessa Santa Rosa
+69914338;AC;Rio Branco;Calafate;Rua São João
+69914340;AC;Rio Branco;Calafate;Rua Brasiléia
+69914342;AC;Rio Branco;Calafate;Rua 7 de Julho
+69914344;AC;Rio Branco;Calafate;Rua Marcília
+69914346;AC;Rio Branco;Calafate;Rua Jesus
+69914348;AC;Rio Branco;Calafate;Rua do Buriti
+69914350;AC;Rio Branco;Calafate;Travessa do Buriti
+69914352;AC;Rio Branco;Calafate;Rua Bom Jesus
+69914354;AC;Rio Branco;Calafate;Travessa Bom Jesus
+69914356;AC;Rio Branco;Calafate;Rua Benjamim Constant
+69914358;AC;Rio Branco;Calafate;Rua Mizael Martins
+69914360;AC;Rio Branco;Calafate;Rua Chico Mendes
+69914362;AC;Rio Branco;Calafate;Rua Madeireira
+69914364;AC;Rio Branco;Calafate;Rua Brasil
+69914366;AC;Rio Branco;Calafate;Rua da Amizade
+69914368;AC;Rio Branco;Calafate;Rua 12
+69914370;AC;Rio Branco;Calafate;Rua Gilson Nogueira Barros
+69914372;AC;Rio Branco;Calafate;Rua Nossa Senhora de Fátima
+69914374;AC;Rio Branco;Calafate;Rua Cruzeiro do Sul
+69914376;AC;Rio Branco;Calafate;Travessa da Paz
+69914378;AC;Rio Branco;Calafate;Rua Palmeira
+69914470;AC;Rio Branco;Conjunto Laélia Alcântara;Rua Jerusalém
+69914472;AC;Rio Branco;Conjunto Laélia Alcântara;Rua 25 de Dezembro
+69914474;AC;Rio Branco;Conjunto Laélia Alcântara;Rua Plácido de Castro
+69914476;AC;Rio Branco;Conjunto Laélia Alcântara;Rua São Pedro
+69914478;AC;Rio Branco;Conjunto Laélia Alcântara;Rua Primavera
+69914480;AC;Rio Branco;Conjunto Laélia Alcântara;Rua Mário Maia
+69914482;AC;Rio Branco;Conjunto Laélia Alcântara;Rua Benjamim
+69914484;AC;Rio Branco;Conjunto Laélia Alcântara;Rua Osvaldo Miranda
+69914486;AC;Rio Branco;Conjunto Laélia Alcântara;Rua Flamengo
+69914520;AC;Rio Branco;Ilson Ribeiro;Rua F
+69914523;AC;Rio Branco;Ilson Ribeiro;Rua A
+69914526;AC;Rio Branco;Ilson Ribeiro;Rua B
+69914529;AC;Rio Branco;Ilson Ribeiro;Rua C
+69914532;AC;Rio Branco;Ilson Ribeiro;Rua D
+69914535;AC;Rio Branco;Ilson Ribeiro;Rua E
+69914538;AC;Rio Branco;Ilson Ribeiro;Rua 10
+69914541;AC;Rio Branco;Ilson Ribeiro;Rua I
+69914544;AC;Rio Branco;Ilson Ribeiro;Rua S
+69914547;AC;Rio Branco;Ilson Ribeiro;Rua H
+69914550;AC;Rio Branco;Ilson Ribeiro;Rua J
+69914553;AC;Rio Branco;Ilson Ribeiro;Rua Z
+69914556;AC;Rio Branco;Ilson Ribeiro;Rua K
+69914559;AC;Rio Branco;Ilson Ribeiro;Rua L
+69914562;AC;Rio Branco;Ilson Ribeiro;Rua M
+69914565;AC;Rio Branco;Ilson Ribeiro;Rua Q
+69915000;AC;Rio Branco;Conjunto Tangará;Rua Isaura Parente
+69915002;AC;Rio Branco;Conjunto Tangará;Rua Dourado
+69915004;AC;Rio Branco;Conjunto Tangará;Rua São Lázaro
+69915006;AC;Rio Branco;Conjunto Tangará;Travessa das Rosas
+69915008;AC;Rio Branco;Conjunto Tangará;Travessa do Lanche
+69915010;AC;Rio Branco;Conjunto Tangará;Travessa Brilhante
+69915012;AC;Rio Branco;Conjunto Tangará;Rua Brilhante
+69915014;AC;Rio Branco;Conjunto Tangará;Avenida Edmundo Pinto
+69915016;AC;Rio Branco;Conjunto Tangará;Rua São Francisco
+69915018;AC;Rio Branco;Conjunto Tangará;Travessa José Rodrigues
+69915020;AC;Rio Branco;Conjunto Tangará;Rua Edmundo Pinto
+69915022;AC;Rio Branco;Conjunto Tangará;Rua 7 de Setembro
+69915024;AC;Rio Branco;Conjunto Tangará;Rua São Raimundo
+69915026;AC;Rio Branco;Conjunto Tangará;Rua Maria da Conceição
+69915028;AC;Rio Branco;Conjunto Tangará;Rua Longuinho da Silva
+69915030;AC;Rio Branco;Conjunto Tangará;Avenida Ceará
+69915032;AC;Rio Branco;Conjunto Tangará;Rua dos Engenheiros
+69915034;AC;Rio Branco;Conjunto Tangará;Avenida Ceará
+69915060;AC;Rio Branco;Loteamento Ipanema;Rua do Ciclista
+69915062;AC;Rio Branco;Loteamento Ipanema;Rua Petrópolis
+69915064;AC;Rio Branco;Loteamento Ipanema;Rua Cabo Frio
+69915066;AC;Rio Branco;Loteamento Ipanema;Rua Angra dos Reis
+69915068;AC;Rio Branco;Loteamento Ipanema;Rua Búzios
+69915070;AC;Rio Branco;Loteamento Ipanema;Rua Saquarema
+69915072;AC;Rio Branco;Loteamento Ipanema;Rua do Pedestre
+69915074;AC;Rio Branco;Loteamento Ipanema;Rua Campos
+69915110;AC;Rio Branco;Conjunto Esperança;Rua Montreal II
+69915112;AC;Rio Branco;Conjunto Esperança;Rua Montreal
+69915114;AC;Rio Branco;Conjunto Esperança;Rua Areia
+69915116;AC;Rio Branco;Conjunto Esperança;Travessa Cassimiro
+69915118;AC;Rio Branco;Conjunto Esperança;Rua Álvaro Inácio
+69915120;AC;Rio Branco;Conjunto Esperança;Travessa No Limite II
+69915122;AC;Rio Branco;Conjunto Esperança;Rua Cruzeiro do Sul
+69915124;AC;Rio Branco;Conjunto Esperança;Travessa Santa Lúcia
+69915126;AC;Rio Branco;Conjunto Esperança;Rua Maria das Dores
+69915128;AC;Rio Branco;Conjunto Esperança;Rua da Ligação V
+69915130;AC;Rio Branco;Conjunto Esperança;Rua Projetada 303
+69915132;AC;Rio Branco;Conjunto Esperança;Rua Projetada 310
+69915134;AC;Rio Branco;Conjunto Esperança;Rua Projetada 308
+69915136;AC;Rio Branco;Conjunto Esperança;Rua da Horta
+69915138;AC;Rio Branco;Conjunto Esperança;Travessa No Limite
+69915140;AC;Rio Branco;Conjunto Esperança;Rua Álvaro de Azevedo
+69915142;AC;Rio Branco;Conjunto Esperança;Rua Joaquim Nabuco
+69915144;AC;Rio Branco;Conjunto Esperança;Rua Alfredo Taunay
+69915146;AC;Rio Branco;Conjunto Esperança;Rua Domingos Olímpio
+69915148;AC;Rio Branco;Conjunto Esperança;Travessa Raul Pompéia
+69915150;AC;Rio Branco;Conjunto Esperança;Travessa Fagundes Varela
+69915152;AC;Rio Branco;Conjunto Esperança;Rua Junqueira Freire
+69915154;AC;Rio Branco;Conjunto Esperança;Rua Maria das Dores
+69915156;AC;Rio Branco;Conjunto Esperança;Rua Cruzeiro do Sul
+69915158;AC;Rio Branco;Conjunto Esperança;Rua Domingos Vidal
+69915160;AC;Rio Branco;Conjunto Esperança;Rua Nabuco de Araújo
+69915162;AC;Rio Branco;Conjunto Esperança;Rua José Lins do Rego
+69915164;AC;Rio Branco;Conjunto Esperança;Rua Felipe dos Santos
+69915166;AC;Rio Branco;Conjunto Esperança;Rua Cecília Meireles
+69915168;AC;Rio Branco;Conjunto Esperança;Rua Euclides da Cunha
+69915170;AC;Rio Branco;Conjunto Esperança;Rua Raquel de Queiroz
+69915172;AC;Rio Branco;Conjunto Esperança;Rua Lima Barreto
+69915174;AC;Rio Branco;Conjunto Esperança;Rua Aloízio de Azevedo
+69915176;AC;Rio Branco;Conjunto Esperança;Rua Graça Aranha
+69915178;AC;Rio Branco;Conjunto Esperança;Rua General Vieira de Melo
+69915180;AC;Rio Branco;Conjunto Esperança;Travessa Gonçalves Dias
+69915182;AC;Rio Branco;Conjunto Esperança;Rua General Vieira de Melo
+69915184;AC;Rio Branco;Conjunto Esperança;Travessa da Horta
+69915190;AC;Rio Branco;Nova Esperança;Rua São Mateus
+69915192;AC;Rio Branco;Nova Esperança;Avenida 7 de Setembro
+69915194;AC;Rio Branco;Nova Esperança;Rua Gastão Lobão
+69915196;AC;Rio Branco;Nova Esperança;Estrada do Calafate
+69915198;AC;Rio Branco;Nova Esperança;Rua Hélio Melo
+69915200;AC;Rio Branco;Nova Esperança;Rua Terra
+69915202;AC;Rio Branco;Nova Esperança;Rua São José
+69915204;AC;Rio Branco;Nova Esperança;Rua 25 de Dezembro
+69915206;AC;Rio Branco;Nova Esperança;Beco da Esperança
+69915208;AC;Rio Branco;Nova Esperança;Rua 12 de Outubro
+69915210;AC;Rio Branco;Nova Esperança;Travessa da Amizade
+69915212;AC;Rio Branco;Nova Esperança;Beco da Felicidade
+69915214;AC;Rio Branco;Nova Esperança;Rua da Paz
+69915216;AC;Rio Branco;Nova Esperança;Rua Cristo Rei
+69915218;AC;Rio Branco;Nova Esperança;Rua Margarida
+69915220;AC;Rio Branco;Nova Esperança;Avenida 7 de Setembro
+69915222;AC;Rio Branco;Nova Esperança;Rua São Pedro
+69915224;AC;Rio Branco;Nova Esperança;Rua Nordeste
+69915226;AC;Rio Branco;Nova Esperança;Rua 15 de Dezembro
+69915228;AC;Rio Branco;Nova Esperança;Rua Benzinho
+69915230;AC;Rio Branco;Nova Esperança;Rua 25 de Agosto
+69915232;AC;Rio Branco;Nova Esperança;Rua Vitória
+69915234;AC;Rio Branco;Nova Esperança;Rua Francisco Gomes
+69915236;AC;Rio Branco;Nova Esperança;Rua José Mendes
+69915238;AC;Rio Branco;Nova Esperança;Travessa Padre Fernão Gardim
+69915240;AC;Rio Branco;Nova Esperança;Rua Betânia
+69915242;AC;Rio Branco;Nova Esperança;Rua 1º de Abril
+69915244;AC;Rio Branco;Nova Esperança;Rua João Neto da Silva
+69915246;AC;Rio Branco;Nova Esperança;Rua José Paulino de Oliveira
+69915248;AC;Rio Branco;Nova Esperança;Rua Avestruz
+69915250;AC;Rio Branco;Nova Esperança;Travessa São José
+69915252;AC;Rio Branco;Nova Esperança;Rua Jatuarana
+69915254;AC;Rio Branco;Nova Esperança;Estrada da Floresta
+69915256;AC;Rio Branco;Nova Esperança;Rua Projetada 99
+69915258;AC;Rio Branco;Nova Esperança;Rua Ema
+69915260;AC;Rio Branco;Nova Esperança;Rua Arminio Alves
+69915262;AC;Rio Branco;Nova Esperança;Rua Maranhão
+69915264;AC;Rio Branco;Nova Esperança;Rua Pará
+69915266;AC;Rio Branco;Nova Esperança;Estrada do Calafate
+69915270;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua LBA
+69915272;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Sena Madureira
+69915274;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Travessa Eldorado
+69915276;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Mário Maia
+69915278;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Senador Guiomard Santos
+69915280;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Mâncio Lima
+69915282;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Cosme
+69915284;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Lilia Cadaxo
+69915286;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Travessa Betel
+69915288;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Cruzeiro do Sul
+69915290;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Porto Acre
+69915292;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Manoel Urbano
+69915294;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Augusto Cesar
+69915296;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Brasiléia
+69915298;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Travessa Rio de Janeiro
+69915300;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Xapurí
+69915302;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Travessa São José
+69915304;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Travessa Bandeira
+69915306;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Marte
+69915308;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Travessa Brasil
+69915310;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Travessa 7 de Setembro
+69915312;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua 25 de Dezembro
+69915314;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua C
+69915316;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Rua Porto Walter
+69915318;AC;Rio Branco;Conjunto Habitacional Vila Betel 2;Travessa Jatobá
+69915350;AC;Rio Branco;Residencial Araçá;Rua Gregório de Matos
+69915352;AC;Rio Branco;Residencial Araçá;Travessa Barbosa da Gama
+69915354;AC;Rio Branco;Residencial Araçá;Rua Gabriel Soares
+69915356;AC;Rio Branco;Residencial Araçá;Travessa Bento Teixeira
+69915358;AC;Rio Branco;Residencial Araçá;Travessa Magalhães
+69915360;AC;Rio Branco;Residencial Araçá;Rua Gandavo
+69915362;AC;Rio Branco;Residencial Araçá;Rua São José
+69915364;AC;Rio Branco;Residencial Araçá;Rua Tabosa
+69915370;AC;Rio Branco;Conjunto Habitar Brasil;Estrada do Calafate
+69915372;AC;Rio Branco;Conjunto Habitar Brasil;Rua São João
+69915374;AC;Rio Branco;Conjunto Habitar Brasil;Rua Gastão Lobão
+69915376;AC;Rio Branco;Conjunto Habitar Brasil;Rua São Lucas
+69915378;AC;Rio Branco;Conjunto Habitar Brasil;Avenida 7 de Setembro
+69915380;AC;Rio Branco;Conjunto Habitar Brasil;Rua São Marcos
+69915410;AC;Rio Branco;Jardim Europa;Rua General Vieira de Melo
+69915413;AC;Rio Branco;Jardim Europa;Rua Projetada 307
+69915416;AC;Rio Branco;Jardim Europa;Alameda Dinamarca
+69915419;AC;Rio Branco;Jardim Europa;Alameda Bélgica
+69915422;AC;Rio Branco;Jardim Europa;Alameda Atenas
+69915425;AC;Rio Branco;Jardim Europa;Alameda Irlanda
+69915428;AC;Rio Branco;Jardim Europa;Rua São Marcos
+69915431;AC;Rio Branco;Jardim Europa;Rua Mateus
+69915434;AC;Rio Branco;Jardim Europa;Alameda Venezuela
+69915437;AC;Rio Branco;Jardim Europa;Alameda França
+69915440;AC;Rio Branco;Jardim Europa;Alameda Lisboa
+69915443;AC;Rio Branco;Jardim Europa;Alameda Portugal
+69915446;AC;Rio Branco;Jardim Europa;Alameda Coimbra
+69915449;AC;Rio Branco;Jardim Europa;Alameda Barcelona
+69915452;AC;Rio Branco;Jardim Europa;Alameda Verona
+69915455;AC;Rio Branco;Jardim Europa;Alameda Suíça
+69915458;AC;Rio Branco;Jardim Europa;Alameda Viena
+69915461;AC;Rio Branco;Jardim Europa;Alameda Austrália
+69915464;AC;Rio Branco;Jardim Europa;Alameda Noruega
+69915467;AC;Rio Branco;Jardim Europa;Alameda Itália
+69915470;AC;Rio Branco;Jardim Europa;Alameda Nápoli
+69915473;AC;Rio Branco;Jardim Europa;Alameda Sevilha
+69915476;AC;Rio Branco;Jardim Europa;Alameda Brasil
+69915479;AC;Rio Branco;Jardim Europa;Alameda Madri
+69915482;AC;Rio Branco;Jardim Europa;Alameda Escócia
+69915485;AC;Rio Branco;Jardim Europa;Alameda Chile
+69915488;AC;Rio Branco;Jardim Europa;Alameda Equador
+69915491;AC;Rio Branco;Jardim Europa;Alameda Bolivia
+69915494;AC;Rio Branco;Jardim Europa;Alameda Gênova
+69915497;AC;Rio Branco;Jardim Europa;Alameda Hungria
+69915500;AC;Rio Branco;Jardim de Alah;Rua Mohamed
+69915502;AC;Rio Branco;Jardim de Alah;Rua Catuaba
+69915504;AC;Rio Branco;Jardim de Alah;Travessa do Eden
+69915506;AC;Rio Branco;Jardim de Alah;Rua Raimundo Chagas de Souza
+69915508;AC;Rio Branco;Jardim de Alah;Travessa Alameda
+69915510;AC;Rio Branco;Jardim de Alah;Rua das Palheiras
+69915512;AC;Rio Branco;Jardim de Alah;Rua Santa Lúcia
+69915514;AC;Rio Branco;Jardim de Alah;Rua Buriti
+69915516;AC;Rio Branco;Jardim de Alah;Rua Mário Maia
+69915518;AC;Rio Branco;Jardim de Alah;Rua Icarai
+69915520;AC;Rio Branco;Jardim de Alah;Rua Jabuticaba
+69915522;AC;Rio Branco;Jardim de Alah;Nova Avenida Ceará
+69915524;AC;Rio Branco;Jardim de Alah;Alameda Projetada 516
+69915526;AC;Rio Branco;Jardim de Alah;Nova Avenida Ceará
+69915630;AC;Rio Branco;Portal da Amazônia;Rodovia BR364
+69915632;AC;Rio Branco;Portal da Amazônia;Rua Ministro IImar Galvão
+69915634;AC;Rio Branco;Portal da Amazônia;Alameda Sena Madureira
+69915636;AC;Rio Branco;Portal da Amazônia;Alameda Tarauacá
+69915638;AC;Rio Branco;Portal da Amazônia;Alameda Porto Acre
+69915640;AC;Rio Branco;Portal da Amazônia;Alameda Feijó
+69915642;AC;Rio Branco;Portal da Amazônia;Alameda Santa Rosa
+69915644;AC;Rio Branco;Portal da Amazônia;Rua Um
+69915646;AC;Rio Branco;Portal da Amazônia;Alameda Brasiléia
+69915648;AC;Rio Branco;Portal da Amazônia;Alameda Plácido de Castro
+69915650;AC;Rio Branco;Portal da Amazônia;Alameda Senador Guiomard
+69915652;AC;Rio Branco;Portal da Amazônia;Alameda Acrelândia
+69915654;AC;Rio Branco;Portal da Amazônia;Alameda Pirarucú
+69915656;AC;Rio Branco;Portal da Amazônia;Rua Manoel Urbano
+69915658;AC;Rio Branco;Portal da Amazônia;Alameda Pintado
+69915660;AC;Rio Branco;Portal da Amazônia;Alameda Piapara
+69915662;AC;Rio Branco;Portal da Amazônia;Rua Surubim
+69915664;AC;Rio Branco;Portal da Amazônia;Estrada do Calafate
+69915666;AC;Rio Branco;Portal da Amazônia;Estrada do Calafate
+69915668;AC;Rio Branco;Portal da Amazônia;Rua Tambaqui
+69915670;AC;Rio Branco;Portal da Amazônia;Alameda Acará
+69915672;AC;Rio Branco;Portal da Amazônia;Rua Pirapitanga
+69915674;AC;Rio Branco;Portal da Amazônia;Alameda Pirarucú
+69915676;AC;Rio Branco;Portal da Amazônia;Avenida Tucunaré
+69915678;AC;Rio Branco;Portal da Amazônia;Alameda Piapara
+69915680;AC;Rio Branco;Portal da Amazônia;Rua Tucuxi
+69915682;AC;Rio Branco;Portal da Amazônia;Rua Piracanjuba
+69915684;AC;Rio Branco;Portal da Amazônia;Rua Condor
+69915686;AC;Rio Branco;Portal da Amazônia;Rua Mandim
+69915688;AC;Rio Branco;Portal da Amazônia;Rua Lambari
+69915690;AC;Rio Branco;Portal da Amazônia;Rua José Chalub Leite
+69915692;AC;Rio Branco;Portal da Amazônia;Rua Dourado
+69915694;AC;Rio Branco;Portal da Amazônia;Rua Matrinchã
+69915696;AC;Rio Branco;Portal da Amazônia;Rua Piau
+69915698;AC;Rio Branco;Portal da Amazônia;Rua Antônia Magalhães
+69915700;AC;Rio Branco;Portal da Amazônia;Rua João Nascimento
+69915702;AC;Rio Branco;Portal da Amazônia;Travessa Araponga
+69915704;AC;Rio Branco;Portal da Amazônia;Rua José Chalub Leite
+69915706;AC;Rio Branco;Portal da Amazônia;Rua Edmundo Pinto
+69915708;AC;Rio Branco;Portal da Amazônia;Rua Coruja
+69915710;AC;Rio Branco;Portal da Amazônia;Rua Patativa
+69915712;AC;Rio Branco;Portal da Amazônia;Avenida Tucunaré
+69915720;AC;Rio Branco;Portal da Amazônia;Rua Silvio Antônio Araújo de Oliveira
+69915723;AC;Rio Branco;Portal da Amazônia;Rua João Resende
+69915726;AC;Rio Branco;Portal da Amazônia;Rua José Mario Junqueira
+69915729;AC;Rio Branco;Portal da Amazônia;Avenida Purus
+69915732;AC;Rio Branco;Portal da Amazônia;Rua Rio Negro
+69915735;AC;Rio Branco;Portal da Amazônia;Rua Envira
+69915738;AC;Rio Branco;Portal da Amazônia;Avenida Iáco
+69915741;AC;Rio Branco;Portal da Amazônia;Rua Jaçanã
+69915744;AC;Rio Branco;Portal da Amazônia;Rua Luiz Gonzaga de Oliveira
+69915747;AC;Rio Branco;Portal da Amazônia;Rua Matilde Lemos de Moura Leite
+69915750;AC;Rio Branco;Portal da Amazônia;Rua Evência Maria Ribeiro
+69915753;AC;Rio Branco;Portal da Amazônia;Rua Manoel Lemos de Moura Leite
+69915756;AC;Rio Branco;Portal da Amazônia;Rua Manoel Francisco da Silva
+69915759;AC;Rio Branco;Portal da Amazônia;Rua Codorna
+69915762;AC;Rio Branco;Portal da Amazônia;Rua Saracura
+69915765;AC;Rio Branco;Portal da Amazônia;Rua Pardal
+69915768;AC;Rio Branco;Portal da Amazônia;Rua Juriti
+69915771;AC;Rio Branco;Portal da Amazônia;Rua Bacurau
+69915774;AC;Rio Branco;Portal da Amazônia;Rua João Batista de Oliveira
+69915777;AC;Rio Branco;Portal da Amazônia;Rua Paulo Lemos de Moura Leite
+69915780;AC;Rio Branco;Portal da Amazônia;Rua Vicente Lopes de Oliveira
+69915783;AC;Rio Branco;Portal da Amazônia;Rua Severino Israel de Lima
+69915786;AC;Rio Branco;Portal da Amazônia;Rua Rio Moa
+69915789;AC;Rio Branco;Portal da Amazônia;Rua Rio Tejo
+69915800;AC;Rio Branco;Portal da Amazônia;Rua Santa Rosa
+69915802;AC;Rio Branco;Portal da Amazônia;Rua Laurindo Barbosa Lima
+69915804;AC;Rio Branco;Portal da Amazônia;Rua Camarão
+69915806;AC;Rio Branco;Portal da Amazônia;Avenida Purus
+69915808;AC;Rio Branco;Portal da Amazônia;Rua Avestruz
+69915810;AC;Rio Branco;Portal da Amazônia;Rua José Ismael de Lima
+69915812;AC;Rio Branco;Portal da Amazônia;Rua Currupião
+69915814;AC;Rio Branco;Portal da Amazônia;Rua Riozinho
+69915816;AC;Rio Branco;Portal da Amazônia;Rua Juruá
+69915818;AC;Rio Branco;Portal da Amazônia;Rua Caeté
+69915820;AC;Rio Branco;Portal da Amazônia;Rua Macauã
+69915822;AC;Rio Branco;Portal da Amazônia;Rua Chandles
+69915824;AC;Rio Branco;Portal da Amazônia;Rua Tracuá
+69915826;AC;Rio Branco;Portal da Amazônia;Rua Ituxi
+69915828;AC;Rio Branco;Portal da Amazônia;Rua Quinauá
+69915830;AC;Rio Branco;Portal da Amazônia;Travessa Purus
+69915832;AC;Rio Branco;Portal da Amazônia;Rua Iquiri
+69915834;AC;Rio Branco;Portal da Amazônia;Estrada do Calafate
+69915836;AC;Rio Branco;Portal da Amazônia;Estrada do Calafate
+69915838;AC;Rio Branco;Portal da Amazônia;Rua Rio Negro
+69915840;AC;Rio Branco;Portal da Amazônia;Rua Abunã
+69915842;AC;Rio Branco;Portal da Amazônia;Rua Envira
+69915844;AC;Rio Branco;Portal da Amazônia;Rua Projetada 524
+69915846;AC;Rio Branco;Portal da Amazônia;Rua Projetada 1029
+69915848;AC;Rio Branco;Portal da Amazônia;Rua Rio Caeté
+69915850;AC;Rio Branco;Portal da Amazônia;Rua Tatajuba
+69915852;AC;Rio Branco;Portal da Amazônia;Rua Projetada 980
+69915854;AC;Rio Branco;Portal da Amazônia;Rua Samaúma
+69915856;AC;Rio Branco;Portal da Amazônia;Rua Pau-d'arco
+69915858;AC;Rio Branco;Portal da Amazônia;Rua Cedro
+69915860;AC;Rio Branco;Portal da Amazônia;Rua Arueira
+69915862;AC;Rio Branco;Portal da Amazônia;Rua Andirá
+69915864;AC;Rio Branco;Portal da Amazônia;Rua Andiroba
+69915866;AC;Rio Branco;Portal da Amazônia;Rua Jatobá
+69915868;AC;Rio Branco;Portal da Amazônia;Rua Cerejeira
+69915870;AC;Rio Branco;Portal da Amazônia;Rua Projetada 521
+69915872;AC;Rio Branco;Portal da Amazônia;Rua Virola
+69915874;AC;Rio Branco;Portal da Amazônia;Rua Antimari
+69915876;AC;Rio Branco;Portal da Amazônia;Rua Cumarú
+69915878;AC;Rio Branco;Portal da Amazônia;Avenida Iáco
+69915880;AC;Rio Branco;Portal da Amazônia;Rua Copaiba
+69915882;AC;Rio Branco;Portal da Amazônia;Rua Castanheira
+69915884;AC;Rio Branco;Portal da Amazônia;Rua Mogno
+69915886;AC;Rio Branco;Portal da Amazônia;Rua da Seringueira
+69915888;AC;Rio Branco;Portal da Amazônia;Rua Maritê
+69915890;AC;Rio Branco;Portal da Amazônia;Rua Jacarandá
+69915892;AC;Rio Branco;Portal da Amazônia;Rua Flamingos
+69915894;AC;Rio Branco;Portal da Amazônia;Avenida Beija-flor
+69917500;AC;Rio Branco;Conjunto Jardim Universitário;Avenida Beija-flor
+69917502;AC;Rio Branco;Conjunto Jardim Universitário;Rua Papagaio
+69917504;AC;Rio Branco;Conjunto Jardim Universitário;Rua Pica-pau
+69917506;AC;Rio Branco;Conjunto Jardim Universitário;Rua Mutum
+69917508;AC;Rio Branco;Conjunto Jardim Universitário;Rua Jaçanã
+69917510;AC;Rio Branco;Conjunto Jardim Universitário;Rua Jaburu
+69917512;AC;Rio Branco;Conjunto Jardim Universitário;Rua Jacamim
+69917514;AC;Rio Branco;Conjunto Jardim Universitário;Rua Bem-te-vi
+69917516;AC;Rio Branco;Conjunto Jardim Universitário;Rua Tucano
+69917518;AC;Rio Branco;Conjunto Jardim Universitário;Rua Canário
+69917520;AC;Rio Branco;Chácara Ipê;Estrada Dias Martins
+69917522;AC;Rio Branco;Chácara Ipê;Alameda Buriti
+69917524;AC;Rio Branco;Chácara Ipê;Alameda Magnólia
+69917526;AC;Rio Branco;Chácara Ipê;Alameda Ouricuri
+69917528;AC;Rio Branco;Chácara Ipê;Alameda das Palmeiras
+69917530;AC;Rio Branco;Chácara Ipê;Alameda Jaci
+69917532;AC;Rio Branco;Chácara Ipê;Alameda Açaí
+69917534;AC;Rio Branco;Chácara Ipê;Alameda Jasmins
+69917536;AC;Rio Branco;Chácara Ipê;Alameda Azaléas
+69917538;AC;Rio Branco;Chácara Ipê;Alameda Camélias
+69917540;AC;Rio Branco;Chácara Ipê;Alameda Garças
+69917542;AC;Rio Branco;Chácara Ipê;Alameda Araras
+69917544;AC;Rio Branco;Chácara Ipê;Alameda Japim
+69917546;AC;Rio Branco;Chácara Ipê;Alameda Curió
+69917548;AC;Rio Branco;Chácara Ipê;Alameda das Manacas
+69917550;AC;Rio Branco;Chácara Ipê;Alameda Espatódia
+69917552;AC;Rio Branco;Chácara Ipê;Travessa Palmeiras
+69917554;AC;Rio Branco;Chácara Ipê;Rua Palmeiras
+69917556;AC;Rio Branco;Chácara Ipê;Alameda Flamboyant
+69917558;AC;Rio Branco;Chácara Ipê;Alameda das Acácias
+69917560;AC;Rio Branco;Chácara Ipê;Estrada Dias Martins
+69917650;AC;Rio Branco;Pedro Roseno;Rua Principal 2
+69917652;AC;Rio Branco;Pedro Roseno;Rua Projetada 1096
+69917654;AC;Rio Branco;Pedro Roseno;Rua Projetada 221
+69917656;AC;Rio Branco;Pedro Roseno;Rua Projetada 222
+69917658;AC;Rio Branco;Pedro Roseno;Beco da Irlândia
+69917660;AC;Rio Branco;Pedro Roseno;Rua Projetada 224
+69917662;AC;Rio Branco;Pedro Roseno;Rua Projetada 225
+69917664;AC;Rio Branco;Pedro Roseno;Rua Brigadeiro Damasceno
+69917666;AC;Rio Branco;Pedro Roseno;Rua Comandante Edson
+69917668;AC;Rio Branco;Pedro Roseno;Rua Soldado Oliveira
+69917670;AC;Rio Branco;Pedro Roseno;Rua Principal 1
+69917672;AC;Rio Branco;Pedro Roseno;Rodovia BR364
+69917680;AC;Rio Branco;Conjunto Universitário;Avenida Maria José de Oliveira
+69917682;AC;Rio Branco;Conjunto Universitário;Rua Bem-te-vi
+69917684;AC;Rio Branco;Conjunto Universitário;Rua Saldanha
+69917686;AC;Rio Branco;Conjunto Universitário;Rua Álvaro Rocha
+69917688;AC;Rio Branco;Conjunto Universitário;Rua Pinheiros
+69917690;AC;Rio Branco;Conjunto Universitário;Rua São Lucas
+69917692;AC;Rio Branco;Conjunto Universitário;Rua do Galpão
+69917694;AC;Rio Branco;Conjunto Universitário;Rua Manoel Dantas
+69917696;AC;Rio Branco;Conjunto Universitário;Rua São Judas Tadeu
+69917698;AC;Rio Branco;Conjunto Universitário;Rua Gumercindo
+69917700;AC;Rio Branco;Conjunto Universitário;Rua das Flores
+69917702;AC;Rio Branco;Conjunto Universitário;Rua Mato Grosso do Sul
+69917704;AC;Rio Branco;Conjunto Universitário;Rua Aquários
+69917706;AC;Rio Branco;Conjunto Universitário;Rua Olga Abud
+69917708;AC;Rio Branco;Conjunto Universitário;Rua 15 de Dezembro
+69917710;AC;Rio Branco;Conjunto Universitário;Rua Vitória
+69917712;AC;Rio Branco;Conjunto Universitário;Avenida Maria José de Oliveira
+69917714;AC;Rio Branco;Conjunto Universitário;Rua Pastor Geremias
+69917716;AC;Rio Branco;Conjunto Universitário;Rua 2 de Maio
+69917718;AC;Rio Branco;Conjunto Universitário;Rua da Caixa D'Água
+69917720;AC;Rio Branco;Conjunto Universitário;Rua Alcimar Leitão
+69917722;AC;Rio Branco;Conjunto Universitário;Rua Primavera
+69917724;AC;Rio Branco;Conjunto Universitário;Rua Edson Luiz Firmino
+69917726;AC;Rio Branco;Conjunto Universitário;Rua Romã
+69917728;AC;Rio Branco;Conjunto Universitário;Rua Rosa de Saron
+69917730;AC;Rio Branco;Conjunto Universitário;Rua Janaína
+69917732;AC;Rio Branco;Conjunto Universitário;Rua Eugênio Beco Bezerra
+69917734;AC;Rio Branco;Conjunto Universitário;Travessa Buriti
+69917736;AC;Rio Branco;Conjunto Universitário;Rua Álvaro Thomaz
+69917738;AC;Rio Branco;Conjunto Universitário;Rua Gumercindo Bessa
+69917740;AC;Rio Branco;Conjunto Universitário;Rua Neto Almeida
+69917742;AC;Rio Branco;Conjunto Universitário;Avenida Maria José de Oliveira
+69917744;AC;Rio Branco;Conjunto Universitário;Rua Presbiteriana
+69917746;AC;Rio Branco;Conjunto Universitário;Rua Rio Grande do Norte
+69917748;AC;Rio Branco;Conjunto Universitário;Rua Parintins
+69917750;AC;Rio Branco;Conjunto Universitário;Rua Raimundo Ferrreira
+69917752;AC;Rio Branco;Conjunto Universitário;Rua Jardim Botânico
+69917754;AC;Rio Branco;Conjunto Universitário;Rua Maranhão
+69917756;AC;Rio Branco;Conjunto Universitário;Rua do Bené
+69917758;AC;Rio Branco;Conjunto Universitário;Rua Francisca Luiz Bezerra
+69917760;AC;Rio Branco;Conjunto Universitário;Rua Piauí
+69917762;AC;Rio Branco;Conjunto Universitário;Rua Sibipiruna
+69917764;AC;Rio Branco;Conjunto Universitário;Rua Manoel Gadelha
+69917766;AC;Rio Branco;Conjunto Universitário;Estrada Dias Martins
+69917770;AC;Rio Branco;Conjunto Universitário;Avenida Sabiá
+69917772;AC;Rio Branco;Conjunto Universitário;Avenida Sabiá
+69918000;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua Omar Sabino
+69918002;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua 16
+69918004;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua 17
+69918006;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua 18
+69918008;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua Projetada 141
+69918010;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua Projetada 140
+69918012;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua Rio de Janeiro
+69918014;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua Orlando Meireles
+69918016;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua 20
+69918018;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua 1
+69918020;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua Catumbí
+69918022;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua 5
+69918024;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua 6
+69918026;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua Tijuca
+69918028;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua Granada
+69918030;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua Pio XII
+69918032;AC;Rio Branco;Conjunto Mascarenha de Moraes;Rua 7
+69918040;AC;Rio Branco;Abrahão Alab;Travessa Leblon
+69918042;AC;Rio Branco;Abrahão Alab;Rua Pio XII
+69918044;AC;Rio Branco;Abrahão Alab;Rua Rubens Carneiro
+69918046;AC;Rio Branco;Abrahão Alab;Rua Ari Rodrigues
+69918048;AC;Rio Branco;Abrahão Alab;Rua Rio de Janeiro
+69918050;AC;Rio Branco;Abrahão Alab;Rua Itamaracá
+69918052;AC;Rio Branco;Abrahão Alab;Rua Veterano Hernesto Sales
+69918054;AC;Rio Branco;Abrahão Alab;Rua Vaqueiro Manoel Avelino
+69918056;AC;Rio Branco;Abrahão Alab;Rua Veterano Telmo Julião
+69918058;AC;Rio Branco;Abrahão Alab;Rua Veterano Henrique Julião
+69918060;AC;Rio Branco;Abrahão Alab;Rua Rio de Janeiro
+69918062;AC;Rio Branco;Abrahão Alab;Rua Carmópolis
+69918064;AC;Rio Branco;Abrahão Alab;Travessa Raimundo Gama
+69918066;AC;Rio Branco;Abrahão Alab;Rua Veterano Manoel de Barros
+69918070;AC;Rio Branco;Jardim Nazle;Rua Major Ladislau Ferreira
+69918072;AC;Rio Branco;Jardim Nazle;Rua Veterano Hernesto Sales
+69918074;AC;Rio Branco;Jardim Nazle;Rua Vaqueiro Manoel Avelino
+69918076;AC;Rio Branco;Jardim Nazle;Rua Veterano Telmo Julião
+69918078;AC;Rio Branco;Jardim Nazle;Rua Veterano Henrique Julião
+69918080;AC;Rio Branco;Jardim Nazle;Rua Veterano Manoel de Barros
+69918082;AC;Rio Branco;Jardim Nazle;Rua Mozart
+69918084;AC;Rio Branco;Jardim Nazle;Avenida Ceará
+69918090;AC;Rio Branco;7º BEC;Rua Isaura Parente
+69918093;AC;Rio Branco;7º BEC;Avenida Nações Unidas
+69918096;AC;Rio Branco;7º BEC;Travessa Caramurú
+69918099;AC;Rio Branco;7º BEC;Rua Padre Thiago
+69918102;AC;Rio Branco;7º BEC;Rua Padre André
+69918105;AC;Rio Branco;7º BEC;Rua Padre Hugo
+69918108;AC;Rio Branco;7º BEC;Avenida Ceará
+69918111;AC;Rio Branco;7º BEC;Avenida Ceará
+69918114;AC;Rio Branco;7º BEC;Rua Omar Sabino
+69918117;AC;Rio Branco;7º BEC;Rua Major Ladislau Ferreira
+69918120;AC;Rio Branco;Doca Furtado;Rua Frei Caneca
+69918122;AC;Rio Branco;Doca Furtado;Rua Belo Horizonte
+69918124;AC;Rio Branco;Doca Furtado;Travessa Guanabara
+69918126;AC;Rio Branco;Doca Furtado;Rua 7 de Setembro
+69918128;AC;Rio Branco;Doca Furtado;Rua Ana Paula
+69918130;AC;Rio Branco;Doca Furtado;Rua Sorocaba
+69918132;AC;Rio Branco;Doca Furtado;Rua Ana Maria
+69918134;AC;Rio Branco;Doca Furtado;Rua 12 de Julho
+69918136;AC;Rio Branco;Doca Furtado;Travessa Doca Furtado
+69918138;AC;Rio Branco;Doca Furtado;Travessa Boa Esperança
+69918140;AC;Rio Branco;Doca Furtado;Rua Oriente
+69918144;AC;Rio Branco;Doca Furtado;Rua Guanabara
+69918146;AC;Rio Branco;Doca Furtado;Rua Castelo Branco
+69918148;AC;Rio Branco;Doca Furtado;Avenida Ceará
+69918160;AC;Rio Branco;Estação Experimental;Avenida Ceará
+69918162;AC;Rio Branco;Estação Experimental;Rua Duque de Caxias
+69918164;AC;Rio Branco;Estação Experimental;Rua Nova
+69918166;AC;Rio Branco;Estação Experimental;Rua Conde Deu
+69918168;AC;Rio Branco;Estação Experimental;Rua Cabo Frio
+69918170;AC;Rio Branco;Estação Experimental;Rua Magé
+69918172;AC;Rio Branco;Estação Experimental;Avenida Nações Unidas
+69918174;AC;Rio Branco;Estação Experimental;Rua Pedro Álvares Cabral
+69918176;AC;Rio Branco;Estação Experimental;Rua Princesa Isabel
+69918178;AC;Rio Branco;Estação Experimental;Rua Vital Brasil
+69918180;AC;Rio Branco;Estação Experimental;Travessa Cabo Frio
+69918182;AC;Rio Branco;Estação Experimental;Rua Plácido de Castro
+69918184;AC;Rio Branco;Estação Experimental;Rua Afonso Amoedo
+69918186;AC;Rio Branco;Estação Experimental;Rua Fausto Robalo
+69918188;AC;Rio Branco;Estação Experimental;Rua Fontenele de Castro
+69918190;AC;Rio Branco;Estação Experimental;Travessa Plácido de Castro
+69918192;AC;Rio Branco;Estação Experimental;Rua João Câncio
+69918194;AC;Rio Branco;Estação Experimental;Rua Alexandre Leitão
+69918196;AC;Rio Branco;Estação Experimental;Travessa da Estação
+69918198;AC;Rio Branco;Estação Experimental;Rua Senador Kairala
+69918200;AC;Rio Branco;Estação Experimental;Rua Saldanha Marinho
+69918202;AC;Rio Branco;Estação Experimental;Rua Geraldo Mesquita
+69918204;AC;Rio Branco;Estação Experimental;Travessa Icó
+69918206;AC;Rio Branco;Estação Experimental;Travessa da Cobal
+69918208;AC;Rio Branco;Estação Experimental;Rua República
+69918210;AC;Rio Branco;Estação Experimental;Rua Veneza
+69918212;AC;Rio Branco;Estação Experimental;Rua Latorre
+69918214;AC;Rio Branco;Estação Experimental;Rua Coronel Sebastião Dantas
+69918216;AC;Rio Branco;Estação Experimental;Rua Isaura Parente
+69918218;AC;Rio Branco;Estação Experimental;Rua Isaura Parente
+69918220;AC;Rio Branco;Estação Experimental;Travessa Araucária
+69918240;AC;Rio Branco;Isaura Parente;Rua Jandáia
+69918242;AC;Rio Branco;Isaura Parente;Travessa Vertente
+69918244;AC;Rio Branco;Isaura Parente;Rua Jaquari
+69918246;AC;Rio Branco;Isaura Parente;Beco Jaguari
+69918248;AC;Rio Branco;Isaura Parente;Travessa Jaguari
+69918250;AC;Rio Branco;Isaura Parente;Rua São Cristóvão
+69918252;AC;Rio Branco;Isaura Parente;Travessa Tales
+69918254;AC;Rio Branco;Isaura Parente;Rua Esperança
+69918256;AC;Rio Branco;Isaura Parente;Rua Dom Pedro
+69918258;AC;Rio Branco;Isaura Parente;Travessa Pilates
+69918260;AC;Rio Branco;Isaura Parente;Rua Tapajós
+69918262;AC;Rio Branco;Isaura Parente;Rua Tapajós
+69918264;AC;Rio Branco;Isaura Parente;Rua Edmundo Pinto
+69918266;AC;Rio Branco;Isaura Parente;Rua Buenos Aires
+69918268;AC;Rio Branco;Isaura Parente;Rua São Mateus
+69918270;AC;Rio Branco;Isaura Parente;Rua Isaura Parente
+69918272;AC;Rio Branco;Isaura Parente;Rua Alberto Torres
+69918274;AC;Rio Branco;Isaura Parente;Rua São Marcos
+69918276;AC;Rio Branco;Isaura Parente;Rua das Lanterneiras
+69918278;AC;Rio Branco;Isaura Parente;Rua Lua Nova
+69918280;AC;Rio Branco;Isaura Parente;Travessa Lua Nova
+69918282;AC;Rio Branco;Isaura Parente;Rua Fernando Lira
+69918284;AC;Rio Branco;Isaura Parente;Travessa Fernando Lira II
+69918286;AC;Rio Branco;Isaura Parente;Travessa Fernando Lira
+69918288;AC;Rio Branco;Isaura Parente;Rua Almirante Jaciguáias
+69918290;AC;Rio Branco;Isaura Parente;Rua Plácido de Castro
+69918292;AC;Rio Branco;Isaura Parente;Travessa Bom Destino I
+69918294;AC;Rio Branco;Isaura Parente;Rua Canindé
+69918296;AC;Rio Branco;Isaura Parente;Rua Santa Helena
+69918298;AC;Rio Branco;Isaura Parente;Rua Almirante Barbosa
+69918300;AC;Rio Branco;Isaura Parente;Rua Epitácio Pessoa
+69918302;AC;Rio Branco;Isaura Parente;Rua Almirante Tamandaré
+69918304;AC;Rio Branco;Isaura Parente;Travessa Bom Destino II
+69918306;AC;Rio Branco;Isaura Parente;Rua Bom Destino
+69918308;AC;Rio Branco;Isaura Parente;Avenida Antônio da Rocha Viana
+69918310;AC;Rio Branco;Isaura Parente;Rua São Sebastião
+69918312;AC;Rio Branco;Isaura Parente;Travessa Canindé
+69918314;AC;Rio Branco;Isaura Parente;Rua Daniel de Matos
+69918316;AC;Rio Branco;Isaura Parente;Rua Thaumaturgo Filho
+69918318;AC;Rio Branco;Isaura Parente;Rua das Flores
+69918320;AC;Rio Branco;Isaura Parente;Rua Empresa
+69918322;AC;Rio Branco;Isaura Parente;Travessa da Paz
+69918324;AC;Rio Branco;Isaura Parente;Rua São Sebastião
+69918326;AC;Rio Branco;Isaura Parente;Travessa São Sebastião
+69918340;AC;Rio Branco;Nova Estação;Rua São Sebastião
+69918342;AC;Rio Branco;Nova Estação;Rua Nossa Senhora de Fátima
+69918344;AC;Rio Branco;Nova Estação;Travessa Tefé
+69918346;AC;Rio Branco;Nova Estação;Travessa Chalub Leite
+69918348;AC;Rio Branco;Nova Estação;Rua Marivan de Oliveira
+69918350;AC;Rio Branco;Nova Estação;Rua Londrina
+69918352;AC;Rio Branco;Nova Estação;Rua da Paz
+69918354;AC;Rio Branco;Nova Estação;Rua Belém
+69918356;AC;Rio Branco;Nova Estação;Rua Macapá
+69918358;AC;Rio Branco;Nova Estação;Rua Senador Kairala
+69918360;AC;Rio Branco;Nova Estação;Rua Formosa
+69918362;AC;Rio Branco;Nova Estação;Rua São Luiz
+69918364;AC;Rio Branco;Nova Estação;Rua Ouro Verde
+69918366;AC;Rio Branco;Nova Estação;Travessa Altamira
+69918368;AC;Rio Branco;Nova Estação;Rua Altamira 2
+69918370;AC;Rio Branco;Nova Estação;Rua Altamira 1
+69918372;AC;Rio Branco;Nova Estação;Rua Nilo
+69918374;AC;Rio Branco;Nova Estação;Rua Corumbá
+69918376;AC;Rio Branco;Nova Estação;Rua América
+69918378;AC;Rio Branco;Nova Estação;Rua Floresta
+69918380;AC;Rio Branco;Nova Estação;Rua Rafael
+69918382;AC;Rio Branco;Nova Estação;Travessa Gravataí
+69918384;AC;Rio Branco;Nova Estação;Travessa Brasiléia
+69918386;AC;Rio Branco;Nova Estação;Rua Libertação
+69918388;AC;Rio Branco;Nova Estação;Rua Otário Rola
+69918390;AC;Rio Branco;Nova Estação;Rua Buriti
+69918392;AC;Rio Branco;Nova Estação;Rua Novo Horizonte
+69918394;AC;Rio Branco;Nova Estação;Rua Passarela
+69918396;AC;Rio Branco;Nova Estação;Rua Palmares
+69918398;AC;Rio Branco;Nova Estação;Travessa São Sebastião
+69918400;AC;Rio Branco;Nova Estação;Rua Formosa
+69918402;AC;Rio Branco;Nova Estação;Rua Belém
+69918404;AC;Rio Branco;Nova Estação;Rua Valdomiro Lopes
+69918410;AC;Rio Branco;Conjunto Manoel Julião;Rua Valdomiro Lopes
+69918412;AC;Rio Branco;Conjunto Manoel Julião;Rua Veterano Telmo Pinto
+69918414;AC;Rio Branco;Conjunto Manoel Julião;Rua Aureliano Lopes
+69918416;AC;Rio Branco;Conjunto Manoel Julião;Rua Raimundo Escócio de Farias
+69918418;AC;Rio Branco;Conjunto Manoel Julião;Rua João Chalub
+69918420;AC;Rio Branco;Conjunto Manoel Julião;Rua Vitória
+69918422;AC;Rio Branco;Conjunto Manoel Julião;Rua Ferraz
+69918424;AC;Rio Branco;Conjunto Manoel Julião;Rua Várzea Grande
+69918426;AC;Rio Branco;Conjunto Manoel Julião;Rua das Flores
+69918428;AC;Rio Branco;Conjunto Manoel Julião;Rua Marte
+69918430;AC;Rio Branco;Conjunto Manoel Julião;Rua Aderbal Brasil
+69918432;AC;Rio Branco;Conjunto Manoel Julião;Rua Eduardo Barbosa Viana
+69918434;AC;Rio Branco;Conjunto Manoel Julião;Rua Otília
+69918436;AC;Rio Branco;Conjunto Manoel Julião;Rua João Fiscal
+69918438;AC;Rio Branco;Conjunto Manoel Julião;Rua Edmundo Pinto
+69918440;AC;Rio Branco;Conjunto Manoel Julião;Rua Comércio
+69918442;AC;Rio Branco;Conjunto Manoel Julião;Rua Marcelino Machado
+69918444;AC;Rio Branco;Conjunto Manoel Julião;Rua João Câncio
+69918446;AC;Rio Branco;Conjunto Manoel Julião;Rua B2
+69918448;AC;Rio Branco;Conjunto Manoel Julião;Travessa João Câncio 1
+69918450;AC;Rio Branco;Conjunto Manoel Julião;Travessa João Câncio
+69918452;AC;Rio Branco;Conjunto Manoel Julião;Rua Luiz Z da Silva
+69918460;AC;Rio Branco;Jardim Manoel Julião;Rua Projetada 855
+69918462;AC;Rio Branco;Jardim Manoel Julião;Rua Jardim Primavera
+69918464;AC;Rio Branco;Jardim Manoel Julião;Rua Lauro Julião
+69918466;AC;Rio Branco;Jardim Manoel Julião;Avenida Antônio da Rocha Viana
+69918480;AC;Rio Branco;Vilage Wilde Maciel;Avenida Antônio da Rocha Viana
+69918482;AC;Rio Branco;Vilage Wilde Maciel;Rua Castro Alves
+69918484;AC;Rio Branco;Vilage Wilde Maciel;Travessa Camburiú
+69918486;AC;Rio Branco;Vilage Wilde Maciel;Rua Parati
+69918488;AC;Rio Branco;Vilage Wilde Maciel;Rua da Castanheira
+69918490;AC;Rio Branco;Vilage Wilde Maciel;Rua Ipanema
+69918492;AC;Rio Branco;Vilage Wilde Maciel;Rua Itapuã
+69918494;AC;Rio Branco;Vilage Wilde Maciel;Rua João XXlll
+69918496;AC;Rio Branco;Vilage Wilde Maciel;Rua Camburiú
+69918498;AC;Rio Branco;Vilage Wilde Maciel;Rua Bertioga
+69918500;AC;Rio Branco;Vilage Wilde Maciel;Rua Copacabana
+69918502;AC;Rio Branco;Vilage Wilde Maciel;Rua Iracema
+69918504;AC;Rio Branco;Vilage Wilde Maciel;Rua Guarujá
+69918506;AC;Rio Branco;Vilage Wilde Maciel;Rua Ubatuba
+69918510;AC;Rio Branco;Boa Esperança;Avenida Antônio da Rocha Viana
+69918512;AC;Rio Branco;Boa Esperança;Travessa da Afelétro
+69918514;AC;Rio Branco;Boa Esperança;Rua Siqueira Campos
+69918516;AC;Rio Branco;Boa Esperança;Rua Bagdá
+69918518;AC;Rio Branco;Boa Esperança;Travessa da Seta
+69918520;AC;Rio Branco;Boa Esperança;Travessa Municipalidade
+69918550;AC;Rio Branco;Jardim América;Avenida Antônio da Rocha Viana
+69918552;AC;Rio Branco;Jardim América;Rua América
+69918554;AC;Rio Branco;Jardim América;Rua Educandos
+69918556;AC;Rio Branco;Jardim América;Rua José Maria Rios
+69918558;AC;Rio Branco;Jardim América;Rua Fragoso Monteiro
+69918560;AC;Rio Branco;Jardim América;Rua Francisco Sales
+69918562;AC;Rio Branco;Jardim América;Rua Antônio Pinheiro Sobrinho
+69918564;AC;Rio Branco;Jardim América;Rua Otário Rola
+69918570;AC;Rio Branco;Loteamento São José;Avenida Antônio da Rocha Viana
+69918572;AC;Rio Branco;Loteamento São José;Travessa Educandos
+69918574;AC;Rio Branco;Loteamento São José;Rua Senira Nogueira
+69918576;AC;Rio Branco;Loteamento São José;Rua Antônio Sá de Barros
+69918578;AC;Rio Branco;Loteamento São José;Avenida Getúlio Vargas
+69918580;AC;Rio Branco;Loteamento São José;Rua Abraim Farhat
+69918582;AC;Rio Branco;Loteamento São José;Rua Alberto Assad
+69918584;AC;Rio Branco;Loteamento São José;Rua Hechem Farhat
+69918600;AC;Rio Branco;Conjunto Solar;Avenida Antônio da Rocha Viana
+69918602;AC;Rio Branco;Conjunto Solar;Rua Francisco Neri
+69918604;AC;Rio Branco;Conjunto Solar;Rua São Caetano
+69918606;AC;Rio Branco;Conjunto Solar;Rua João Pessoa
+69918608;AC;Rio Branco;Conjunto Solar;Rua Fortaleza
+69918610;AC;Rio Branco;Conjunto Solar;Rua Alberto Assad
+69918612;AC;Rio Branco;Conjunto Solar;Rua Grã-Duquesa
+69918614;AC;Rio Branco;Conjunto Solar;Rua Morada do Sol
+69918616;AC;Rio Branco;Conjunto Solar;Avenida Getúlio Vargas
+69918618;AC;Rio Branco;Conjunto Solar;Rua Rio de Janeiro
+69918620;AC;Rio Branco;Conjunto Solar;Travessa Bahia
+69918622;AC;Rio Branco;Conjunto Solar;Rua 1º de Janeiro
+69918630;AC;Rio Branco;Conjunto Procon;Avenida Antônio da Rocha Viana
+69918632;AC;Rio Branco;Conjunto Procon;Rua João Francisco da Cunha
+69918634;AC;Rio Branco;Conjunto Procon;Travessa Mateus
+69918636;AC;Rio Branco;Conjunto Procon;Travessa Vitória
+69918638;AC;Rio Branco;Conjunto Procon;Travessa São José
+69918640;AC;Rio Branco;Conjunto Procon;Rua Flor Lírio Lustosa
+69918642;AC;Rio Branco;Conjunto Procon;Avenida Getúlio Vargas
+69918644;AC;Rio Branco;Conjunto Procon;Rua Vicente Lucena
+69918646;AC;Rio Branco;Conjunto Procon;Rua 17 de Março
+69918648;AC;Rio Branco;Conjunto Procon;Travessa Canela
+69918650;AC;Rio Branco;Conjunto Procon;Rua Carnaúba
+69918652;AC;Rio Branco;Conjunto Procon;Rua Campina Grande
+69918654;AC;Rio Branco;Conjunto Procon;Rua Belo Horizonte
+69918656;AC;Rio Branco;Conjunto Procon;Rua Francisco Alencar
+69918658;AC;Rio Branco;Conjunto Procon;Rua Benedito Maia
+69918660;AC;Rio Branco;Conjunto Procon;Rua dos Arbustos
+69918662;AC;Rio Branco;Conjunto Procon;Rua Atlanti
+69918664;AC;Rio Branco;Conjunto Procon;Travessa São Luiz
+69918666;AC;Rio Branco;Conjunto Procon;Travessa Xapuri
+69918668;AC;Rio Branco;Conjunto Procon;Travessa Benjamin
+69918670;AC;Rio Branco;Conjunto Procon;Rua Edineide de Fátima
+69918672;AC;Rio Branco;Conjunto Procon;Travessa João Marcelo
+69918700;AC;Rio Branco;Santa Quitéria;Avenida Antônio da Rocha Viana
+69918703;AC;Rio Branco;Santa Quitéria;Rua Nelson Mesquita
+69918706;AC;Rio Branco;Santa Quitéria;Rua Valdomiro Lopes
+69918709;AC;Rio Branco;Santa Quitéria;Rua Antônio Pinheiro Sobrinho
+69918712;AC;Rio Branco;Santa Quitéria;Rua Francisco Sales
+69918715;AC;Rio Branco;Santa Quitéria;Rua Fragoso Monteiro
+69918718;AC;Rio Branco;Santa Quitéria;Rua José Maria Rios
+69918721;AC;Rio Branco;Santa Quitéria;Rua Jorge Mesquita
+69918724;AC;Rio Branco;Santa Quitéria;Rua José Magalhães
+69918730;AC;Rio Branco;Horto Florestal;Avenida Antônio da Rocha Viana
+69918750;AC;Rio Branco;Conquista;Rua José Magalhães
+69918752;AC;Rio Branco;Conquista;Travessa Alegria
+69918754;AC;Rio Branco;Conquista;Rua da Abelha
+69918756;AC;Rio Branco;Conquista;Travessa do Jucá
+69918758;AC;Rio Branco;Conquista;Rua Buriti
+69918760;AC;Rio Branco;Conquista;Rua Padre Cícero
+69918762;AC;Rio Branco;Conquista;Travessa Cabral
+69918764;AC;Rio Branco;Conquista;Rua Valdomiro Lopes
+69918766;AC;Rio Branco;Conquista;Rua Floresta
+69918768;AC;Rio Branco;Conquista;Travessa Horta
+69918770;AC;Rio Branco;Conquista;Travessa Horta 2
+69918772;AC;Rio Branco;Conquista;Rua Novo Horizonte
+69918774;AC;Rio Branco;Conquista;Rua Palmares
+69918776;AC;Rio Branco;Conquista;Travessa Belém
+69918778;AC;Rio Branco;Conquista;Travessa Bangu
+69918780;AC;Rio Branco;Conquista;Rua Vitória
+69918782;AC;Rio Branco;Conquista;Rua Chico Mendes
+69918784;AC;Rio Branco;Conquista;Travessa do Cajueiro
+69918786;AC;Rio Branco;Conquista;Travessa Sossego
+69918788;AC;Rio Branco;Conquista;Rua Niterói
+69918790;AC;Rio Branco;Conquista;Travessa Fiji
+69918792;AC;Rio Branco;Conquista;Rua José Magalhães
+69918794;AC;Rio Branco;Conquista;Travessa Pituí
+69918796;AC;Rio Branco;Conquista;Travessa Mutema
+69918798;AC;Rio Branco;Conquista;Rua Vitória
+69918800;AC;Rio Branco;Conquista;Rua Santa Quitéria
+69918802;AC;Rio Branco;Conquista;Rua Sapolândia
+69918804;AC;Rio Branco;Conquista;Beco Vitória
+69918806;AC;Rio Branco;Conquista;Rua Um
+69918808;AC;Rio Branco;Conquista;Rua Itapuã
+69918810;AC;Rio Branco;Conquista;Rua Dourado
+69918812;AC;Rio Branco;Conquista;Rua Rio Negro
+69918814;AC;Rio Branco;Conquista;Rua Santa Terezinha
+69918816;AC;Rio Branco;Conquista;Travessa Beira Rio
+69918818;AC;Rio Branco;Conquista;Rua Fonte Nova
+69918820;AC;Rio Branco;Conquista;Rua Modelo
+69918822;AC;Rio Branco;Conquista;Rua Fonte Nova
+69918824;AC;Rio Branco;Conquista;Rua Japonesa
+69918826;AC;Rio Branco;Conquista;Rua Morete
+69918828;AC;Rio Branco;Conquista;Travessa Aldeia
+69918830;AC;Rio Branco;Conquista;Travessa Bagé
+69918832;AC;Rio Branco;Conquista;Rua Karen
+69918834;AC;Rio Branco;Conquista;Rua Aquarela
+69918836;AC;Rio Branco;Conquista;Rua Padre Cícero
+69918838;AC;Rio Branco;Conquista;Travessa Leme
+69918840;AC;Rio Branco;Conquista;Rua Botafogo
+69918842;AC;Rio Branco;Conquista;Rua Dourado
+69918844;AC;Rio Branco;Conquista;Rua Estudante
+69918846;AC;Rio Branco;Conquista;Rua Itapuã
+69918848;AC;Rio Branco;Conquista;Rua Fluminense
+69918850;AC;Rio Branco;Conquista;Rua Valdomiro Lopes
+69918860;AC;Rio Branco;Geraldo Fleming;Rua Valdomiro Lopes
+69918862;AC;Rio Branco;Geraldo Fleming;Rua Manaus
+69918864;AC;Rio Branco;Geraldo Fleming;Rua Conquista
+69918866;AC;Rio Branco;Geraldo Fleming;Travessa Paraíba
+69918868;AC;Rio Branco;Geraldo Fleming;Rua Acimar Leitão
+69918870;AC;Rio Branco;Geraldo Fleming;Rua Belo Jardim
+69918880;AC;Rio Branco;Residencial Iolanda;Rua Manaus
+69918882;AC;Rio Branco;Residencial Iolanda;Rua Dourado
+69918884;AC;Rio Branco;Residencial Iolanda;Rua Tâmisa
+69918886;AC;Rio Branco;Residencial Iolanda;Rua Maracanã
+69918888;AC;Rio Branco;Residencial Iolanda;Travessa da Conquista
+69918890;AC;Rio Branco;Residencial Iolanda;Rua Eufrates
+69918892;AC;Rio Branco;Residencial Iolanda;Rua Mississipe
+69918894;AC;Rio Branco;Residencial Iolanda;Rua Vila Vintém
+69918896;AC;Rio Branco;Residencial Iolanda;Rua Nossa Senhora Aparecida
+69919000;AC;Rio Branco;Loteamento Isaura Parente;Rua Cícero Leão de Paiva
+69919003;AC;Rio Branco;Loteamento Isaura Parente;Rua Jaguaribe
+69919006;AC;Rio Branco;Loteamento Isaura Parente;Rua Nossa Senhora Aparecida
+69919009;AC;Rio Branco;Loteamento Isaura Parente;Rua Tutóia do Maranhão
+69919012;AC;Rio Branco;Loteamento Isaura Parente;Rua Santa Fé
+69919015;AC;Rio Branco;Loteamento Isaura Parente;Rua Isaura Parente
+69919018;AC;Rio Branco;Loteamento Isaura Parente;Rua Manaus
+69919050;AC;Rio Branco;Loteamento dos Engenheiros;Rua Isaura Parente
+69919053;AC;Rio Branco;Loteamento dos Engenheiros;Rua dos Engenheiros
+69919056;AC;Rio Branco;Loteamento dos Engenheiros;Rua dos Engenheiros ll
+69919060;AC;Rio Branco;Parque das Palmeiras;Rua Vista Alegre
+69919063;AC;Rio Branco;Parque das Palmeiras;Rua dos Médicos
+69919066;AC;Rio Branco;Parque das Palmeiras;Rua Coral
+69919069;AC;Rio Branco;Parque das Palmeiras;Rua Recreio
+69919072;AC;Rio Branco;Parque das Palmeiras;Rua Palmeirinha
+69919075;AC;Rio Branco;Parque das Palmeiras;Rua Tigre
+69919078;AC;Rio Branco;Parque das Palmeiras;Rua Palotina
+69919081;AC;Rio Branco;Parque das Palmeiras;Rua do Parque
+69919120;AC;Rio Branco;Conjunto Paulo César de Oliveira;Rua Boa Vista
+69919122;AC;Rio Branco;Conjunto Paulo César de Oliveira;Rua Vitória
+69919124;AC;Rio Branco;Conjunto Paulo César de Oliveira;Rua Geni Formiga
+69919126;AC;Rio Branco;Conjunto Paulo César de Oliveira;Rua dos Morenos
+69919128;AC;Rio Branco;Conjunto Paulo César de Oliveira;Rua Jaqueline
+69919130;AC;Rio Branco;Conjunto Paulo César de Oliveira;Rua do Bosque
+69919132;AC;Rio Branco;Conjunto Paulo César de Oliveira;Rua Isaura Parente
+69919140;AC;Rio Branco;Residencial Petrópolis;Nova Avenida Ceará
+69919143;AC;Rio Branco;Residencial Petrópolis;Rua da Felicidade
+69919180;AC;Rio Branco;Conjunto Mariana;Nova Avenida Ceará
+69919182;AC;Rio Branco;Conjunto Mariana;Avenida Recanto Verde
+69919184;AC;Rio Branco;Conjunto Mariana;Rua Felicidade
+69919186;AC;Rio Branco;Conjunto Mariana;Rua Paraíso
+69919188;AC;Rio Branco;Conjunto Mariana;Travessa Macauã
+69919190;AC;Rio Branco;Conjunto Mariana;Rua Vitória
+69919192;AC;Rio Branco;Conjunto Mariana;Travessa Brunei
+69919194;AC;Rio Branco;Conjunto Mariana;Rua Boa Vista
+69919196;AC;Rio Branco;Conjunto Mariana;Rua Alegria
+69919198;AC;Rio Branco;Conjunto Mariana;Rua Bom Retiro
+69919200;AC;Rio Branco;Conjunto Mariana;Rua da Liberdade
+69919202;AC;Rio Branco;Conjunto Mariana;Estrada Alberto Torres
+69919204;AC;Rio Branco;Conjunto Mariana;Travessa João Evangelista
+69919230;AC;Rio Branco;Paz;Estrada Alberto Torres
+69919232;AC;Rio Branco;Paz;Travessa Banho de Cheiro
+69919234;AC;Rio Branco;Paz;Travessa Anápolis
+69919236;AC;Rio Branco;Paz;Travessa da Lagoa
+69919238;AC;Rio Branco;Paz;Travessa Natal
+69919240;AC;Rio Branco;Paz;Travessa Ano Novo
+69919242;AC;Rio Branco;Paz;Rua Campinas
+69919244;AC;Rio Branco;Paz;Travessa Jaciara
+69919246;AC;Rio Branco;Paz;Travessa Sabiá
+69919248;AC;Rio Branco;Paz;Travessa Jarú
+69919250;AC;Rio Branco;Paz;Travessa Santa Clara
+69919252;AC;Rio Branco;Paz;Travessa Catanduva
+69919254;AC;Rio Branco;Paz;Rua Valdomiro Lopes
+69919256;AC;Rio Branco;Paz;Rua Valdomiro Lopes
+69919258;AC;Rio Branco;Paz;Travessa Rodrigues
+69919260;AC;Rio Branco;Paz;Rua Padre Cícero
+69919262;AC;Rio Branco;Paz;Travessa São Cristóvão
+69919264;AC;Rio Branco;Paz;Rua Botafogo
+69919266;AC;Rio Branco;Paz;Travessa Valério
+69919268;AC;Rio Branco;Paz;Travessa Mâncio Lima
+69919270;AC;Rio Branco;Paz;Travessa Felicidade
+69919272;AC;Rio Branco;Paz;Travessa Raimundo Neves
+69919274;AC;Rio Branco;Paz;Travessa da Paz
+69919276;AC;Rio Branco;Paz;Travessa Anápolis 1
+69919278;AC;Rio Branco;Paz;Beco Anápolis
+69919280;AC;Rio Branco;Paz;Beco Anápolis 2
+69919330;AC;Rio Branco;Loteamento Joafra;Rua Plácido de Castro
+69919332;AC;Rio Branco;Loteamento Joafra;Rua Projetada 900
+69919334;AC;Rio Branco;Loteamento Joafra;Rua Nanain
+69919336;AC;Rio Branco;Loteamento Joafra;Rua Projetada 540
+69919338;AC;Rio Branco;Loteamento Joafra;Rua Platano
+69919340;AC;Rio Branco;Loteamento Joafra;Rua Aliança com Cristo
+69919342;AC;Rio Branco;Loteamento Joafra;Rua Acácio
+69919344;AC;Rio Branco;Loteamento Joafra;Rua Imbúia
+69919346;AC;Rio Branco;Loteamento Joafra;Rua Edmundo Pinto
+69919348;AC;Rio Branco;Loteamento Joafra;Rua Projetada 12
+69919350;AC;Rio Branco;Loteamento Joafra;Rua Projetada 901
+69919352;AC;Rio Branco;Loteamento Joafra;Rua Projetada 891
+69919354;AC;Rio Branco;Loteamento Joafra;Rua Projetada 857
+69919356;AC;Rio Branco;Loteamento Joafra;Rua Projetada 898
+69919358;AC;Rio Branco;Loteamento Joafra;Rua Projetada 897
+69919360;AC;Rio Branco;Loteamento Joafra;Rua Projetada 896
+69919362;AC;Rio Branco;Loteamento Joafra;Rua Projetada 858
+69919364;AC;Rio Branco;Loteamento Joafra;Rua Projetada 856
+69919366;AC;Rio Branco;Loteamento Joafra;Rua Projetada 887
+69919368;AC;Rio Branco;Loteamento Joafra;Rua Projetada 892
+69919370;AC;Rio Branco;Loteamento Joafra;Rua Projetada 991
+69919372;AC;Rio Branco;Loteamento Joafra;Rua Projetada 890
+69919374;AC;Rio Branco;Loteamento Joafra;Rua Projetada 889
+69919376;AC;Rio Branco;Loteamento Joafra;Rua Projetada 888
+69919378;AC;Rio Branco;Loteamento Joafra;Rua Belo Jardim
+69919380;AC;Rio Branco;Loteamento Joafra;Rua Eldorado
+69919382;AC;Rio Branco;Loteamento Joafra;Rua Cidade Nova
+69919384;AC;Rio Branco;Loteamento Joafra;Rua Nova Aliança
+69919386;AC;Rio Branco;Loteamento Joafra;Rua Belo Horizonte
+69919388;AC;Rio Branco;Loteamento Joafra;Rua Elise
+69919390;AC;Rio Branco;Loteamento Joafra;Rua da Paz
+69919392;AC;Rio Branco;Loteamento Joafra;Rua da Amizade
+69919394;AC;Rio Branco;Loteamento Joafra;Rua Projetada 25
+69919396;AC;Rio Branco;Loteamento Joafra;Rua Projetada 17
+69919398;AC;Rio Branco;Loteamento Joafra;Rua Projetada 19
+69919400;AC;Rio Branco;Loteamento Joafra;Rua Cedro
+69919402;AC;Rio Branco;Loteamento Joafra;Rua Porto Velho
+69919404;AC;Rio Branco;Loteamento Joafra;Rua Marte
+69919406;AC;Rio Branco;Loteamento Joafra;Rua Girassol
+69919408;AC;Rio Branco;Loteamento Joafra;Rua Manaus
+69919410;AC;Rio Branco;Loteamento Joafra;Travessa Dourado
+69919412;AC;Rio Branco;Loteamento Joafra;Rua da Alegria
+69919500;AC;Rio Branco;Jardim Brasil;Rua Governador Edmundo Pinto
+69919502;AC;Rio Branco;Jardim Brasil;Rua Tancredo Neves
+69919504;AC;Rio Branco;Jardim Brasil;Rua Francisco Marcos
+69919506;AC;Rio Branco;Jardim Brasil;Rua Alexandre
+69919508;AC;Rio Branco;Jardim Brasil;Rua Edmundo Pinto
+69919510;AC;Rio Branco;Jardim Brasil;Rua Osvaldo Dilson
+69919512;AC;Rio Branco;Jardim Brasil;Travessa Osvaldo Dilson
+69919600;AC;Rio Branco;Jardim Primavera;Nova Avenida Ceará
+69919602;AC;Rio Branco;Jardim Primavera;Rua das Rosas
+69919604;AC;Rio Branco;Jardim Primavera;Rua das Papoulas
+69919606;AC;Rio Branco;Jardim Primavera;Rua Hortências
+69919608;AC;Rio Branco;Jardim Primavera;Rua das Assucenas
+69919610;AC;Rio Branco;Jardim Primavera;Rua Cravos
+69919612;AC;Rio Branco;Jardim Primavera;Rua Azaléia
+69919614;AC;Rio Branco;Jardim Primavera;Rua Girassol
+69919616;AC;Rio Branco;Jardim Primavera;Rua Bouganville
+69919618;AC;Rio Branco;Jardim Primavera;Rua Primavera
+69919620;AC;Rio Branco;Jardim Primavera;Rua Samambaia
+69919622;AC;Rio Branco;Jardim Primavera;Rua Ametista
+69919624;AC;Rio Branco;Jardim Primavera;Rua Violetas
+69919626;AC;Rio Branco;Jardim Primavera;Beco das Rosas
+69919628;AC;Rio Branco;Jardim Primavera;Rua Tulipas
+69919630;AC;Rio Branco;Jardim Primavera;Rua Orquídeas
+69919632;AC;Rio Branco;Jardim Primavera;Rua Margaridas
+69919634;AC;Rio Branco;Jardim Primavera;Rua das Adálias
+69919636;AC;Rio Branco;Jardim Primavera;Rua Jasmim
+69919638;AC;Rio Branco;Jardim Primavera;Rua das Violetas
+69919640;AC;Rio Branco;Jardim Primavera;Rua dos Ibiscos
+69919670;AC;Rio Branco;Conjunto Tucumã;Rodovia BR364
+69919673;AC;Rio Branco;Conjunto Tucumã;Avenida Oeste
+69919676;AC;Rio Branco;Conjunto Tucumã;Avenida Sul
+69919679;AC;Rio Branco;Conjunto Tucumã;Travessa Ametista
+69919682;AC;Rio Branco;Conjunto Tucumã;Rua S6
+69919685;AC;Rio Branco;Conjunto Tucumã;Rua C
+69919688;AC;Rio Branco;Conjunto Tucumã;Rua S5
+69919691;AC;Rio Branco;Conjunto Tucumã;Rua S4
+69919694;AC;Rio Branco;Conjunto Tucumã;Rua B
+69919697;AC;Rio Branco;Conjunto Tucumã;Rua S3
+69919700;AC;Rio Branco;Conjunto Tucumã;Rua A
+69919703;AC;Rio Branco;Conjunto Tucumã;Rua S2
+69919706;AC;Rio Branco;Conjunto Tucumã;Rua S1
+69919709;AC;Rio Branco;Conjunto Tucumã;Rua W2A
+69919712;AC;Rio Branco;Conjunto Tucumã;Avenida Central
+69919715;AC;Rio Branco;Conjunto Tucumã;Rua W2
+69919718;AC;Rio Branco;Conjunto Tucumã;Rua W4
+69919721;AC;Rio Branco;Conjunto Tucumã;Rua W6
+69919724;AC;Rio Branco;Conjunto Tucumã;Rua W8
+69919727;AC;Rio Branco;Conjunto Tucumã;Rua W10
+69919730;AC;Rio Branco;Conjunto Tucumã;Rua W12
+69919733;AC;Rio Branco;Conjunto Tucumã;Avenida Mônaco
+69919736;AC;Rio Branco;Conjunto Tucumã;Avenida Sudoeste
+69919739;AC;Rio Branco;Conjunto Tucumã;Avenida Nordeste
+69919742;AC;Rio Branco;Conjunto Tucumã;Rua W11
+69919745;AC;Rio Branco;Conjunto Tucumã;Rua Ocidente
+69919748;AC;Rio Branco;Conjunto Tucumã;Rua Malta
+69919751;AC;Rio Branco;Conjunto Tucumã;Rua W10A
+69919754;AC;Rio Branco;Conjunto Tucumã;Rua W9
+69919757;AC;Rio Branco;Conjunto Tucumã;Rua W16
+69919760;AC;Rio Branco;Conjunto Tucumã;Rua W7
+69919766;AC;Rio Branco;Conjunto Tucumã;Rua W5
+69919769;AC;Rio Branco;Conjunto Tucumã;Rua W3
+69919772;AC;Rio Branco;Conjunto Tucumã;Rua W13
+69919775;AC;Rio Branco;Conjunto Tucumã;Rua W1
+69919778;AC;Rio Branco;Conjunto Tucumã;Avenida Nordeste
+69919781;AC;Rio Branco;Conjunto Tucumã;Avenida Central ll
+69919784;AC;Rio Branco;Conjunto Tucumã;Avenida Norte
+69919787;AC;Rio Branco;Conjunto Tucumã;Rua N7
+69919790;AC;Rio Branco;Conjunto Tucumã;Avenida W67
+69919793;AC;Rio Branco;Conjunto Tucumã;Rua N6
+69919796;AC;Rio Branco;Conjunto Tucumã;Rua N37
+69919797;AC;Rio Branco;Conjunto Tucumã;Rua W37
+69919799;AC;Rio Branco;Conjunto Tucumã;Rua N5
+69919802;AC;Rio Branco;Conjunto Tucumã;Rua W46
+69919805;AC;Rio Branco;Conjunto Tucumã;Rua N4
+69919808;AC;Rio Branco;Conjunto Tucumã;Rua W24
+69919811;AC;Rio Branco;Conjunto Tucumã;Rua N3
+69919814;AC;Rio Branco;Conjunto Tucumã;Rua N13
+69919817;AC;Rio Branco;Conjunto Tucumã;Rua N2
+69919820;AC;Rio Branco;Conjunto Tucumã;Rua N1
+69919823;AC;Rio Branco;Conjunto Tucumã;Rua Via Arterial Rui Lino
+69919830;AC;Rio Branco;Conjunto Rui Lino;Rua Padre Paulino
+69919832;AC;Rio Branco;Conjunto Rui Lino;Rua L
+69919834;AC;Rio Branco;Conjunto Rui Lino;Rua India Porã
+69919836;AC;Rio Branco;Conjunto Rui Lino;Rua Mirassol
+69919838;AC;Rio Branco;Conjunto Rui Lino;Rua Fernandópolis
+69919840;AC;Rio Branco;Conjunto Rui Lino;Rua Guarani
+69919842;AC;Rio Branco;Conjunto Rui Lino;Travessa Francisco Aguiar
+69919844;AC;Rio Branco;Conjunto Rui Lino;Rua Estrela
+69919846;AC;Rio Branco;Conjunto Rui Lino;Travessa Mogno
+69919848;AC;Rio Branco;Conjunto Rui Lino;Rua Francisco Montilha
+69919850;AC;Rio Branco;Conjunto Rui Lino;Avenida Governador Edmundo Pinto
+69919852;AC;Rio Branco;Conjunto Rui Lino;Rua Brasilândia
+69919854;AC;Rio Branco;Conjunto Rui Lino;Rua Projetada 250
+69919856;AC;Rio Branco;Conjunto Rui Lino;Rua São Damião
+69919858;AC;Rio Branco;Conjunto Rui Lino;Rua São Cosmo
+69919860;AC;Rio Branco;Conjunto Rui Lino;Rua Santa Edvirges
+69919862;AC;Rio Branco;Conjunto Rui Lino;Rua Amoty Pascoal
+69919864;AC;Rio Branco;Conjunto Rui Lino;Rua Projetada 21
+69919866;AC;Rio Branco;Conjunto Rui Lino;Rua Projetada 22
+69919868;AC;Rio Branco;Conjunto Rui Lino;Rua Projetada 18
+69919870;AC;Rio Branco;Conjunto Rui Lino;Rua Projetada 23
+69919872;AC;Rio Branco;Conjunto Rui Lino;Rua Projetada 20
+69920020;AC;Rio Branco;Mocinha Magalhães;Rua Melancia
+69920022;AC;Rio Branco;Mocinha Magalhães;Rua Francisco Rafael
+69920024;AC;Rio Branco;Mocinha Magalhães;Travessa Belo Jardim
+69920026;AC;Rio Branco;Mocinha Magalhães;Beco Viveiro da Amazônia
+69920028;AC;Rio Branco;Mocinha Magalhães;Rua São Francisco
+69920030;AC;Rio Branco;Mocinha Magalhães;Rua do Côco
+69920032;AC;Rio Branco;Mocinha Magalhães;Beco do Manoel
+69920034;AC;Rio Branco;Mocinha Magalhães;Rua da Laranja
+69920036;AC;Rio Branco;Mocinha Magalhães;Rua da Pitanga
+69920038;AC;Rio Branco;Mocinha Magalhães;Travessa Limão
+69920040;AC;Rio Branco;Mocinha Magalhães;Beco do Açaí
+69920042;AC;Rio Branco;Mocinha Magalhães;Beco da Pitanga
+69920044;AC;Rio Branco;Mocinha Magalhães;Rua Maçã
+69920046;AC;Rio Branco;Mocinha Magalhães;Rua do Tucumã
+69920048;AC;Rio Branco;Mocinha Magalhães;Rua do Limão
+69920050;AC;Rio Branco;Mocinha Magalhães;Beco do Alencar
+69920052;AC;Rio Branco;Mocinha Magalhães;Travessa da Banana
+69920054;AC;Rio Branco;Mocinha Magalhães;Beco do Cajú
+69920056;AC;Rio Branco;Mocinha Magalhães;Beco do Limão
+69920058;AC;Rio Branco;Mocinha Magalhães;Rua da Banana
+69920060;AC;Rio Branco;Mocinha Magalhães;Travessa Graviola
+69920062;AC;Rio Branco;Mocinha Magalhães;Rua do Cajú
+69920064;AC;Rio Branco;Mocinha Magalhães;Travessa Cajarana
+69920066;AC;Rio Branco;Mocinha Magalhães;Rua Melancia
+69920068;AC;Rio Branco;Mocinha Magalhães;Rua Mamão
+69920070;AC;Rio Branco;Mocinha Magalhães;Rua Ingá
+69920072;AC;Rio Branco;Mocinha Magalhães;Beco da Ingá
+69920074;AC;Rio Branco;Mocinha Magalhães;Beco do Deracre
+69920076;AC;Rio Branco;Mocinha Magalhães;Rua da Laranja
+69920078;AC;Rio Branco;Mocinha Magalhães;Travessa Cupuaçu
+69920080;AC;Rio Branco;Mocinha Magalhães;Rua Maracujá
+69920082;AC;Rio Branco;Mocinha Magalhães;Rua do Cajú
+69920084;AC;Rio Branco;Mocinha Magalhães;Travessa da Melancia
+69920086;AC;Rio Branco;Mocinha Magalhães;Beco do Maracujá
+69920088;AC;Rio Branco;Mocinha Magalhães;Rua Carambola
+69920090;AC;Rio Branco;Mocinha Magalhães;Rua Manga
+69920092;AC;Rio Branco;Mocinha Magalhães;Beco da Laranja
+69920160;AC;Rio Branco;Distrito Industrial;Rua Major Jenor
+69920163;AC;Rio Branco;Distrito Industrial;Travessa Lisboa
+69920166;AC;Rio Branco;Distrito Industrial;Rua Edmundo Pinto
+69920169;AC;Rio Branco;Distrito Industrial;Travessa Catalúnia
+69920172;AC;Rio Branco;Distrito Industrial;Rua Major Gesner
+69920175;AC;Rio Branco;Distrito Industrial;Rua das Acácias
+69920178;AC;Rio Branco;Distrito Industrial;Travessa São José
+69920181;AC;Rio Branco;Distrito Industrial;Rua São Marcos
+69920184;AC;Rio Branco;Distrito Industrial;Travessa Isaac Benchimol
+69920187;AC;Rio Branco;Distrito Industrial;Travessa Café
+69920190;AC;Rio Branco;Distrito Industrial;Travessa do Café
+69920193;AC;Rio Branco;Distrito Industrial;Rodovia BR364
+69920196;AC;Rio Branco;Distrito Industrial;Travessa Dias Martins
+69920199;AC;Rio Branco;Distrito Industrial;Travessa do Canal
+69920202;AC;Rio Branco;Distrito Industrial;Rua das Acácias
+69920205;AC;Rio Branco;Distrito Industrial;Rua 12
+69920208;AC;Rio Branco;Distrito Industrial;Rua Cerâmica
+69920211;AC;Rio Branco;Distrito Industrial;Rua 13
+69920214;AC;Rio Branco;Distrito Industrial;Rua Ademar Ferreira
+69920217;AC;Rio Branco;Distrito Industrial;Rua São José
+69920220;AC;Rio Branco;Distrito Industrial;Travessa das Acácias
+69920223;AC;Rio Branco;Distrito Industrial;Rodovia BR364
+69920310;AC;Rio Branco;Loteamento Vila Maria;Rodovia BR364
+69920313;AC;Rio Branco;Loteamento Vila Maria;Avenida C
+69920316;AC;Rio Branco;Loteamento Vila Maria;Avenida B
+69920319;AC;Rio Branco;Loteamento Vila Maria;Rua Gabrielly
+69920322;AC;Rio Branco;Loteamento Vila Maria;Rua B
+69920325;AC;Rio Branco;Loteamento Vila Maria;Avenida E
+69920328;AC;Rio Branco;Loteamento Vila Maria;Rua da Michele
+69921001;AC;Rio Branco;Raimundo Melo;Rua 11
+69921002;AC;Rio Branco;Raimundo Melo;Rua 25 de Dezembro
+69921004;AC;Rio Branco;Raimundo Melo;Rua da Paz
+69921006;AC;Rio Branco;Raimundo Melo;Rua Doutor Mário Maia
+69921008;AC;Rio Branco;Raimundo Melo;Rua Professor Ribamar
+69921010;AC;Rio Branco;Raimundo Melo;Rua João Maurício da Cunha
+69921012;AC;Rio Branco;Raimundo Melo;Avenida Getúlio Vargas
+69921014;AC;Rio Branco;Raimundo Melo;Rua José de Melo
+69921016;AC;Rio Branco;Raimundo Melo;Rua Pantanal
+69921018;AC;Rio Branco;Raimundo Melo;Avenida Getúlio Vargas
+69921020;AC;Rio Branco;Raimundo Melo;Rua São Francisco
+69921022;AC;Rio Branco;Raimundo Melo;Rua Francisco Bezerra
+69921024;AC;Rio Branco;Raimundo Melo;Rua Alvorada
+69921026;AC;Rio Branco;Raimundo Melo;Rua Princesa Isabel
+69921028;AC;Rio Branco;Raimundo Melo;Travessa Manoel Julião
+69921030;AC;Rio Branco;Raimundo Melo;Avenida Juscelino Kubitschek
+69921032;AC;Rio Branco;Raimundo Melo;Rua Terra
+69921034;AC;Rio Branco;Raimundo Melo;Rua Edmundo Pinto
+69921036;AC;Rio Branco;Raimundo Melo;Avenida São Pedro
+69921038;AC;Rio Branco;Raimundo Melo;Rua 7 de Setembro
+69921070;AC;Rio Branco;Vila Nova;Avenida Antônio da Rocha Viana
+69921072;AC;Rio Branco;Vila Nova;Rua José Bispo
+69921074;AC;Rio Branco;Vila Nova;Rua Adam Smith
+69921076;AC;Rio Branco;Vila Nova;Rua Raul Pompéia
+69921078;AC;Rio Branco;Vila Nova;Rua Santa Maria
+69921080;AC;Rio Branco;Vila Nova;Rua Otávio Braga
+69921082;AC;Rio Branco;Vila Nova;Rua 12 de Abril
+69921084;AC;Rio Branco;Vila Nova;Avenida Antônio da Rocha Viana
+69921086;AC;Rio Branco;Vila Nova;Rua do Manoelito
+69921088;AC;Rio Branco;Vila Nova;Travessa da Zeli
+69921090;AC;Rio Branco;Vila Nova;Rua da Zeli
+69921092;AC;Rio Branco;Vila Nova;Rua do Centro
+69921094;AC;Rio Branco;Vila Nova;Rua Copaíba
+69921110;AC;Rio Branco;Loteamento Novo Horizonte;Rua Mogno
+69921112;AC;Rio Branco;Loteamento Novo Horizonte;Rua Bálsamo
+69921114;AC;Rio Branco;Loteamento Novo Horizonte;Rua Guariúba
+69921116;AC;Rio Branco;Loteamento Novo Horizonte;Rua Jacarandá
+69921118;AC;Rio Branco;Loteamento Novo Horizonte;Rua Jatobá
+69921120;AC;Rio Branco;Loteamento Novo Horizonte;Rua Cedro
+69921122;AC;Rio Branco;Loteamento Novo Horizonte;Avenida Cerejeira
+69921124;AC;Rio Branco;Loteamento Novo Horizonte;Rua Aroeira
+69921126;AC;Rio Branco;Loteamento Novo Horizonte;Rua Angelim
+69921128;AC;Rio Branco;Loteamento Novo Horizonte;Rua Itaúba
+69921130;AC;Rio Branco;Loteamento Novo Horizonte;Rua Quariquara
+69921132;AC;Rio Branco;Loteamento Novo Horizonte;Rua Castanheira
+69921134;AC;Rio Branco;Loteamento Novo Horizonte;Estrada Custódio Freire
+69921136;AC;Rio Branco;Loteamento Novo Horizonte;Rua Sucupira
+69921150;AC;Rio Branco;Conjunto Adalberto Sena;Rua Mara
+69921152;AC;Rio Branco;Conjunto Adalberto Sena;Rua Jaçanã
+69921154;AC;Rio Branco;Conjunto Adalberto Sena;Rua Gaivota
+69921156;AC;Rio Branco;Conjunto Adalberto Sena;Rua Bem-te-vi
+69921158;AC;Rio Branco;Conjunto Adalberto Sena;Rua João Costa
+69921160;AC;Rio Branco;Conjunto Adalberto Sena;Rua Sabiá
+69921162;AC;Rio Branco;Conjunto Adalberto Sena;Rua João Nascimento
+69921164;AC;Rio Branco;Conjunto Adalberto Sena;Rua Uirapuru
+69921166;AC;Rio Branco;Conjunto Adalberto Sena;Rua Buriti
+69921168;AC;Rio Branco;Conjunto Adalberto Sena;Rua Limoeiro
+69921170;AC;Rio Branco;Conjunto Adalberto Sena;Rua do Coqueiro
+69921172;AC;Rio Branco;Conjunto Adalberto Sena;Rua Laranjeira
+69921174;AC;Rio Branco;Conjunto Adalberto Sena;Rua Castanheira
+69921176;AC;Rio Branco;Conjunto Adalberto Sena;Travessa Jambú
+69921178;AC;Rio Branco;Conjunto Adalberto Sena;Rua Beija-flor
+69921180;AC;Rio Branco;Conjunto Adalberto Sena;Rua Japim
+69921182;AC;Rio Branco;Conjunto Adalberto Sena;Travessa Araçá
+69921184;AC;Rio Branco;Conjunto Adalberto Sena;Travessa Glicério Gomes
+69921186;AC;Rio Branco;Conjunto Adalberto Sena;Rua Padre Casa Vecchia
+69921188;AC;Rio Branco;Conjunto Adalberto Sena;Rua Mamoeiro
+69921190;AC;Rio Branco;Conjunto Adalberto Sena;Rua Orquídeas
+69921192;AC;Rio Branco;Conjunto Adalberto Sena;Rua Cajueiro
+69921194;AC;Rio Branco;Conjunto Adalberto Sena;Rua Mangueira
+69921196;AC;Rio Branco;Conjunto Adalberto Sena;Rua Bananeira
+69921198;AC;Rio Branco;Conjunto Adalberto Sena;Rua Gavião
+69921230;AC;Rio Branco;Alto Alegre;Rodovia AC10
+69921232;AC;Rio Branco;Alto Alegre;Rua Padre Eustáquio
+69921234;AC;Rio Branco;Alto Alegre;Rua Marte
+69921236;AC;Rio Branco;Alto Alegre;Rua 2 de Abril
+69921238;AC;Rio Branco;Alto Alegre;Rua Flamengo
+69921240;AC;Rio Branco;Alto Alegre;Rua 1º de Março
+69921242;AC;Rio Branco;Alto Alegre;Rua Projetada 1204
+69921244;AC;Rio Branco;Alto Alegre;Rua 19 de Novembro
+69921246;AC;Rio Branco;Alto Alegre;Rua Itumbiara
+69921248;AC;Rio Branco;Alto Alegre;Estrada Juarez Távora
+69921270;AC;Rio Branco;Alto Alegre;Estrada Juarez Távora
+69921272;AC;Rio Branco;Alto Alegre;Travessa São Pedro
+69921274;AC;Rio Branco;Alto Alegre;Travessa Paraíba
+69921276;AC;Rio Branco;Alto Alegre;Rua Baixa Verde
+69921278;AC;Rio Branco;Alto Alegre;Travessa Santarém
+69921280;AC;Rio Branco;Alto Alegre;Travessa do Beijo
+69921282;AC;Rio Branco;Alto Alegre;Rodovia AC10
+69921284;AC;Rio Branco;Alto Alegre;Rua do Brejo
+69921286;AC;Rio Branco;Alto Alegre;Rua Maria do Socorro
+69921288;AC;Rio Branco;Alto Alegre;Rua Maceió
+69921290;AC;Rio Branco;Alto Alegre;Travessa 3 de Julho
+69921292;AC;Rio Branco;Alto Alegre;Rua Paulistana
+69921294;AC;Rio Branco;Alto Alegre;Beco Bacural
+69921296;AC;Rio Branco;Alto Alegre;Travessa Cerâmica
+69921298;AC;Rio Branco;Alto Alegre;Travessa 3 de Junho
+69921300;AC;Rio Branco;Alto Alegre;Travessa Jaciara
+69921302;AC;Rio Branco;Alto Alegre;Rua 7 de Setembro
+69921380;AC;Rio Branco;Montanhês;Rua Raimundo Farias
+69921383;AC;Rio Branco;Montanhês;Travessa Mercúrio
+69921386;AC;Rio Branco;Montanhês;Travessa Rei Pelé
+69921389;AC;Rio Branco;Montanhês;Rua São Paulo
+69921392;AC;Rio Branco;Montanhês;Rua da Uva
+69921395;AC;Rio Branco;Montanhês;Rua São Francisco
+69921398;AC;Rio Branco;Montanhês;Rua Projetada 761
+69921401;AC;Rio Branco;Montanhês;Travessa Paraíba
+69921404;AC;Rio Branco;Montanhês;Travessa Jacaré Canga
+69921407;AC;Rio Branco;Montanhês;Travessa Cacau
+69921410;AC;Rio Branco;Montanhês;Travessa Pêra
+69921413;AC;Rio Branco;Montanhês;Rua da Carambola
+69921416;AC;Rio Branco;Montanhês;Travessa Jasmim
+69921419;AC;Rio Branco;Montanhês;Travessa 3 Meninas
+69921422;AC;Rio Branco;Montanhês;Travessa Botafogo
+69921425;AC;Rio Branco;Montanhês;Travessa Brasil
+69921428;AC;Rio Branco;Montanhês;Travessa Princesinha
+69921431;AC;Rio Branco;Montanhês;Travessa Melancia
+69921434;AC;Rio Branco;Montanhês;Avenida Jorge Amado
+69921437;AC;Rio Branco;Montanhês;Avenida Flaviano Melo
+69921440;AC;Rio Branco;Montanhês;Avenida Flaviano Melo
+69921443;AC;Rio Branco;Montanhês;Avenida da Fazenda
+69921446;AC;Rio Branco;Montanhês;Rua da Paz
+69921449;AC;Rio Branco;Montanhês;Rua da Amizade
+69921452;AC;Rio Branco;Montanhês;Rua Bom Jesus
+69921455;AC;Rio Branco;Montanhês;Rua Flamengo
+69921458;AC;Rio Branco;Montanhês;Rua Manaus
+69921461;AC;Rio Branco;Montanhês;Rua da Imbaúba
+69921464;AC;Rio Branco;Montanhês;Rua Raimundo Melo
+69921467;AC;Rio Branco;Montanhês;Travessa da Reserva
+69921470;AC;Rio Branco;Montanhês;Rua da Reserva
+69921473;AC;Rio Branco;Montanhês;Travessa Benjamim
+69921476;AC;Rio Branco;Montanhês;Rua Poder Pentecostal
+69921479;AC;Rio Branco;Montanhês;Travessa Acre
+69921482;AC;Rio Branco;Montanhês;Rua Projetada 769
+69921485;AC;Rio Branco;Montanhês;Rua Tropical
+69921488;AC;Rio Branco;Montanhês;Rua Princesa Isabel
+69921491;AC;Rio Branco;Montanhês;Travessa da Alegria
+69921494;AC;Rio Branco;Montanhês;Travessa Rio Branco
+69921497;AC;Rio Branco;Montanhês;Travessa Piauí
+69921500;AC;Rio Branco;Montanhês;Travessa Antares
+69921503;AC;Rio Branco;Montanhês;Travessa União
+69921506;AC;Rio Branco;Montanhês;Travessa Dourado
+69921509;AC;Rio Branco;Montanhês;Travessa Marte
+69921512;AC;Rio Branco;Montanhês;Rua Projetada 995
+69921515;AC;Rio Branco;Montanhês;Travessa dos Diretores
+69921518;AC;Rio Branco;Montanhês;Rua Pôr-do-sol
+69921521;AC;Rio Branco;Montanhês;Travessa Tambuatá
+69921524;AC;Rio Branco;Montanhês;Rua 21
+69921527;AC;Rio Branco;Montanhês;Travessa Vasco da Gama
+69921530;AC;Rio Branco;Montanhês;Travessa do Cajueiro
+69921533;AC;Rio Branco;Montanhês;Rua 25 de Dezembro
+69921536;AC;Rio Branco;Montanhês;Rua Porto Velho
+69921539;AC;Rio Branco;Montanhês;Rua da Esperança
+69921542;AC;Rio Branco;Montanhês;Rua 32
+69921545;AC;Rio Branco;Montanhês;Rua Senador Mário Maia
+69921548;AC;Rio Branco;Montanhês;Rua Nassau
+69921551;AC;Rio Branco;Montanhês;Rua Antonio Pereira da Silva
+69921554;AC;Rio Branco;Montanhês;Travessa da Vitória
+69921557;AC;Rio Branco;Montanhês;Rua João Minas Coelho
+69921560;AC;Rio Branco;Montanhês;Rua Senador
+69921680;AC;Rio Branco;Tancredo Neves;Rua das Palmeiras
+69921683;AC;Rio Branco;Tancredo Neves;Rua Bandeirantes
+69921686;AC;Rio Branco;Tancredo Neves;Rua Anhandui
+69921689;AC;Rio Branco;Tancredo Neves;Rua Deodápolis
+69921692;AC;Rio Branco;Tancredo Neves;Rua Coxim
+69921695;AC;Rio Branco;Tancredo Neves;Rua Família
+69921698;AC;Rio Branco;Tancredo Neves;Rua Flamengo
+69921701;AC;Rio Branco;Tancredo Neves;Rua Beija-flor
+69921704;AC;Rio Branco;Tancredo Neves;Rua da Paz
+69921707;AC;Rio Branco;Tancredo Neves;Travessa Guanabara
+69921710;AC;Rio Branco;Tancredo Neves;Travessa da Abelha
+69921713;AC;Rio Branco;Tancredo Neves;Rua 25 de Dezembro
+69921716;AC;Rio Branco;Tancredo Neves;Rua Nossa Senhora Aparecida
+69921719;AC;Rio Branco;Tancredo Neves;Rua Plácido de Castro
+69921722;AC;Rio Branco;Tancredo Neves;Rua Rio Branco
+69921725;AC;Rio Branco;Tancredo Neves;Avenida Flaviano Melo
+69921728;AC;Rio Branco;Tancredo Neves;Rua São Francisco
+69921731;AC;Rio Branco;Tancredo Neves;Beco São Jorge
+69921734;AC;Rio Branco;Tancredo Neves;Rua da Olaria
+69921737;AC;Rio Branco;Tancredo Neves;Travessa Maracanã
+69921740;AC;Rio Branco;Tancredo Neves;Travessa Rei Pelé
+69921743;AC;Rio Branco;Tancredo Neves;Travessa Monte Alegre
+69921746;AC;Rio Branco;Tancredo Neves;Travessa 25 de dezembro
+69921749;AC;Rio Branco;Tancredo Neves;Rua Rio de Janeiro
+69921752;AC;Rio Branco;Tancredo Neves;Rua Luiz Moraes
+69921755;AC;Rio Branco;Tancredo Neves;Rua São Caetano
+69921758;AC;Rio Branco;Tancredo Neves;Rua 8 de Março
+69921761;AC;Rio Branco;Tancredo Neves;Rua Ayrton Senna
+69921764;AC;Rio Branco;Tancredo Neves;Rua Meire Alves da Silva
+69921767;AC;Rio Branco;Tancredo Neves;Travessa Ayrton Senna
+69921770;AC;Rio Branco;Tancredo Neves;Travessa Beija-flor
+69921773;AC;Rio Branco;Tancredo Neves;Travessa Vitória
+69921776;AC;Rio Branco;Tancredo Neves;Travessa Ceará
+69921779;AC;Rio Branco;Tancredo Neves;Travessa Fortaleza
+69921782;AC;Rio Branco;Tancredo Neves;Rua Dona Ideuzuite Alves
+69921785;AC;Rio Branco;Tancredo Neves;Rua São José
+69921788;AC;Rio Branco;Tancredo Neves;Rua São João
+69921791;AC;Rio Branco;Tancredo Neves;Travessa São Pedro
+69921794;AC;Rio Branco;Tancredo Neves;Avenida Flaviano Melo
+69921797;AC;Rio Branco;Tancredo Neves;Travessa da Silva
+69921800;AC;Rio Branco;Tancredo Neves;Rua 1º de Maio
+69921803;AC;Rio Branco;Tancredo Neves;Rua 12 de Junho
+69921806;AC;Rio Branco;Tancredo Neves;Rua 25 de Dezembro
+69921830;AC;Rio Branco;Defesa Civil;Rua Vasco da Gama
+69921833;AC;Rio Branco;Defesa Civil;Avenida Mário Maia
+69921836;AC;Rio Branco;Defesa Civil;Rua Corinthians
+69921839;AC;Rio Branco;Defesa Civil;Travessa Santos
+69921842;AC;Rio Branco;Defesa Civil;Rua Flamengo
+69921845;AC;Rio Branco;Defesa Civil;Travessa Palmeiras
+69921848;AC;Rio Branco;Defesa Civil;Rua Botafogo
+69921851;AC;Rio Branco;Defesa Civil;Rua Independência
+69921854;AC;Rio Branco;Defesa Civil;Rua Marcelino Champagnat
+69921857;AC;Rio Branco;Defesa Civil;Rua São Paulo
+69921860;AC;Rio Branco;Defesa Civil;Rua Juventus
+69921863;AC;Rio Branco;Defesa Civil;Rua Rio Branco
+69921866;AC;Rio Branco;Defesa Civil;Rua Brasil
+69921869;AC;Rio Branco;Defesa Civil;Rua Projetada 1011
+69921872;AC;Rio Branco;Defesa Civil;Rua Fluminense
+69922001;AC;Rio Branco;Jorge Lavocat;Rua Bandeirantes II
+69922002;AC;Rio Branco;Jorge Lavocat;Travessa Botaboram
+69922004;AC;Rio Branco;Jorge Lavocat;Rua Zaire
+69922006;AC;Rio Branco;Jorge Lavocat;Rua Aparecida do Taboada
+69922008;AC;Rio Branco;Jorge Lavocat;Rua João Antônio
+69922010;AC;Rio Branco;Jorge Lavocat;Rua Bela Vista
+69922012;AC;Rio Branco;Jorge Lavocat;Rua Bons Amigos
+69922014;AC;Rio Branco;Jorge Lavocat;Rua Eldorado
+69922016;AC;Rio Branco;Jorge Lavocat;Rua Xangai
+69922018;AC;Rio Branco;Jorge Lavocat;Rua Jerusalém II
+69922020;AC;Rio Branco;Jorge Lavocat;Rua Jorge Amado II
+69922022;AC;Rio Branco;Jorge Lavocat;Rua Vitória II
+69922024;AC;Rio Branco;Jorge Lavocat;Rua Xingu
+69922026;AC;Rio Branco;Jorge Lavocat;Rua Primavera
+69922028;AC;Rio Branco;Jorge Lavocat;Rua Savana
+69922030;AC;Rio Branco;Jorge Lavocat;Travessa da Paz
+69922032;AC;Rio Branco;Jorge Lavocat;Rua Botaguassú
+69922034;AC;Rio Branco;Jorge Lavocat;Rua São Jorge
+69922036;AC;Rio Branco;Jorge Lavocat;Rua Maracajá
+69922038;AC;Rio Branco;Jorge Lavocat;Avenida Caracas
+69922040;AC;Rio Branco;Jorge Lavocat;Rua Nioaque
+69922042;AC;Rio Branco;Jorge Lavocat;Rua Maria Mercedes
+69922044;AC;Rio Branco;Jorge Lavocat;Rua João Porfírio
+69922046;AC;Rio Branco;Jorge Lavocat;Rua 12 de Junho
+69922048;AC;Rio Branco;Jorge Lavocat;Rua Rio Branco
+69922050;AC;Rio Branco;Jorge Lavocat;Avenida Trípole
+69922052;AC;Rio Branco;Jorge Lavocat;Rua Fátima do Sul II
+69922054;AC;Rio Branco;Jorge Lavocat;Rua São José
+69922056;AC;Rio Branco;Jorge Lavocat;Rua Figueiredo
+69922058;AC;Rio Branco;Jorge Lavocat;Travessa Jaime de Lima
+69922060;AC;Rio Branco;Jorge Lavocat;Rua Nova Alvorada
+69922200;AC;Rio Branco;Irineu Serra;Estrada Custódio Freire
+69922203;AC;Rio Branco;Irineu Serra;Rua Projetada 1086
+69922206;AC;Rio Branco;Irineu Serra;Rua Projetada 1089
+69922209;AC;Rio Branco;Irineu Serra;Rua Projetada 1088
+69922212;AC;Rio Branco;Irineu Serra;Rua Projetada 1087
+69922215;AC;Rio Branco;Irineu Serra;Rua Projetada 1085
+69922218;AC;Rio Branco;Irineu Serra;Rua Projetada 1083
+69922221;AC;Rio Branco;Irineu Serra;Rua Projetada 1101
+69922224;AC;Rio Branco;Irineu Serra;Ramal Doutora Fátima
