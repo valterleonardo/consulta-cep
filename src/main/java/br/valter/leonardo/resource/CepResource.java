@@ -11,9 +11,8 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
+import br.valter.leonardo.resource.entities.Cidades;
 import br.valter.leonardo.resource.services.CepService;
-import br.valter.leonardo.resource.services.entities.Cep;
-import br.valter.leonardo.resource.services.entities.Cidades;
 
 @Path("/cep")
 @Produces(MediaType.APPLICATION_JSON)
@@ -31,13 +30,6 @@ public class CepResource {
     }
     
     @GET
-    @Path(value = "/estado/{uf}")
-    public Response search() {    	
-    	Cep cep = cepService.search(2L);
-    	return Response.ok(cep).build();
-    }
-    
-    @GET
     @Path(value = "/search/cidade/{estado}")
     public Response searchCidadePorEstado(@PathParam("estado") String estado) {
     	List<Cidades> cidades = cepService.searchCidadePorEstado(estado);
@@ -48,9 +40,11 @@ public class CepResource {
     }
     
     @GET
-    @Path(value = "/cadastrar/{estado}")
-    public Response cadastrar(@PathParam("estado") String estado) {
-    	cepService.rearranjarCeps(estado);
-        return Response.ok("SUCESSO: " + estado).build();
+    @Path(value = "/cadastrar")
+    public Response criarEstrutura() {
+    	cepService.criarEstrutura();
+        return Response.ok("SUCESSO").build();
     }
+    
+    
 }

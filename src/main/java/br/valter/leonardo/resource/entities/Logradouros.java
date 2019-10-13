@@ -1,4 +1,4 @@
-package br.valter.leonardo.resource.services.entities;
+package br.valter.leonardo.resource.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -14,10 +14,10 @@ public class Logradouros {
 	private String logradouro;
 	private Integer cidade;
 	private Integer bairro;
-	private String cep;
+	private Integer cep;
 	
 	public Logradouros() {}
-	public Logradouros(String logradouro, Integer cidade, Integer bairro, String cep) {
+	public Logradouros(String logradouro, Integer cidade, Integer bairro, Integer cep) {
 		super();
 		this.logradouro = logradouro;
 		this.cidade = cidade;
@@ -49,10 +49,10 @@ public class Logradouros {
 	public void setBairro(Integer bairro) {
 		this.bairro = bairro;
 	}
-	public String getCep() {
+	public Integer getCep() {
 		return cep;
 	}
-	public void setCep(String cep) {
+	public void setCep(Integer cep) {
 		this.cep = cep;
 	}
 }

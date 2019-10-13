@@ -1,4 +1,4 @@
-package br.valter.leonardo.resource.services.entities;
+package br.valter.leonardo.resource.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -9,7 +9,7 @@ import javax.persistence.Id;
 public class Estados {
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_estados")
+	@GeneratedValue(strategy = GenerationType.AUTO, generator = "seq_estados")
 	private Integer id;
 	private String uf;
 	
