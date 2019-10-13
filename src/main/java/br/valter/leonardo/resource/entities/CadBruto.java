@@ -1,4 +1,4 @@
-package br.valter.leonardo.resource.services.entities;
+package br.valter.leonardo.resource.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

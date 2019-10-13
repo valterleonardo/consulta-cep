@@ -1,4 +1,4 @@
-package br.valter.leonardo.resource.services.entities;
+package br.valter.leonardo.resource.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -14,7 +14,7 @@ import javax.persistence.QueryHint;
 public class Bairros {
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_bairros")
+	@GeneratedValue(strategy = GenerationType.AUTO, generator = "seq_bairros")
 	private Integer id;
 	private Integer cidade;
 	private String bairro;
